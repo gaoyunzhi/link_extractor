@@ -54,7 +54,7 @@ def valid(link, name, domain):
 	if 'thinkingtaiwan' in link:
 		return '/content/' in link
 	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
-		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries']):
+		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries', '/author/']):
 		return False
 	if not name:
 		return False
