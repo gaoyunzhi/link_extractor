@@ -1,15 +1,14 @@
 # link_extractor
 
-Generate international news in pdf. For people with limited access to internet.
+Extract Links from news source, ranked by importance.
 
 ## usage
 
 ```
 import link_extractor
-new_2_pdg.gen()
+link_extractor.getLinks(webpage, domain=domain)
 ```
 
 ## how to install
 
-`sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin` 
 `pip3 install link_extractor`
