@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="news_2_pdf",
-    version="0.0.21",
+    name="link_extractor",
+    version="0.0.1",
     author="Yunzhi Gao",
     author_email="gaoyunzhi@gmail.com",
-    description="Generate international news in pdf.",
+    description="Extract Links from news source, ranked by importance.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/gaoyunzhi/news_2_pdf",
+    url="https://github.com/gaoyunzhi/link_extractor",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -22,8 +22,6 @@ setuptools.setup(
         'bs4',
         'telegram_util>=0.0.27',
         'cached_url>=0.0.1',
-        'pyyaml',
-        'readee>=0.0.16'
     ],
     python_requires='>=3.0',
 )

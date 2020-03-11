@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-name = 'news_2_pdf'
+name = 'link_extractor'
 
 import os
 from .find_links import findLinks

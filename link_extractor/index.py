@@ -19,7 +19,7 @@ def getIndexHtml(news_source, links):
      	<a href="https://t.me/news_pdf">新闻播报</a>
      </p>
      <p style="text-indent:0pt">
-        <a href="https://github.com/gaoyunzhi/telegram_news_2_pdf_bot/tree/master/pdf_result">镜像</a>
+        <a href="https://github.com/gaoyunzhi/telegram_link_extractor_bot/tree/master/pdf_result">镜像</a>
      </p>
    </body>
 </html>
