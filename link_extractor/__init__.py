@@ -2,15 +2,13 @@
 # -*- coding: utf-8 -*-
 
 name = 'link_extractor'
-		
-import os
+
 from bs4 import BeautifulSoup
-import yaml
 from telegram_util import matchKey
 import cached_url
 from datetime import date
 
-def getLinks(webpage, domain):
+def getItems(soup):
 	for x in soup.find_all('a', class_='title-link'):
 		yield x
 	for x in soup.find_all('a', class_='top-story'):
@@ -31,9 +29,6 @@ def getLinks(webpage, domain):
 			not matchKey(link, ['podcast', 'briefing', 'topic']):
 			yield x
 
-def getDomain(news_source):
-	return DOMAIN[news_source]
-
 def findName(item):
 	if not item.text or not item.text.strip():
 		return
@@ -43,12 +38,10 @@ def findName(item):
 			return subitem.text.strip()
 	return item.text.strip()
 
-def findLinks(news_source='bbc'):
-	soup = BeautifulSoup(cached_url.get(SOURCE[news_source]), 'html.parser')
-	links = {}
-	domain = getDomain(news_source)
-	link_set = set()
-	for item in getItems(soup, news_source):
+def getLinks(webpage, domain):
+	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
+	raw_items = getItems(soup)
+
 		name = findName(item)
 		if not name:
 			continue
