@@ -31,7 +31,7 @@ def getItems(soup):
 	for x in soup.find_all('a'):
 		yield x 
 
-def findName(item):
+def getName(item):
 	if not item.text or not item.text.strip():
 		return
 	for x in ['p', 'span']:
