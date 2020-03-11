@@ -42,7 +42,7 @@ def getName(item):
 def meaningfulCount(link, domain):
 	for x in [domain, 'section', '/', 'spotlight', 'video', 'subscription', 'digital',
 		'html', 'eduation', 'nav', 'left', 'right', 'correction', 'column', 'editorial',
-		'opinion']:
+		'opinion', 'newsletters']:
 		link = link.replace(x, '')
 	return len(link)
 
@@ -84,11 +84,10 @@ def getSortKey(x):
 	return score
 
 def validSoup(item):
-	return True
 	if not item.attrs or 'href' not in item.attrs:
 		return False
-	# if matchKey(str(item.attrs), ['footer-link']):
-	# 	return False
+	if matchKey(str(item.attrs), ['footer-link']):
+		return False
 	return True
 
 def getLinks(webpage, domain=None):
