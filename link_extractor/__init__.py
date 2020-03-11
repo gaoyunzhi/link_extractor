@@ -51,7 +51,7 @@ def valid(link, name):
 		return False
 	return True
 
-def format((link, name), domain):
+def format(link, name, domain):
 	if not '://' in link:
 		link = domain + link
 	return link, name
@@ -64,7 +64,7 @@ def dedup(items):
 		link_set.add(l)
 		yield (l, n)
 
-def getSortKey(index, (link, name)):
+def getSortKey(index, link, name):
 	score = index
 	if '代理服务器' in name:
 		score = -1
@@ -72,11 +72,12 @@ def getSortKey(index, (link, name)):
 
 def getLinks(webpage, domain):
 	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
-	items = getItems(soup)
-	items = [x for x in items if x.attrs and 'href' in x]
+	items = list(getItems(soup))
+	items = [x for x in items if x.attrs and 'href' in x.attrs]
 	items = [(x['href'], getName(x)) for x in items]
-	items = [format(x, domain) for x in items]
+	items = [format(link, name, domain) for link, name in items]
 	items = [x for x in items if valid(x, domain)]
 	items = dedup(items)
-	items = sorted(enumerate(items), key=getSortKey)
-	return links
+	items = sorted([(index, link, name) for index, (link, name) in enumerate(items)], 
+		key=getSortKey)
+	return items
