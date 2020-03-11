@@ -43,15 +43,19 @@ def getName(item):
 def valid(link, name, domain):
 	if not domain in link:
 		return False
+	if '#' in link:
+		return False
 	if not name:
 		return False
-	if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', '专题', '专栏']):
+	if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', '专题', '专栏', '#']):
 		return False
 	if len(name) < 5: # 导航栏目
 		return False
 	return True
 
 def format(link, name, domain):
+	if not link:
+		return link, name
 	if not '://' in link:
 		link = domain + link
 	return link, name
