@@ -50,13 +50,18 @@ def valid(link, name, domain):
 	if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', 
 		'专题', '专栏', 'BBC中文', 'News 中文', '最多人阅读内容', 'Homepage', 'Radio']):
 		return False
-	if len(name) < 5: # 导航栏目
+	if len(name) < 7: # 导航栏目
 		return False
 	return True
 
 def format(link, name, domain):
 	if not link:
 		return link, name
+	if len(link) < 10:
+		try:
+			int(link)
+		except:
+			return link, name # do not format link that's too short
 	if not '://' in link:
 		link = domain + link
 	return link, name
