@@ -40,7 +40,7 @@ def getName(item):
 			return subitem.text.strip()
 	return item.text.strip()
 
-def valid(link, name):
+def valid(link, name, domain):
 	if not domain in link:
 		return False
 	if not name:
@@ -57,14 +57,15 @@ def format(link, name, domain):
 	return link, name
 
 def dedup(items):
-	link_set = ()
+	link_set = set()
 	for l, n in items:
 		if l in link_set:
 			continue
 		link_set.add(l)
 		yield (l, n)
 
-def getSortKey(index, link, name):
+def getSortKey(x):
+	index, link, name = x
 	score = index
 	if '代理服务器' in name:
 		score = -1
@@ -76,8 +77,8 @@ def getLinks(webpage, domain):
 	items = [x for x in items if x.attrs and 'href' in x.attrs]
 	items = [(x['href'], getName(x)) for x in items]
 	items = [format(link, name, domain) for link, name in items]
-	items = [x for x in items if valid(x, domain)]
+	items = [(link, name) for link, name in items if valid(link, name, domain)]
 	items = dedup(items)
 	items = sorted([(index, link, name) for index, (link, name) in enumerate(items)], 
 		key=getSortKey)
-	return items
+	return [(link, name) for (index, link, name) in items]
