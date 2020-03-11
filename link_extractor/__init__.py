@@ -49,8 +49,10 @@ def meaningfulCount(link, domain):
 def valid(link, name, domain):
 	if not domain in link:
 		return False
-	if meaningfulCount(link, domain) < 10:
+	if 'thinkingtaiwan' not in link and meaningfulCount(link, domain) < 10:
 		return False
+	if 'thinkingtaiwan' in link:
+		return '/content/' in link
 	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
 		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries']):
 		return False
