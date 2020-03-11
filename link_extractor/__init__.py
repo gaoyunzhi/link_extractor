@@ -2,41 +2,68 @@
 # -*- coding: utf-8 -*-
 
 name = 'link_extractor'
-
-import os
-from .find_links import findLinks
-from .article import getArticleHtml
-from .index import getIndexHtml
-from datetime import date
-from telegram_util import cleanFileName
-
-if os.name == 'posix':
-	ebook_convert_app = '/Applications/calibre.app/Contents/MacOS/ebook-convert'
-else:
-	ebook_convert_app = 'ebook-convert'
-
-def gen(news_source='bbc', ebook_convert_app=ebook_convert_app):
-	links = findLinks(news_source)
-	filename = '%s_%s新闻' % (date.today().strftime("%m%d"), news_source.upper())
-
-	os.system('rm -rf html_result')	
-	os.system('mkdir html_result > /dev/null 2>&1')
-
-	for name, link in links.copy().items():
-		html = getArticleHtml(name, link, filename + '.html')
-		if html:
-			with open('html_result/%s.html' % cleanFileName(name), 'w') as f:
-				f.write(html)
-		else:
-			del links[name]
-
-	index_html_name = 'html_result/%s.html' % filename
-	with open(index_html_name, 'w') as f:
-		f.write(getIndexHtml(news_source, links))
-
-	os.system('mkdir pdf_result > /dev/null 2>&1')
-	pdf_name = 'pdf_result/%s.pdf' % filename
-	os.system('%s %s %s > /dev/null 2>&1' % (ebook_convert_app, index_html_name, pdf_name))
-	return pdf_name
 		
+import os
+from bs4 import BeautifulSoup
+import yaml
+from telegram_util import matchKey
+import cached_url
+from datetime import date
+
+def getLinks(webpage, domain):
+	for x in soup.find_all('a', class_='title-link'):
+		yield x
+	for x in soup.find_all('a', class_='top-story'):
+		yield x
+	for x in soup.find_all():
+		if not x.attrs:
+			continue
+		if 'Headline' not in str(x.attrs.get('class')):
+			continue
+		for y in x.find_all('a'):
+			yield y
+	year = '/' + date.today().strftime("%Y") + '/'
+	for x in soup.find_all('a'):
+		if 'href' not in x.attrs:
+			continue
+		link = x['href']
+		if link.startswith(year) and link.endswith('html') and \
+			not matchKey(link, ['podcast', 'briefing', 'topic']):
+			yield x
+
+def getDomain(news_source):
+	return DOMAIN[news_source]
+
+def findName(item):
+	if not item.text or not item.text.strip():
+		return
+	for x in ['p', 'span']:
+		subitem = item.find(x)
+		if subitem and subitem.text and subitem.text.strip():
+			return subitem.text.strip()
+	return item.text.strip()
+
+def findLinks(news_source='bbc'):
+	soup = BeautifulSoup(cached_url.get(SOURCE[news_source]), 'html.parser')
+	links = {}
+	domain = getDomain(news_source)
+	link_set = set()
+	for item in getItems(soup, news_source):
+		name = findName(item)
+		if not name:
+			continue
+		if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', '专题', '专栏']):
+			continue
+		if len(name) < 5: # 导航栏目
+			continue
+		if len(links) > 10 and '代理服务器' not in name:
+			continue
+		links[name] = item['href'].strip()
+		if not '://' in links[name]:
+			links[name] =  domain +  links[name]
+		if links[name] in link_set:
+			del links[name]
+		else:
+			link_set.add(links[name])
+	return links
 
