@@ -39,7 +39,7 @@ def getName(item):
 			return subitem.text.strip()
 	return item.text.strip()
 
-def valid(link, name):
+def valid(link, name, domain):
 	if not domain in link:
 		return False
 	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
