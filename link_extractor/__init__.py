@@ -28,6 +28,8 @@ def getItems(soup):
 		if link.startswith(year) and link.endswith('html') and \
 			not matchKey(link, ['podcast', 'briefing', 'topic']):
 			yield x
+	for x in soup.find_all('a'):
+		yield x 
 
 def findName(item):
 	if not item.text or not item.text.strip():
@@ -38,25 +40,43 @@ def findName(item):
 			return subitem.text.strip()
 	return item.text.strip()
 
+def valid(link, name):
+	if not domain in link:
+		return False
+	if not name:
+		return False
+	if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', '专题', '专栏']):
+		return False
+	if len(name) < 5: # 导航栏目
+		return False
+	return True
+
+def format((link, name), domain):
+	if not '://' in link:
+		link = domain + link
+	return link, name
+
+def dedup(items):
+	link_set = ()
+	for l, n in items:
+		if l in link_set:
+			continue
+		link_set.add(l)
+		yield (l, n)
+
+def getSortKey(index, (link, name)):
+	score = index
+	if '代理服务器' in name:
+		score = -1
+	return score
+
 def getLinks(webpage, domain):
 	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
-	raw_items = getItems(soup)
-
-		name = findName(item)
-		if not name:
-			continue
-		if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', '专题', '专栏']):
-			continue
-		if len(name) < 5: # 导航栏目
-			continue
-		if len(links) > 10 and '代理服务器' not in name:
-			continue
-		links[name] = item['href'].strip()
-		if not '://' in links[name]:
-			links[name] =  domain +  links[name]
-		if links[name] in link_set:
-			del links[name]
-		else:
-			link_set.add(links[name])
+	items = getItems(soup)
+	items = [x for x in items if x.attrs and 'href' in x]
+	items = [(x['href'], getName(x)) for x in items]
+	items = [format(x, domain) for x in items]
+	items = [x for x in items if valid(x, domain)]
+	items = dedup(items)
+	items = sorted(enumerate(items), key=getSortKey)
 	return links
-
