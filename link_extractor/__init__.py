@@ -39,7 +39,7 @@ def getName(item):
 			return subitem.text.strip()
 	return item.text.strip()
 
-def valid(link, name, domain):
+def valid(link, name):
 	if not domain in link:
 		return False
 	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
@@ -76,7 +76,9 @@ def getSortKey(x):
 		score = -1
 	return score
 
-def getLinks(webpage, domain):
+def getLinks(webpage, domain=None):
+	if not domain:
+		domain = webpage
 	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
 	items = list(getItems(soup))
 	items = [x for x in items if x.attrs and 'href' in x.attrs]
