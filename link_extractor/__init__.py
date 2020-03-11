@@ -25,8 +25,7 @@ def getItems(soup):
 		if 'href' not in x.attrs:
 			continue
 		link = x['href']
-		if link.startswith(year) and link.endswith('html') and \
-			not matchKey(link, ['podcast', 'briefing', 'topic']):
+		if link.startswith(year) and link.endswith('html'):
 			yield x
 	for x in soup.find_all('a'):
 		yield x 
@@ -43,11 +42,13 @@ def getName(item):
 def valid(link, name, domain):
 	if not domain in link:
 		return False
-	if '#' in link:
+	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
+		'bbcnewsletter', 'help/web']):
 		return False
 	if not name:
 		return False
-	if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', '专题', '专栏', '#']):
+	if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', 
+		'专题', '专栏', 'BBC中文', 'News 中文', '最多人阅读内容', 'Homepage', 'Radio']):
 		return False
 	if len(name) < 5: # 导航栏目
 		return False
