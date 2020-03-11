@@ -39,11 +39,20 @@ def getName(item):
 			return subitem.text.strip()
 	return item.text.strip()
 
+def meaningfulCount(link, domain):
+	for x in [domain, 'section', '/', 'spotlight', 'video', 'subscription', 'digital',
+		'html', 'eduation', 'nav', 'left', 'right', 'correction', 'column', 'editorial',
+		'opinion']:
+		link = link.replace(x, '')
+	return len(link)
+
 def valid(link, name, domain):
 	if not domain in link:
 		return False
+	if meaningfulCount(link, domain) < 10:
+		return False
 	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
-		'bbcnewsletter', 'help/web']):
+		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries']):
 		return False
 	if not name:
 		return False
@@ -55,13 +64,6 @@ def valid(link, name, domain):
 	return True
 
 def format(link, name, domain):
-	if not link:
-		return link, name
-	if len(link) < 10:
-		try:
-			int(link)
-		except:
-			return link, name # do not format link that's too short
 	if not '://' in link:
 		link = domain + link
 	return link, name
@@ -81,12 +83,20 @@ def getSortKey(x):
 		score = -1
 	return score
 
+def validSoup(item):
+	return True
+	if not item.attrs or 'href' not in item.attrs:
+		return False
+	# if matchKey(str(item.attrs), ['footer-link']):
+	# 	return False
+	return True
+
 def getLinks(webpage, domain=None):
 	if not domain:
 		domain = webpage
 	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
-	items = list(getItems(soup))
-	items = [x for x in items if x.attrs and 'href' in x.attrs]
+	items = getItems(soup)
+	items = [x for x in items if validSoup(x)]
 	items = [(x['href'], getName(x)) for x in items]
 	items = [format(link, name, domain) for link, name in items]
 	items = [(link, name) for link, name in items if valid(link, name, domain)]
