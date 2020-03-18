@@ -10,7 +10,8 @@ def test():
 		# 'https://www.bbc.co.uk')
 		# 'https://www.nytimes.com')
 		# 'https://whogovernstw.org')
-		'https://www.thinkingtaiwan.com')
+		# 'https://www.thinkingtaiwan.com')
+		'https://matters.news/')
 	for link, name in links:
 		print(name, link)
 	print(len(links))
