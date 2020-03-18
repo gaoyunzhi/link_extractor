@@ -53,13 +53,20 @@ def valid(link, name, domain):
 		return False
 	if 'thinkingtaiwan' in link:
 		return '/content/' in link
+	if 'matters.news' in link:
+		if len([x for x in link.split('/') if x]) <= 3:
+			return False
+		if '@' not in link:
+			return False
 	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
-		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries', '/author/']):
+		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries', '/author/',
+		'hi176']):
 		return False
 	if not name:
 		return False
 	if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', 
-		'专题', '专栏', 'BBC中文', 'News 中文', '最多人阅读内容', 'Homepage', 'Radio']):
+		'专题', '专栏', 'BBC中文', 'News 中文', '最多人阅读内容', 'Homepage', 'Radio',
+		'Matters改版', '社区诉讼']):
 		return False
 	if len(name) < 7: # 导航栏目
 		return False
@@ -68,6 +75,8 @@ def valid(link, name, domain):
 def format(link, name, domain):
 	if not '://' in link:
 		link = domain + link
+	if '#' in link:
+		link = link[:link.find('#')]
 	return link, name
 
 def dedup(items):
@@ -81,7 +90,7 @@ def dedup(items):
 def getSortKey(x):
 	index, link, name = x
 	score = index
-	if '代理服务器' in name:
+	if name and '代理服务器' in name:
 		score = -1
 	return score
 
