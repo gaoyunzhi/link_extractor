@@ -101,11 +101,14 @@ def validSoup(item):
 		return False
 	return True
 
+single_domain_list = ['https://squatting2047.com', 'https://matters.news/']
+
 def getLinks(webpage, domain=None):
 	if not domain and webpage == 'https://www.bbc.com/zhongwen/simp':
 		domain = 'https://www.bbc.co.uk'
-	if not domain and 'https://matters.news/' in webpage:
-		domain = 'https://matters.news/'
+	for single_domain in single_domain_list: # may need to revisit
+		if not domain and single_domain in webpage:
+			domain = single_domain
 	if not domain:
 		domain = webpage
 	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')

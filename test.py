@@ -5,7 +5,7 @@ import link_extractor
 
 def test():
 	links = link_extractor.getLinks(
-		'https://squatting2047.com')
+		'https://squatting2047.com/page/2')
 		# 'https://www.bbc.com/zhongwen/simp', domain='https://www.bbc.co.uk')
 		# 'https://cn.nytimes.com')
 		# 'https://www.bbc.co.uk')
