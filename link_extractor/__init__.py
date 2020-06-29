@@ -102,6 +102,8 @@ def validSoup(item):
 	return True
 
 def getLinks(webpage, domain=None):
+	if not domain and webpage == 'https://www.bbc.com/zhongwen/simp':
+		domain = 'https://www.bbc.co.uk'
 	if not domain and 'https://matters.news/' in webpage:
 		domain = 'https://matters.news/'
 	if not domain:
