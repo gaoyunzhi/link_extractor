@@ -102,6 +102,8 @@ def validSoup(item):
 	return True
 
 def getLinks(webpage, domain=None):
+	if not domain and 'https://matters.news/' in webpage:
+		domain = 'https://matters.news/'
 	if not domain:
 		domain = webpage
 	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
