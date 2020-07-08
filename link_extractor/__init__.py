@@ -58,6 +58,9 @@ def valid(link, name, domain):
 			return False
 		if '@' not in link:
 			return False
+	if 'wemp.app' in link:
+		if matchKey(link, ['accounts/']):
+			return False 
 	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
 		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries', '/author/',
 		'hi176']):
