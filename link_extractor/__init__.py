@@ -9,6 +9,10 @@ import cached_url
 from datetime import date
 
 def getItems(soup):
+	for x in soup.find_all('div', class_='note-container'):
+		item = x.find('a', title=True)
+		item['href'] = x['data-url'] 
+		yield item
 	for x in soup.find_all('a', class_='title-link'):
 		yield x
 	for x in soup.find_all('a', class_='top-story'):
@@ -63,7 +67,8 @@ def valid(link, name, domain):
 			return False 
 	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
 		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries', '/author/',
-		'hi176', '/category/', '/format/']):
+		'hi176', '/category/', '/format/', '/people/', '/channel/', '/location/',
+		'/department/', '/series/']):
 		return False
 	if not name:
 		return False
