@@ -5,7 +5,8 @@ import link_extractor
 
 def test():
 	links = link_extractor.getLinks(
-		'http://www.gzhshoulu.wang/account_PourMarx.html')
+		'https://www.douban.com/people/180693708/notes')
+		# 'http://www.gzhshoulu.wang/account_PourMarx.html')
 		# 'https://wemp.app/posts/8ee508d2-592d-479d-9d1d-4b76a10e5442')
 		# 'https://squatting2047.com/page/2')
 		# 'https://www.bbc.com/zhongwen/simp', domain='https://www.bbc.co.uk')

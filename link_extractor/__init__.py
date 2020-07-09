@@ -106,7 +106,7 @@ def validSoup(item):
 
 single_domain_list = ['https://squatting2047.com', 
 	'https://matters.news/', 'https://wemp.app',
-	'http://www.gzhshoulu.wang/']
+	'http://www.gzhshoulu.wang/', 'https://www.douban.com/']
 
 def getLinks(webpage, domain=None):
 	if not domain and webpage == 'https://www.bbc.com/zhongwen/simp':
