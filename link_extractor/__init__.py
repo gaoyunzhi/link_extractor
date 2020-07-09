@@ -63,7 +63,7 @@ def valid(link, name, domain):
 			return False 
 	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
 		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries', '/author/',
-		'hi176', '/category/']):
+		'hi176', '/category/', '/form/']):
 		return False
 	if not name:
 		return False
