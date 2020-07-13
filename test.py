@@ -25,10 +25,9 @@ def test():
 	for site in tests:
 		links = link_extractor.getLinks(site)
 		for link, name in links:
-			with open('old_result.txt', 'a') as f:
-				f.write(name + ' ' + link + '\n')
-		with open('old_result.txt', 'a') as f:
-			f.write(str(len(links)) + '\n')
+			# print(name, link)
+			...
+		# print(len(links))
 		# input()
 	
 if __name__=='__main__':

@@ -23,6 +23,7 @@ def getItems(soup):
 			continue
 		if 'Headline' not in str(x.attrs.get('class')):
 			continue
+		print(x)
 		for y in x.find_all('a'):
 			yield y
 	year = '/' + date.today().strftime("%Y") + '/'
