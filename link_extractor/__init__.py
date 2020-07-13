@@ -32,7 +32,7 @@ def isValidLink(link):
 	parts = link.strip('/').split('/')
 	if len(parts) <= 5:
 		return False
-	if set(parts) & set(['video', 'location', 'interactive']):
+	if set(parts) & set(['video', 'location', 'interactive', 'help']):
 		return False
 	return True
 
@@ -63,7 +63,7 @@ def format(items, domain):
 		existing.add(link)
 
 def validSoup(item):
-	return not matchKey(str(item), ['footer-link', ])
+	return not matchKey(str(item), ['footer-link', '视频'])
 
 def getLinks(webpage, domain=None):
 	domain = getDomain(webpage, domain)
