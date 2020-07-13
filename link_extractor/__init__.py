@@ -10,29 +10,10 @@ from datetime import date
 from .domain import getDomain
 
 def getItems(soup):
-	for x in soup.find_all('div', class_='note-container'):
+	for x in soup.find_all('div', class_='note-container'): # douban notes
 		item = x.find('a', title=True)
 		item['href'] = x['data-url'] 
 		yield item
-	for x in soup.find_all('a', class_='title-link'):
-		yield x
-	for x in soup.find_all('a', class_='top-story'):
-		yield x
-	for x in soup.find_all():
-		if not x.attrs:
-			continue
-		if 'Headline' not in str(x.attrs.get('class')):
-			continue
-		print(x)
-		for y in x.find_all('a'):
-			yield y
-	year = '/' + date.today().strftime("%Y") + '/'
-	for x in soup.find_all('a'):
-		if 'href' not in x.attrs:
-			continue
-		link = x['href']
-		if link.startswith(year) and link.endswith('html'):
-			yield x
 	for x in soup.find_all('a'):
 		yield x 
 
@@ -111,8 +92,10 @@ def getSortKey(x):
 
 def validSoup(item):
 	if not item.attrs or 'href' not in item.attrs:
+		print(item)
 		return False
 	if matchKey(str(item.attrs), ['footer-link']):
+		print(item)
 		return False
 	return True
 
