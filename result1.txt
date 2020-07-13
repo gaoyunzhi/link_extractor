@@ -1,1706 +1,387 @@
- http://mdr.de/nachrichten/ratgeber/neu-ab-juli-rente-mehrwertsteuer-pflege-mindestlohn-wegwerf-plastik-geschirr-abbiegeassistent-100.html
-Hauptnavigation http://tagesschau.de
-Startseite http://tagesschau.de/
-faktenfinder http://tagesschau.de//faktenfinder.tagesschau.de/
-Wetter - Wir über uns http://tagesschau.de//intern.tagesschau.de/?Moderatoren/Wetter
-Ihre Meinung http://tagesschau.de//meta.tagesschau.de/
-Bewertete Beiträge http://tagesschau.de//meta.tagesschau.de/bewertet/
-Geo-Schlagwörter http://tagesschau.de//meta.tagesschau.de/geotags/
-Kommentare http://tagesschau.de//meta.tagesschau.de/kommentare/
-Kommentarrichtlinien http://tagesschau.de//meta.tagesschau.de/richtlinien/
-Schlagwörter http://tagesschau.de//meta.tagesschau.de/tags/
-Benutzereinstellungen http://tagesschau.de//meta.tagesschau.de/user/
-Wahlen http://tagesschau.de//wahl.tagesschau.de
-Länderparlamente http://tagesschau.de//wahl.tagesschau.de/landtag.shtml
-Übersicht der Wahlen seit 1946 http://tagesschau.de//wahl.tagesschau.de/uebersicht-der-wahlen.shtml
-Bundestagswahl http://tagesschau.de//wahl.tagesschau.de/wahlen/2017-09-24-BT-DE/
-Europäisches Parlament http://tagesschau.de//wahl.tagesschau.de/wahlen/2019-05-26-EP-DE/
-Chronologie http://tagesschau.de//wahl.tagesschau.de/wahlen/chronologie/chronologie.shtml
-Wetter http://tagesschau.de//wetter.tagesschau.de
-Startseite Wetter http://tagesschau.de//wetter.tagesschau.de/
-Deutschland http://tagesschau.de//wetter.tagesschau.de/deutschland/
-Vorhersage http://tagesschau.de//wetter.tagesschau.de/deutschland/aussichten.html
-Wetterstationen http://tagesschau.de//wetter.tagesschau.de/deutschland/wetterstationen/
-Wind & Wolken http://tagesschau.de//wetter.tagesschau.de/deutschland/windundwolken.html
-Europa & Welt http://tagesschau.de//wetter.tagesschau.de/europawelt/
-Wolken http://tagesschau.de//wetter.tagesschau.de/europawelt/wolken.html
-Pollenflug http://tagesschau.de//wetter.tagesschau.de/pollenflug/
-Regenradar http://tagesschau.de//wetter.tagesschau.de/radarbilder/
-Reisewetter http://tagesschau.de//wetter.tagesschau.de/reisewetter/
-Unwetterwarnungen http://tagesschau.de//wetter.tagesschau.de/unwetter/
-Wetterfühligkeit http://tagesschau.de//wetter.tagesschau.de/wetterfuehligkeit/
-Wetterlexikon http://tagesschau.de//wetter.tagesschau.de/wetterlexikon/
-Wetterthema http://tagesschau.de//wetter.tagesschau.de/wetterthema/
+ http://tagesschau.de//meta.tagesschau.de/bewertet/
+ http://tagesschau.de//meta.tagesschau.de/geotags/
+ http://tagesschau.de//meta.tagesschau.de/kommentare/
+ http://tagesschau.de//meta.tagesschau.de/richtlinien/
+ http://tagesschau.de//meta.tagesschau.de/tags/
+ http://tagesschau.de//meta.tagesschau.de/user/
+ http://tagesschau.de//wahl.tagesschau.de/landtag.shtml
+ http://tagesschau.de//wahl.tagesschau.de/uebersicht-der-wahlen.shtml
+ http://tagesschau.de//wahl.tagesschau.de/wahlen/2017-09-24-BT-DE/
+ http://tagesschau.de//wahl.tagesschau.de/wahlen/2019-05-26-EP-DE/
+ http://tagesschau.de//wahl.tagesschau.de/wahlen/chronologie/chronologie.shtml
+ http://tagesschau.de//wetter.tagesschau.de/deutschland/
+ http://tagesschau.de//wetter.tagesschau.de/deutschland/aussichten.html
+ http://tagesschau.de//wetter.tagesschau.de/deutschland/wetterstationen/
+ http://tagesschau.de//wetter.tagesschau.de/deutschland/windundwolken.html
+ http://tagesschau.de//wetter.tagesschau.de/europawelt/
+ http://tagesschau.de//wetter.tagesschau.de/europawelt/wolken.html
+ http://tagesschau.de//wetter.tagesschau.de/pollenflug/
+ http://tagesschau.de//wetter.tagesschau.de/radarbilder/
+ http://tagesschau.de//wetter.tagesschau.de/reisewetter/
+ http://tagesschau.de//wetter.tagesschau.de/unwetter/
+ http://tagesschau.de//wetter.tagesschau.de/wetterfuehligkeit/
+ http://tagesschau.de//wetter.tagesschau.de/wetterlexikon/
+ http://tagesschau.de//wetter.tagesschau.de/wetterthema/
  http://tagesschau.de//wetter.tagesschau.de/wetterthema/2020/07/13/auf-und-ab.html
-Impressum http://tagesschau.de//www.tagesschau.de/impressum/
-Datenschutz http://tagesschau.de//www.tagesschau.de/kontakt_und_hilfe/datenschutz/
-Hilfe zum Angebot http://tagesschau.de//www.tagesschau.de/kontakt_und_hilfe/hilfe/
-Inhaltsverzeichnis http://tagesschau.de//www.tagesschau.de/sitemap/
-Tagesschau in 100 Sekunden http://tagesschau.de/100sekunden/
-Sieben-Tage-Überblick http://tagesschau.de/allemeldungen/
-Sieben-Tage-Überblick http://tagesschau.de/allemeldungen/ausland/
-Sieben-Tage-Überblick http://tagesschau.de/allemeldungen/inland/
-Sieben-Tage-Überblick http://tagesschau.de/allemeldungen/wirtschaft/
-tagesschau App http://tagesschau.de/app/
-Archiv http://tagesschau.de/archiv/
-Ausgewählte Dossiers http://tagesschau.de/archiv/dossiers/dossierarchiv2.html
-Hintergründe http://tagesschau.de/archiv/hintergruende/hintergruende106.html
-Sendungen http://tagesschau.de/archiv/sendungsarchiv/sendungsarchiv102.html
-Ausland http://tagesschau.de/ausland/
-Hochwasser in China http://tagesschau.de/ausland/china-ueberschwemmungen-109.html
-Minderheiten-Politik: China verwehrt US-Politikern Einreise http://tagesschau.de/ausland/china-us-politiker-einreise-101.html
-Corona-Hotspot Südafrika: "Der Lockdown wurde nicht genutzt" http://tagesschau.de/ausland/corona-suedafrika-107.html
-Burka-Verbot in Frankreich: Alter Streit im neuen Gewand http://tagesschau.de/ausland/coronakrise-burkaverbot-frankreich-101.html
-9 http://tagesschau.de/ausland/coronavirus-karte-101.html
-Interaktiv http://tagesschau.de/ausland/coronavirus-karten-101.html
-Dossiers http://tagesschau.de/ausland/dossiers/
-EU-Außenministertreffen http://tagesschau.de/ausland/eu-aussenminister-china-tuerkei-101.html
-2 http://tagesschau.de/ausland/mallorca-corona-ballermann-103.html
-Coronavirus http://tagesschau.de/ausland/masken-balearen-mallorca-101.html
-Conte bei Merkel in Meseberg: Annäherungsversuche im Schloss http://tagesschau.de/ausland/merkel-conte-115.html
-Merkel und Conte über Aufbaufonds http://tagesschau.de/ausland/merkel-conte-123.html
- http://tagesschau.de/ausland/migration-139.html
-Heuschreckenplage in Indien, 28.05.2020 http://tagesschau.de/ausland/pakistan-indien-heuschrecken-101.html
-China: Regierungskritischer Professor wieder frei http://tagesschau.de/ausland/peking-verhaftung-regimekritiker-xu-103.html
-Nach Präsidentenwahl in Polen http://tagesschau.de/ausland/polen-praesidentenwahl-103.html
- http://tagesschau.de/ausland/redskins-113.html
-Russischer Journalist http://tagesschau.de/ausland/russland-safronow-anklage-103.html
-Nach Stone-Begnadigung: US-Kongress will Mueller erneut befragen http://tagesschau.de/ausland/russlandaffaere-us-senat-mueller-101.html
-5 http://tagesschau.de/ausland/todesstrafe-usa-daniel-lewis-lee-101.html
- http://tagesschau.de/ausland/usa-todesstrafe-hinrichtungen-101.html
-UN-Ernährungsbericht: Jedes fünfte Kind hungert, 11.09.2018 http://tagesschau.de/ausland/welternaehrungsbericht-101.html
- http://tagesschau.de/ausland/welternaehrungsbericht-105.html
-Bericht aus Berlin http://tagesschau.de/bab/
-Die wichtigsten Nachrichten als Video http://tagesschau.de/die_wichtigsten_nachrichten_als_video/
-#kurzerklärt http://tagesschau.de/faktenfinder/kurzerklaert/
-Inland http://tagesschau.de/inland/
- http://tagesschau.de/inland/binnentourismus-101.html
-Bundestagswahl http://tagesschau.de/inland/btw17/
-Corona-Regeln in Deutschland http://tagesschau.de/inland/coronakrise-lockerungen-laender-105.html
-DeutschlandTrend http://tagesschau.de/inland/deutschlandtrend/
-Dossiers http://tagesschau.de/inland/dossiers/
-10 http://tagesschau.de/inland/ghs-index-deutschland-corona-101.html
-Grüne: Arztjobs sollen abhängig von Ja zu Abtreibungen werden http://tagesschau.de/inland/gruene-schwangerschaftabbrueche-101.html
- http://tagesschau.de/inland/kindesmissbrauch-fuehrungszeugnis-101.html
-Wie viel Tourismus verträgt Fehmarn noch? 10.70.2020 http://tagesschau.de/inland/kitesurfen-101.html
-Lindner im Interview: "Keine Konjunktur für FDP-Werte" http://tagesschau.de/inland/lindner-sommerinterview-101.html
-Spahn zur Corona-Pandemie http://tagesschau.de/inland/spahn-wieler-corona-101.html
-Nach Stuttgart-Krawallen http://tagesschau.de/inland/stammbaum-diskussion-stuttgart-101.html
-Wissenschaftsrat empfiehlt http://tagesschau.de/inland/stiftung-preussischer-kulturbesitz-101.html
- http://tagesschau.de/inland/stvo-fuehrerscheine-101.html
-Hanau und Halle: Entschädigung für Terror-Hinterbliebene http://tagesschau.de/inland/terror-entschaedigung-101.html
- http://tagesschau.de/inland/tsvorzwanzigjahren100.html
-Investigativ http://tagesschau.de/investigativ/
-Jahresrückblicke http://tagesschau.de/jahresrueckblick/jahresrueckblicke2.html
-Präsidentenwahl in Polen http://tagesschau.de/kommentar/polen-wahl-duda-101.html
-RSS-Feeds http://tagesschau.de/mehr/rss-feeds/
-Soziale Netzwerke http://tagesschau.de/mehr/soziale_netzwerke/
-Überblick http://tagesschau.de/mehr/soziale_netzwerke/startseite/
-Spendenkonten http://tagesschau.de/mehr/spendenkonten/
-Was ist neu? http://tagesschau.de/mehr/was_ist_neu/
-Videos & Audios http://tagesschau.de/multimedia/
-Versöhnung? Polen nach der Wahl http://tagesschau.de/multimedia/audio/audio-93031.html
-Safronow des Hochverrats angeklagt: Festnahmen bei Solidaritätsaktionen http://tagesschau.de/multimedia/audio/audio-93041.html
-Kommentar zur Präsidentenwahl: Das schwierige „Ja“ der Polen http://tagesschau.de/multimedia/audio/audio-93045.html
-Spannungen und Konflikte: EU-Außenminister beraten über Türkei und Hongkong http://tagesschau.de/multimedia/audio/audio-93047.html
+ http://tagesschau.de//www.tagesschau.de/impressum/
+ http://tagesschau.de//www.tagesschau.de/kontakt_und_hilfe/datenschutz/
+ http://tagesschau.de//www.tagesschau.de/kontakt_und_hilfe/hilfe/
+ http://tagesschau.de//www.tagesschau.de/sitemap/
+ http://tagesschau.de/archiv/dossiers/dossierarchiv2.html
+ http://tagesschau.de/archiv/hintergruende/hintergruende106.html
+ http://tagesschau.de/archiv/sendungsarchiv/sendungsarchiv102.html
+ http://tagesschau.de/mehr/soziale_netzwerke/startseite/
+ http://tagesschau.de/multimedia/audio/audio-93031.html
+ http://tagesschau.de/multimedia/audio/audio-93041.html
+ http://tagesschau.de/multimedia/audio/audio-93045.html
+ http://tagesschau.de/multimedia/audio/audio-93047.html
  http://tagesschau.de/multimedia/audio/audio-93051.html
-Bildergalerien http://tagesschau.de/multimedia/bilder/
-Livestream http://tagesschau.de/multimedia/livestreams/
  http://tagesschau.de/multimedia/livestreams/livestream3/
-Podcasts http://tagesschau.de/multimedia/podcasts/
-Politik im Radio http://tagesschau.de/multimedia/politikimradio/
-Debatte über Ermittlungen zu Stuttgarter Krawallnacht http://tagesschau.de/multimedia/politikimradio/audio-93025.html
-Spahn warnt vor "Jetzt-erst-recht"-Modus am Ballermann http://tagesschau.de/multimedia/politikimradio/audio-93029.html
-Deutsche Reaktionen auf Wahl in Polen | audio http://tagesschau.de/multimedia/politikimradio/audio-93037.html
-Vor EU-Gipfel: Merkel empfing Conte im Schloss Meseberg http://tagesschau.de/multimedia/politikimradio/audio-93049.html
-Sendungsarchiv http://tagesschau.de/multimedia/sendung/
+ http://tagesschau.de/multimedia/politikimradio/audio-93025.html
+ http://tagesschau.de/multimedia/politikimradio/audio-93029.html
+ http://tagesschau.de/multimedia/politikimradio/audio-93037.html
+ http://tagesschau.de/multimedia/politikimradio/audio-93049.html
  http://tagesschau.de/multimedia/sendung/ts-38051.html
-Startseite Videos & Audios http://tagesschau.de/multimedia/startseite/
-Debatte über Ermittlungen zur Krawallnacht in Stuttgart http://tagesschau.de/multimedia/video/video-729125.html
- http://tagesschau.de/multimedia/video/video-729153.html
-Mindestens 140 Tote nach Unwetter in China http://tagesschau.de/multimedia/video/video-729275.html
-Verschärfte Maskenpflicht auf den Balearen http://tagesschau.de/multimedia/video/video-729315.html
- http://tagesschau.de/multimedia/video/video-729375.html
-Corona in Reisezeit: Spahn mahnt Urlauber zu Vorsicht http://tagesschau.de/multimedia/video/video-729385.html
-Corona in Reisezeit: Spahn mahnt Urlauber zur Vorsicht http://tagesschau.de/multimedia/video/video-729393.html
-EU-Außenminister in Brüssel: China und Türkei auf der Tagesordnung http://tagesschau.de/multimedia/video/video-729399.html
-National-Konservativer Amtsinhaber Duda bei Präsidentenwahl in Polen wiedergewählt http://tagesschau.de/multimedia/video/video-729407.html
-Wissenschaftsrat empfiehlt der Stiftung Preußischer Kulturbesitz Neuordnung http://tagesschau.de/multimedia/video/video-729413.html
- http://tagesschau.de/multimedia/video/video-729453~_parentId-ondemand100.html
- http://tagesschau.de/multimedia/video/video-729471.html
-Liveblog http://tagesschau.de/newsticker/liveblog-133.html
-Regional http://tagesschau.de/regional/
-Letzte Sendung http://tagesschau.de/sendung/letzte-sendung/
-Nachtmagazin http://tagesschau.de/sendung/nachtmagazin/
-Tagesschau 20 Uhr http://tagesschau.de/sendung/tagesschau/
-Tagesschau 20 Uhr (Gebärdensprache) http://tagesschau.de/sendung/tagesschau_mit_gebaerdensprache/
-Tagesthemen http://tagesschau.de/sendung/tagesthemen/
-CAS hebt Sperre für Manchester City auf http://tagesschau.de/sport/sportschau/manchester-city-cas-101.html
- http://tagesschau.de/suche2.html
-Wahltermine http://tagesschau.de/wahlarchiv/wahltermine/
-Wirtschaft http://tagesschau.de/wirtschaft/
-Flughafenbetreiber Fraport ringt weiter mit Corona-Folgen http://tagesschau.de/wirtschaft/boerse/fraport-corona-101.html
-Digitale Hauptversammlungen: Vorstands Freud, Aktionärs Leid http://tagesschau.de/wirtschaft/boerse/hauptversammlung-dax-digital-101.html
-Chronologie der Krise http://tagesschau.de/wirtschaft/chronologiefinanzmarktkrise100.html
-Dossiers http://tagesschau.de/wirtschaft/dossiers/
-Nachrichten aus der EU http://tagesschau.de/wirtschaft/eu/
-Twitter http://twitter.com/tagesschau
-Facebook http://www.facebook.com/tagesschau
-YouTube http://www.youtube.com/tagesschau
- https://blog.tagesschau.de
-Tagesschau Blog https://blog.tagesschau.de/
-Wir berichten aus New York, Rio, Tokio – und aus Ihrer Heimat! #tagesthemenmittendrin https://blog.tagesschau.de/2020/05/29/wir-berichten-aus-new-york-rio-tokio-und-aus-ihrer-heimat-tagesthemenmittendrin/
-Börse https://boerse.ard.de
-Hessischer Rundfunk https://hessenschau.de
-Über uns https://intern.tagesschau.de/
- https://korrespondenten.tagesschau.de
- https://kurse.boerse.ard.de/ard/indizes_einzelkurs_uebersicht.htn?bigIndex=0&i=159096&sektion=einzelwerte&sortierung=NetchangePercent&ascdesc=DESC&sortQuotes=1
-Nasdaq 100 https://kurse.boerse.ard.de/ard/indizes_einzelkurs_uebersicht.htn?i=149002&sektion=einzelwerte
-DAX https://kurse.boerse.ard.de/ard/indizes_einzelkurs_uebersicht.htn?i=159096&sektion=einzelwerte
-Eurostoxx https://kurse.boerse.ard.de/ard/indizes_einzelkurs_uebersicht.htn?i=159194&sektion=einzelwerte
-Dow Jones https://kurse.boerse.ard.de/ard/indizes_einzelkurs_uebersicht.htn?i=2303555&sektion=einzelwerte
-Ihre Meinung https://meta.tagesschau.de
-Tagesschau24 https://programm.tagesschau24.de
-Seite auf Twitter https://twitter.com/tagesschau
-Wahlen https://wahl.tagesschau.de
-Wetter https://wetter.tagesschau.de
-3sat https://www.3sat.de
- https://www.ard-text.de/?page=101
-ARD Home https://www.ard.de
-Die ARD https://www.ard.de/die-ard
-Kinder https://www.ard.de/kinder
-Kultur https://www.ard.de/kultur
-Radio https://www.ard.de/radio
-Ratgeber https://www.ard.de/ratgeber
-Wissen https://www.ard.de/wissen
-ARD Mediathek https://www.ardmediathek.de
-ONE https://www.ardmediathek.de/one/
-arte https://www.arte.tv/de
-Bayerischer Rundfunk https://www.br.de
-Fernsehen https://www.daserste.de
-Deutschlandradio https://www.deutschlandradio.de
-Deutsche Welle https://www.dw.com
-Seite auf Facebook https://www.facebook.com/tagesschau
-funk https://www.funk.net
-Instagram https://www.instagram.com/tagesschau/
-Ki.Ka https://www.kika.de
-Mitteldeutscher Rundfunk https://www.mdr.de
-Norddeutscher Rundfunk https://www.ndr.de
-Phoenix https://www.phoenix.de
-Radio Bremen https://www.radiobremen.de
-Rundfunk Berlin-Brandenburg https://www.rbb24.de
-Sport https://www.sportschau.de
-Saarländischer Rundfunk https://www.sr.de
-Südwestrundfunk https://www.swr.de
- https://www.swr.de/swraktuell/baden-wuerttemberg/suedbaden/polizei-sucht-bewaffneten-oppenau-100.html
-Nachrichten https://www.tagesschau.de
-Sieben-Tage-Überblick https://www.tagesschau.de/allemeldungen/
-Tagesschau App https://www.tagesschau.de/app/
-365-Tage-Meldungsarchiv https://www.tagesschau.de/archiv/meldungsarchiv100.html
-Nachrichtenatlas https://www.tagesschau.de/atlas/
-Ausland https://www.tagesschau.de/ausland/
- https://www.tagesschau.de/bab/
-Datenschutzbestimmungen https://www.tagesschau.de/datenschutz/
-Hilfe https://www.tagesschau.de/hilfe/
-Mehr https://www.tagesschau.de/hilfe/kontakt/
-Impressum https://www.tagesschau.de/impressum/
-Podcast abonnieren https://www.tagesschau.de/infoservices/podcast/
-RSS-Feed https://www.tagesschau.de/infoservices/rssfeeds/
-Inland https://www.tagesschau.de/inland/
-Kontakt https://www.tagesschau.de/kontakt/
-Videos & Audios https://www.tagesschau.de/multimedia/
-Weitere Galerien https://www.tagesschau.de/multimedia/bilder/
-Alle Videos https://www.tagesschau.de/multimedia/startseite/
- https://www.tagesschau.de/regional/
-Inhaltsverzeichnis https://www.tagesschau.de/sitemap/
-Wirtschaft https://www.tagesschau.de/wirtschaft/
-Westdeutscher Rundfunk https://www.wdr.de
-Seite auf YouTube https://www.youtube.com/tagesschau
-218
-登录 http://www.gzhshoulu.wang/
-首页 http://www.gzhshoulu.wang//
-关于我 http://www.gzhshoulu.wang/about.html
-100 http://www.gzhshoulu.wang/account_PourMarx&page100.html
-101 http://www.gzhshoulu.wang/account_PourMarx&page101.html
-102 http://www.gzhshoulu.wang/account_PourMarx&page102.html
-103 http://www.gzhshoulu.wang/account_PourMarx&page103.html
-104 http://www.gzhshoulu.wang/account_PourMarx&page104.html
-2 http://www.gzhshoulu.wang/account_PourMarx&page2.html
-3 http://www.gzhshoulu.wang/account_PourMarx&page3.html
-4 http://www.gzhshoulu.wang/account_PourMarx&page4.html
-5 http://www.gzhshoulu.wang/account_PourMarx&page5.html
-6 http://www.gzhshoulu.wang/account_PourMarx&page6.html
-... http://www.gzhshoulu.wang/account_PourMarx&page7.html
-首页 http://www.gzhshoulu.wang/account_PourMarx.html
-API http://www.gzhshoulu.wang/article.html
-冯蕙｜对毛泽东同志一篇重要文献的考证和研究 http://www.gzhshoulu.wang/article/1002249823
-每日一书｜毛泽东著作编研文存 http://www.gzhshoulu.wang/article/1002249824
-吴晓明|社会现实的发现：黑格尔与马克思 http://www.gzhshoulu.wang/article/1002256314
-《新工人文学》第八期 http://www.gzhshoulu.wang/article/1002256315
-每日一书|黑格尔的哲学遗产 http://www.gzhshoulu.wang/article/1002256316
-【韦伯百年祭】雷特尔、维尔蒙|韦伯发明了人文学科的危机 http://www.gzhshoulu.wang/article/1002262831
-每日一书|苏联设计时代1950—1989 http://www.gzhshoulu.wang/article/1002262832
-刘春勇 | 从长时段视角重审五四与晚明之关联 http://www.gzhshoulu.wang/article/1002269484
-孙歌|直视韩朝分断体制 http://www.gzhshoulu.wang/article/1002274738
-每日一书|想象东亚 http://www.gzhshoulu.wang/article/1002274739
-王中忱|艺术追随帝国，抑或帝国追随艺术 http://www.gzhshoulu.wang/article/1002280167
-每日一书|现代文学路上的迷途羔羊 http://www.gzhshoulu.wang/article/1002280168
-陈默|战争与工业的双重变奏 http://www.gzhshoulu.wang/article/1002286778
-每日一书|感情研究指南 http://www.gzhshoulu.wang/article/1002286779
-刘禾|当代生物安全统治术的全面坍塌 http://www.gzhshoulu.wang/article/1002293696
-每日一书|寻找《局外人》 http://www.gzhshoulu.wang/article/1002293697
-【纪念王家范先生】|我对《中国历史通论》的考虑 http://www.gzhshoulu.wang/article/1002300259
-每日一书|史家与史学（增订版） http://www.gzhshoulu.wang/article/1002300260
- http://www.gzhshoulu.wang/javascript:void(0);
-账号提交 http://www.gzhshoulu.wang/mood.html
-36
-ENGLISH (英文) http://www.nytimes.com/
-ESPAÑOL (西班牙语) http://www.nytimes.com/es/
- https://cn.nytimes.com/
-时报普利策获奖作品 https://cn.nytimes.com//cn.nytimes.com/topic/20160427/pulitzers-topic/?utm_source=news&utm_medium=nav&utm_campaign=nav-topic-nyt-pulitzer-prize
-观看全部视频 https://cn.nytimes.com//www.nytimes.com/video/china
-非洲 https://cn.nytimes.com/africa/
-美洲 https://cn.nytimes.com/americas/
-移动应用 • Apps https://cn.nytimes.com/apps
-艺术 https://cn.nytimes.com/art/
-亚太 https://cn.nytimes.com/asia-pacific/
- https://cn.nytimes.com/asia-pacific/20200702/taiwan-china-hong-kong/
-澳大利亚宣布暂停与香港引渡协议 https://cn.nytimes.com/asia-pacific/20200709/hong-kong-extradition-visas-china/
-韩国运动员自杀，体育界虐待文化引发反思 https://cn.nytimes.com/asia-pacific/20200710/korea-triathlete-suicide/
-韩国首尔市长死亡，此前被下属指性骚扰 https://cn.nytimes.com/asia-pacific/20200710/seoul-mayor-dead/
-科技公司 https://cn.nytimes.com/bits/
-阅读 https://cn.nytimes.com/books/
-商业与经济 https://cn.nytimes.com/business/
-香港成为中美网络自由斗争新前线 https://cn.nytimes.com/business/20200708/hong-kong-security-law-tech/
-漫画 https://cn.nytimes.com/cartoon/
-经济 https://cn.nytimes.com/china-ec/
-中国 https://cn.nytimes.com/china/
- https://cn.nytimes.com/china/20200701/china-critics-security-law-hong-kong/
- https://cn.nytimes.com/china/20200702/hong-kong-security-law-fear/
- https://cn.nytimes.com/china/20200703/hong-kong-security-china/
-新国安法下，香港电台未来引发担忧 https://cn.nytimes.com/china/20200709/hong-kong-security-china-media/
-香港禁止学生在校唱抗议歌曲 https://cn.nytimes.com/china/20200709/hong-kong-students-protests-china/
-中共全面改革香港教育体系 https://cn.nytimes.com/china/20200713/china-hong-kong-security-schools/
-文化 https://cn.nytimes.com/culture/
- https://cn.nytimes.com/culture/20200706/hu-jie-films/
- https://cn.nytimes.com/culture/20200708/hamilton-musical-history-facts/
-交易录 https://cn.nytimes.com/dealbook/
-教育 https://cn.nytimes.com/education/
- https://cn.nytimes.com/education/20200713/harvard-students-coronavirus/
-欧洲 https://cn.nytimes.com/europe/
-时尚 https://cn.nytimes.com/fashion/
-电影与电视 https://cn.nytimes.com/film-tv/
-美食与美酒 https://cn.nytimes.com/food-wine/
-中外关系 https://cn.nytimes.com/foreign-relations/
-全球经济 https://cn.nytimes.com/global-ec/
-健康 https://cn.nytimes.com/health/
-传染病专家八问新冠病毒起源 https://cn.nytimes.com/health/20200710/coronavirus-origin-china-lucey/
-关于我们 https://cn.nytimes.com/help/about-us/
-广告 https://cn.nytimes.com/help/ad/
-联系我们 https://cn.nytimes.com/help/contact/
-版权声明 https://cn.nytimes.com/help/copyright-statement/
-服务条款 https://cn.nytimes.com/help/tos/
-港澳台 https://cn.nytimes.com/hk-taiwan/
-镜头 https://cn.nytimes.com/lens/
-生活方式 https://cn.nytimes.com/lifestyle/
-中东 https://cn.nytimes.com/mideast/
-中共改革香港教育体系；许章润教授据信已获释 https://cn.nytimes.com/morning-brief/20200713/china-hong-kong-security-schools-xu-zhangrun-released/
-专栏作者 https://cn.nytimes.com/op-column/
-观点 https://cn.nytimes.com/op-ed/
-OPINION https://cn.nytimes.com/opinion
-观点与评论 https://cn.nytimes.com/opinion/
-中国是如何欺骗香港的 https://cn.nytimes.com/opinion/20200703/hong-kong-security-law-china/
-为什么我们应该重读乔治·奥威尔 https://cn.nytimes.com/opinion/20200706/orwell-fourth-of-july/
-新冠病毒将把我们带入“中国十年” https://cn.nytimes.com/opinion/20200713/china-coronavirus-power/
-中美新冷战会滑向热战吗 https://cn.nytimes.com/opinion/20200713/us-china-hot-war/
-科技与你 https://cn.nytimes.com/personal-tech/
-时政 https://cn.nytimes.com/policy/
-房地产 https://cn.nytimes.com/real-estate/
- https://cn.nytimes.com/real-estate/20200709/create-fragrant-garden-nice-smelling-plants/
-RSS https://cn.nytimes.com/rss/
-科学 https://cn.nytimes.com/science/
- https://cn.nytimes.com/slideshow/20200601/george-floyd-protest-photos-ss/
- https://cn.nytimes.com/slideshow/20200616/c16paris-atget-ss/
- https://cn.nytimes.com/slideshow/20200629/c29taiwan-pride-ss/
- https://cn.nytimes.com/slideshow/20200629/c29travel-zambia-ss/
- https://cn.nytimes.com/slideshow/20200701/italy-saffron-ss/
- https://cn.nytimes.com/slideshow/20200709/c09japan-flood-visual-ss/
-社会 https://cn.nytimes.com/society/
-南亚 https://cn.nytimes.com/south-asia/
-体育 https://cn.nytimes.com/sports/
-风尚 https://cn.nytimes.com/style/
- https://cn.nytimes.com/style/20200710/fashion-industry-dead-or-alive/
-科技 https://cn.nytimes.com/technology/
- https://cn.nytimes.com/technology/20200702/china-uighurs-hackers-malware-hackers-smartphones/
-简体 https://cn.nytimes.com/tools/r.html?url=/&langkey=zh-hans
-繁體 https://cn.nytimes.com/tools/r.html?url=/zh-hant/&langkey=zh-hant
-专题：聚焦新疆拘禁营 https://cn.nytimes.com/topic/20191230/xinjiang-uighur-muslim-camps/
-专题：聚焦新型冠状病毒疫情 https://cn.nytimes.com/topic/20200122/wuhan-coronavirus-pneumonia-topic/
-专题：香港国安法 https://cn.nytimes.com/topic/20200701/hong-kong-national-security-law/
-旅游 https://cn.nytimes.com/travel/
-美国 https://cn.nytimes.com/usa/
- https://cn.nytimes.com/usa/20200706/joe-biden-foreign-policy/
-美国将限制涉藏中国官员进入美国 https://cn.nytimes.com/usa/20200708/china-tibet-pompeo/
-哈佛MIT就留学生签证新规起诉政府 https://cn.nytimes.com/usa/20200709/harvard-mit-trump-ice-students/
-特朗普侄女为何要写书曝光家族丑闻 https://cn.nytimes.com/usa/20200709/mary-trump-book/
-“也许我就不该来”：被美国签证新规困住的留学生 https://cn.nytimes.com/usa/20200710/international-students-visa-reaction/
-美国就新疆拘禁营制裁中国官员 https://cn.nytimes.com/usa/20200710/trump-china-sanctions-uighurs/
-国际 https://cn.nytimes.com/world/
-中国与伊朗拟加强合作 https://cn.nytimes.com/world/20200713/china-iran-trade-military-deal/
-在中印夹缝中生存：喜马拉雅边境的拉达克人 https://cn.nytimes.com/world/20200713/india-china-border-ladakh/
-意见反馈 https://cn.nytimes.commailto:cn.help@nytimes.com?subject=FEEDBACK
-隐私权声明 https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy
-点击下载iOS APP https://itunes.apple.com/app/apple-store/id807498298?pt=13036&ct=news-hp&mt=8
-点击下载Android APK https://nytcnapps.oss-cn-hongkong.aliyuncs.com/latest.apk
-点击下载Android APP https://play.google.com/store/apps/details?id=com.nytimes.cn
-订阅新闻电邮 https://sso.nytcn.me/email/?source=top-right
- https://www.shi-magazine.com/
-101
-Catalyst http://catalyst-journal.com/
-Catalyst Logo https://catalyst-journal.com/
-About Catalyst https://catalyst-journal.com/about
-Subscribe https://catalyst-journal.com/subscribe
-Class Theory for Our Time https://catalyst-journal.com/vol4/no1/class-theory-for-our-time
-Editors’ Note https://catalyst-journal.com/vol4/no1/editorial-spring-2020
-Hobsbawm’s Century https://catalyst-journal.com/vol4/no1/hobsbawms-century
-Market Socialism Renewed https://catalyst-journal.com/vol4/no1/market-socialism-renewed
-Socialists and Immigration https://catalyst-journal.com/vol4/no1/socialists-and-immigration
-The Fall of Evo Morales https://catalyst-journal.com/vol4/no1/the-fall-of-evo-morales
-The Question of Borders https://catalyst-journal.com/vol4/no1/the-question-of-borders
-Jacobin Logo
-
-
-
-
-
-
-
-
-
-Jacobin Icon
-
-
-Jacobin https://jacobinmag.com//
+ http://tagesschau.de/sport/sportschau/manchester-city-cas-101.html
+ http://tagesschau.de/wirtschaft/boerse/fraport-corona-101.html
+ http://tagesschau.de/wirtschaft/boerse/hauptversammlung-dax-digital-101.html
+47
+0
+0
  https://jacobinmag.com//2020/05/frances-fox-piven-coronavirus-crisis-unemployment
  https://jacobinmag.com//2020/05/get-a-free-ebook-version-of-the-abcs-of-capitalism
  https://jacobinmag.com//2020/05/no-act-of-god
-Democrats Are Working With Liz Cheney to Prolong Dick Cheney’s Endless War https://jacobinmag.com//2020/07/afghanistan-war-liz-cheney-jason-crow
+ https://jacobinmag.com//2020/07/afghanistan-war-liz-cheney-jason-crow
  https://jacobinmag.com//2020/07/anti-racism-solidarity-black-jacobins
-We Worked on the Bernie Campaign — More Democracy Would’ve Made It More Effective https://jacobinmag.com//2020/07/bernie-sanders-campaign-strategy
-The Corporate Media Convinced Millions That Bernie Was “Unelectable” https://jacobinmag.com//2020/07/bernie-sanders-joe-biden-democratic-primary
-The “Camden Model” Is Not a Model. It’s an Obstacle to Real Change. https://jacobinmag.com//2020/07/camden-new-jersey-police-reform-surveillance
-Workers at Four Pittsburgh Museums Are Unionizing https://jacobinmag.com//2020/07/carnegie-museums-pittsburgh-union
+ https://jacobinmag.com//2020/07/bernie-sanders-campaign-strategy
+ https://jacobinmag.com//2020/07/bernie-sanders-joe-biden-democratic-primary
+ https://jacobinmag.com//2020/07/camden-new-jersey-police-reform-surveillance
+ https://jacobinmag.com//2020/07/carnegie-museums-pittsburgh-union
  https://jacobinmag.com//2020/07/chelsea-manning-james-averhart-alabama-congress
-When Harlem Renaissance Novelist Claude McKay Decamped for the Port of Marseille https://jacobinmag.com//2020/07/claude-mckay-marseille-review-literature
-To Defund the Police, We Have to Dethrone the Law Enforcement Lobby https://jacobinmag.com//2020/07/defund-police-unions-law-enforcement-lobby
+ https://jacobinmag.com//2020/07/claude-mckay-marseille-review-literature
+ https://jacobinmag.com//2020/07/defund-police-unions-law-enforcement-lobby
  https://jacobinmag.com//2020/07/eric-hobsbawn-life-history-richard-evans
-Eugene Debs’s Independence Day Address https://jacobinmag.com//2020/07/eugene-debs-independence-day-address-fourth-july
-Germany Needs to Own Up to the Horrors of Its Colonial Past in Africa https://jacobinmag.com//2020/07/german-colonialism-herero-nama-genocide-court-case
-Rest in Power, Harry Britt https://jacobinmag.com//2020/07/harry-britt-obituary-lgbt-dsa
+ https://jacobinmag.com//2020/07/eugene-debs-independence-day-address-fourth-july
+ https://jacobinmag.com//2020/07/german-colonialism-herero-nama-genocide-court-case
+ https://jacobinmag.com//2020/07/harry-britt-obituary-lgbt-dsa
  https://jacobinmag.com//2020/07/jackie-fielder-california-state-senate-district-11-dsa
-Jon Stewart’s Post-Partisan Critique of American Politics Is Stuck in 2004 https://jacobinmag.com//2020/07/jon-stewart-irresistible-review
+ https://jacobinmag.com//2020/07/jon-stewart-irresistible-review
  https://jacobinmag.com//2020/07/jonathan-sackler-opioid-epidemic-big-pharma
-Karl Marx and the Corporation https://jacobinmag.com//2020/07/karl-marx-capital-corporation-production-socialism
-No, Studying Marx Is Not Elitist https://jacobinmag.com//2020/07/karl-marx-study
-Kylie Jenner’s Clothing Brand Is Stiffing Workers. It’s Time to Organize the Stans. https://jacobinmag.com//2020/07/kylie-jenner-sweatshop-garment-workers-covid
+ https://jacobinmag.com//2020/07/karl-marx-capital-corporation-production-socialism
+ https://jacobinmag.com//2020/07/karl-marx-study
+ https://jacobinmag.com//2020/07/kylie-jenner-sweatshop-garment-workers-covid
  https://jacobinmag.com//2020/07/labor-secretary-eugene-scalia-private-profits
-The Labour Party Can’t Retreat From Its Vision of Change https://jacobinmag.com//2020/07/labour-green-jobs-coronavirus-climate-change
+ https://jacobinmag.com//2020/07/labour-green-jobs-coronavirus-climate-change
  https://jacobinmag.com//2020/07/melbourne-victoria-hard-lockdown-coronavirus-covid-public-housing
-It’s Time for Mexico to Tax the Rich https://jacobinmag.com//2020/07/mexico-amlo-tax-reform
+ https://jacobinmag.com//2020/07/mexico-amlo-tax-reform
  https://jacobinmag.com//2020/07/mike-davis-coronavirus-the-monster-enters
  https://jacobinmag.com//2020/07/multiracial-solidarity-unions
  https://jacobinmag.com//2020/07/nan-elizabeth-woodruff-american-congo-mississippi-delta
-Why the New National Security Laws in Hong Kong Matter https://jacobinmag.com//2020/07/national-security-laws-hong-kong
+ https://jacobinmag.com//2020/07/national-security-laws-hong-kong
  https://jacobinmag.com//2020/07/one-percent-canada-wealth-tax
  https://jacobinmag.com//2020/07/police-tactics-israel-palestine-brutality
-Public Transportation Is a Human Right https://jacobinmag.com//2020/07/public-transportation-funding-nationalize-trains
-The Racial Wealth Gap Is About the Upper Classes https://jacobinmag.com//2020/07/racial-wealth-gap-redistribution
-Tear Confederate Statues Down, Keep Union Statues Up, and Build New Antislavery Monuments https://jacobinmag.com//2020/07/statues-confederate-slavery-black-lives-matter
-Big Business Still Has Enormous Control of American Politics at Every Level https://jacobinmag.com//2020/07/thomas-ferguson-business-interests-coronavirus-covid-election
+ https://jacobinmag.com//2020/07/public-transportation-funding-nationalize-trains
+ https://jacobinmag.com//2020/07/racial-wealth-gap-redistribution
+ https://jacobinmag.com//2020/07/statues-confederate-slavery-black-lives-matter
+ https://jacobinmag.com//2020/07/thomas-ferguson-business-interests-coronavirus-covid-election
  https://jacobinmag.com//2020/07/west-papua-black-lives-matter
-Honor William Cuffay: The Chartists’ Forgotten Black Leader https://jacobinmag.com//2020/07/william-cuffay-chartists-black-british-history-statue
-Decades of Progress for Women Workers Are at Risk https://jacobinmag.com//2020/07/women-labor-wage-gap-pandemic-childcare
-In These Stunning Images, Ordinary Yugoslav Partisans Captured Their Revolution on Camera https://jacobinmag.com//2020/07/yugoslavia-partisan-photography-red-light
-About https://jacobinmag.com//about
-Advertise https://jacobinmag.com//advertise
-Editors https://jacobinmag.com//author/Editors
-Andrew Perez https://jacobinmag.com//author/andrew-perez
-Bryan D. Palmer https://jacobinmag.com//author/bryan-d-palmer
-Chris Dite https://jacobinmag.com//author/chris-dite
-David Sirota https://jacobinmag.com//author/david-sirota
-Elyse Semerdjian https://jacobinmag.com//author/elyse-semerdjian
-Febriana Firdaus https://jacobinmag.com//author/febriana-firdaus
-Frances Fox Piven https://jacobinmag.com//author/frances-fox-piven
-Jackie Fielder https://jacobinmag.com//author/jackie-fielder
-John Merrick https://jacobinmag.com//author/john-merrick
-Luke Savage https://jacobinmag.com//author/luke-savage
-Meagan Day https://jacobinmag.com//author/meagan-day
-Nan Elizabeth Woodruff https://jacobinmag.com//author/nan-elizabeth-woodruff
-Nick French https://jacobinmag.com//author/nick-french
-Blog https://jacobinmag.com//blog
-Art https://jacobinmag.com//category/art
-Austerity https://jacobinmag.com//category/austerity
-Books https://jacobinmag.com//category/books
-Borders and Immigration https://jacobinmag.com//category/borders
-Capital https://jacobinmag.com//category/capital
-Cities https://jacobinmag.com//category/cities
-Commodification https://jacobinmag.com//category/commodification
-Conjectures https://jacobinmag.com//category/conjectures
-Conservatism https://jacobinmag.com//category/conservatism
-Crisis https://jacobinmag.com//category/crisis
-Culture https://jacobinmag.com//category/culture
-Debt https://jacobinmag.com//category/debt
-Development https://jacobinmag.com//category/development
-Economic Science https://jacobinmag.com//category/economic-thought
-Economy https://jacobinmag.com//category/economy
-Education https://jacobinmag.com//category/education
-Electoral Politics https://jacobinmag.com//category/electoral-politics
-Environment https://jacobinmag.com//category/environment
-Feminism https://jacobinmag.com//category/feminism
-Film and TV https://jacobinmag.com//category/film
-Food https://jacobinmag.com//category/food
-Health https://jacobinmag.com//category/health
-History https://jacobinmag.com//category/history
-Ideas https://jacobinmag.com//category/ideas
-Ideology https://jacobinmag.com//category/ideology
-War and Imperialism https://jacobinmag.com//category/imperialism
-Inequality https://jacobinmag.com//category/inequality
-Wages, Productivity, and Unemployment https://jacobinmag.com//category/labor
-Law https://jacobinmag.com//category/law
-LGBTQ https://jacobinmag.com//category/lgbtq
-Liberalism https://jacobinmag.com//category/liberalism
-Literature https://jacobinmag.com//category/literature
-Media https://jacobinmag.com//category/media
-Music https://jacobinmag.com//category/music
-Unions https://jacobinmag.com//category/organized-labor
-Policing and Repression https://jacobinmag.com//category/police-repression
-Policy https://jacobinmag.com//category/policy
-Politics https://jacobinmag.com//category/politics
-Prisons https://jacobinmag.com//category/prisons
-Race https://jacobinmag.com//category/race
-Religion https://jacobinmag.com//category/religion
-Rich People https://jacobinmag.com//category/rich
-Science and Technology https://jacobinmag.com//category/science-technology
-Society https://jacobinmag.com//category/society
-Sports https://jacobinmag.com//category/sports
-State https://jacobinmag.com//category/state
-Strategy https://jacobinmag.com//category/strategy
-Theory https://jacobinmag.com//category/theory
-Work https://jacobinmag.com//category/work
-Generational War https://jacobinmag.com//category/youth-social
-Contact Us https://jacobinmag.com//contact
-Bass and Superstructure https://jacobinmag.com//department/bass-and-superstructure
-Beyond a Boundary https://jacobinmag.com//department/beyond-a-boundary
-Canon Fodder https://jacobinmag.com//department/canon-fodder
-Cultural Capital https://jacobinmag.com//department/cultural-capital
-Dossier https://jacobinmag.com//department/dossier
-Feature https://jacobinmag.com//department/feature
-Friends and Foes https://jacobinmag.com//department/friends-and-foes
-Front Matters https://jacobinmag.com//department/front-matters
-Girondins https://jacobinmag.com//department/girondins
-Leftovers https://jacobinmag.com//department/leftovers
-Means and Ends https://jacobinmag.com//department/means-and-ends
-Means of Deduction https://jacobinmag.com//department/means-of-deduction
-Party Lines https://jacobinmag.com//department/party-lines
-Popular Front https://jacobinmag.com//department/popular-front
-Reading Materiel https://jacobinmag.com//department/reading-materiel
-Red Channels https://jacobinmag.com//department/red-channels
-Struggle Session https://jacobinmag.com//department/struggle-session
-The Cookshop https://jacobinmag.com//department/the-cookshop
-The Dustbin https://jacobinmag.com//department/the-dustbin
-The Tumbrel https://jacobinmag.com//department/the-tumbrel
-The Vulgar Empiricist https://jacobinmag.com//department/the-vulgar-empiricist
-Thermidor https://jacobinmag.com//department/thermidor
-Uneven and Combined https://jacobinmag.com//department/uneven-and-combined
-Versailles https://jacobinmag.com//department/versailles
-Ways of Seeing https://jacobinmag.com//department/ways-of-seeing
-Donate https://jacobinmag.com//donate
-Announcements https://jacobinmag.com//format/announcements
-Dispatches https://jacobinmag.com//format/dispatches
-Interview https://jacobinmag.com//format/interview
-Lists https://jacobinmag.com//format/listicle
-Notes https://jacobinmag.com//format/notes
-Obituaries https://jacobinmag.com//format/obituaries
-Profiles https://jacobinmag.com//format/profiles
-Radio https://jacobinmag.com//format/radio
-Review https://jacobinmag.com//format/review
-Roundtable https://jacobinmag.com//format/roundtable
-Video https://jacobinmag.com//format/video
-Issue 32: A True Story of the Future https://jacobinmag.com//issue/a-true-story-of-the-future
-Issue 14: A World to Win https://jacobinmag.com//issue/a-world-to-win
-Issue 13: Alive in the Sunshine https://jacobinmag.com//issue/alive-in-the-sunshine
-Issue 2: And Yet It Moves https://jacobinmag.com//issue/and-yet-it-moves
-Issue 10: Assembly Required https://jacobinmag.com//issue/assembly-required-2
-Issue 21: Between the Risings https://jacobinmag.com//issue/between-the-risings
-Issue 31: Breaking Bank https://jacobinmag.com//issue/breaking-bank
-Issue 25: By Taking Power https://jacobinmag.com//issue/by-taking-power
-Issue 30: Childhood https://jacobinmag.com//issue/childhood
-Issue 26: Earth, Wind, & Fire https://jacobinmag.com//issue/earth-wind-and-fire
-Issue 7-8: Emancipation https://jacobinmag.com//issue/emancipation
-Issue 35: From Socialism to Populism and Back https://jacobinmag.com//issue/from-socialism-to-populism-and-back
-Issue 33: Home Improvement https://jacobinmag.com//issue/home-improvement
-Issue 1: Introducing… https://jacobinmag.com//issue/introducing
-Issue 24: Journey to the Dark Side https://jacobinmag.com//issue/journey-to-the-dark-side
-Issue 3-4: Liberalism is Dead https://jacobinmag.com//issue/liberalism-is-dead
-Issue 11-12: Misery Index https://jacobinmag.com//issue/misery-index
-Issue 9: Modify Your Dissent https://jacobinmag.com//issue/modify-your-dissent
-Issue 29: 1968 https://jacobinmag.com//issue/nineteen-sixty-eight
-Issue 17: Ours to Master https://jacobinmag.com//issue/ours-to-master
-Issue 15-16: Paint the Town Red https://jacobinmag.com//issue/paint-the-town-red
-Magazine https://jacobinmag.com//issue/pandemic-politics
-Issue 5: Phase Two https://jacobinmag.com//issue/phase-two
-Issue 36: Political Revolution https://jacobinmag.com//issue/political-revolution
-Issue 6: Praxis https://jacobinmag.com//issue/praxis
-Issue 22: Rank and File https://jacobinmag.com//issue/rank-and-file
-Issue 18: Struggle and Progress https://jacobinmag.com//issue/struggle-and-progress
-Issue 27: The First Red Century https://jacobinmag.com//issue/the-first-red-century
-Issue 28: The Health of Nations https://jacobinmag.com//issue/the-health-of-nations
-Issue 23: The Party We Need https://jacobinmag.com//issue/the-party-we-need
-Issue 19: Uneven and Combined https://jacobinmag.com//issue/uneven-and-combined
-Issue 20: Up From Liberalism https://jacobinmag.com//issue/up-from-liberalism
-Issue 34: War Is a Racket https://jacobinmag.com//issue/war-is-a-racket
-Afghanistan https://jacobinmag.com//location/afghanistan
-Algeria https://jacobinmag.com//location/algeria
-Angola https://jacobinmag.com//location/angola
-Argentina https://jacobinmag.com//location/argentina
-Armenia https://jacobinmag.com//location/armenia
-Australia https://jacobinmag.com//location/australia
-Austria https://jacobinmag.com//location/austria
-Azerbaijan https://jacobinmag.com//location/azerbaijan
-Bahrain https://jacobinmag.com//location/bahrain
-Bangladesh https://jacobinmag.com//location/bangladesh
-Belarus https://jacobinmag.com//location/belarus
-Belgium https://jacobinmag.com//location/belgium
-Bolivia https://jacobinmag.com//location/bolivia
-Bosnia https://jacobinmag.com//location/bosnia
-Brazil https://jacobinmag.com//location/brazil
-Bulgaria https://jacobinmag.com//location/bulgaria
-Burkina Faso https://jacobinmag.com//location/burkina-faso
-Cambodia https://jacobinmag.com//location/cambodia
-Cameroon https://jacobinmag.com//location/cameroon
-Canada https://jacobinmag.com//location/canada
-Chile https://jacobinmag.com//location/chile
-China https://jacobinmag.com//location/china
-Colombia https://jacobinmag.com//location/colombia
-Congo https://jacobinmag.com//location/congo
-Costa Rica https://jacobinmag.com//location/costa-rica
-Croatia https://jacobinmag.com//location/croatia
-Cuba https://jacobinmag.com//location/cuba
-Cyprus https://jacobinmag.com//location/cyprus
-Czech Republic https://jacobinmag.com//location/czech-republic
-Denmark https://jacobinmag.com//location/denmark
-Dominica https://jacobinmag.com//location/dominica
-Dominican Republic https://jacobinmag.com//location/dominican-republic
-Ecuador https://jacobinmag.com//location/ecuador
-Egypt https://jacobinmag.com//location/egypt
-El Salvador https://jacobinmag.com//location/el-salvador
-Eritrea https://jacobinmag.com//location/eritrea
-Ethiopia https://jacobinmag.com//location/ethiopia
-Finland https://jacobinmag.com//location/finland
-France https://jacobinmag.com//location/france
-Georgia https://jacobinmag.com//location/georgia
-Germany https://jacobinmag.com//location/germany
-Ghana https://jacobinmag.com//location/ghana
-Greece https://jacobinmag.com//location/greece
-Guatemala https://jacobinmag.com//location/guatemala
-Guina https://jacobinmag.com//location/guina
-Haiti https://jacobinmag.com//location/haiti
-Honduras https://jacobinmag.com//location/honduras
-Hong Kong https://jacobinmag.com//location/hong-kong
-Hungary https://jacobinmag.com//location/hungary
-Iceland https://jacobinmag.com//location/iceland
-India https://jacobinmag.com//location/india
-Indonesia https://jacobinmag.com//location/indonesia
-Iran https://jacobinmag.com//location/iran
-Iraq https://jacobinmag.com//location/iraq
-Ireland https://jacobinmag.com//location/ireland
-Israel / Palestine https://jacobinmag.com//location/israel-palestine
-Italy https://jacobinmag.com//location/italy
-Jamaica https://jacobinmag.com//location/jamaica
-Japan https://jacobinmag.com//location/japan
-Jordan https://jacobinmag.com//location/jordan
-Kenya https://jacobinmag.com//location/kenya
-Kurdistan https://jacobinmag.com//location/kurdistan
-Laos https://jacobinmag.com//location/laos
-Lebanon https://jacobinmag.com//location/lebanon
-Libya https://jacobinmag.com//location/libya
-Luxembourg https://jacobinmag.com//location/luxembourg
-Macedonia https://jacobinmag.com//location/macedonia
-Malaysia https://jacobinmag.com//location/malaysia
-Malta https://jacobinmag.com//location/malta
-Mexico https://jacobinmag.com//location/mexico
-Moldova https://jacobinmag.com//location/moldova
-Mongolia https://jacobinmag.com//location/mongolia
-Morocco https://jacobinmag.com//location/morocco
-Mozambique https://jacobinmag.com//location/mozambique
-Myanmar / Burma https://jacobinmag.com//location/myanmar-burma
-Nepal https://jacobinmag.com//location/nepal
-Netherlands https://jacobinmag.com//location/netherlands
-New Zealand https://jacobinmag.com//location/new-zealand
-Nicaragua https://jacobinmag.com//location/nicaragua
-Nigeria https://jacobinmag.com//location/nigeria
-North Korea https://jacobinmag.com//location/north-korea
-Sudan https://jacobinmag.com//location/north-sudan
-Norway https://jacobinmag.com//location/norway
-Pakistan https://jacobinmag.com//location/pakistan
-Panama https://jacobinmag.com//location/panama
-Peru https://jacobinmag.com//location/peru
-Philippines https://jacobinmag.com//location/philippines
-Poland https://jacobinmag.com//location/poland
-Portugal https://jacobinmag.com//location/portugal
-Puerto Rico https://jacobinmag.com//location/puerto-rico
-Qatar https://jacobinmag.com//location/qatar
-Romania https://jacobinmag.com//location/romania
-Russia https://jacobinmag.com//location/russia
-Rwanda https://jacobinmag.com//location/rwanda
-Saudi Arabia https://jacobinmag.com//location/saudi-arabia
-Scotland https://jacobinmag.com//location/scotland
-Serbia https://jacobinmag.com//location/serbia
-Sierra Leone https://jacobinmag.com//location/sierra-leone
-Singapore https://jacobinmag.com//location/singapore
-Slovakia https://jacobinmag.com//location/slovakia
-Slovenia https://jacobinmag.com//location/slovenia
-South Africa https://jacobinmag.com//location/south-africa
-South Korea https://jacobinmag.com//location/south-korea
-South Sudan https://jacobinmag.com//location/south-sudan
-Spain https://jacobinmag.com//location/spain
-Sri Lanka https://jacobinmag.com//location/sri-lanka
-Sweden https://jacobinmag.com//location/sweden
-Switzerland https://jacobinmag.com//location/switzerland
-Syria https://jacobinmag.com//location/syria
-Taiwan https://jacobinmag.com//location/taiwan
-Tanzania https://jacobinmag.com//location/tanzania
-Thailand https://jacobinmag.com//location/thailand
-Tibet https://jacobinmag.com//location/tibet
-Tunisia https://jacobinmag.com//location/tunisia
-Turkey https://jacobinmag.com//location/turkey
-UK https://jacobinmag.com//location/uk
-Ukraine https://jacobinmag.com//location/ukraine
-United Arab Emirates https://jacobinmag.com//location/united-arab-emirates
-United Kingdom https://jacobinmag.com//location/united-kingdom
-United States https://jacobinmag.com//location/united-states
-Venezuela https://jacobinmag.com//location/venezuela
-Vietnam https://jacobinmag.com//location/vietnam
-West Papua https://jacobinmag.com//location/west-papua
-Yemen https://jacobinmag.com//location/yemen
-Zimbabwe https://jacobinmag.com//location/zimbabwe
-Reading Groups https://jacobinmag.com//reading-groups
-Security Policy https://jacobinmag.com//security
-The ABCs of Socialism https://jacobinmag.com//series/abcs-socialism
-Against Thrift https://jacobinmag.com//series/against-thrift
-Anti-Work https://jacobinmag.com//series/anti-work
-Art and Class https://jacobinmag.com//series/art-and-class
-Assessing Obama https://jacobinmag.com//series/assessing-obama
-C. Wright Mills https://jacobinmag.com//series/c-wright-mills
-Charter Schools https://jacobinmag.com//series/charter-schools-in-new-orleans
-Chattanooga https://jacobinmag.com//series/chattanooga
-Class and Identity https://jacobinmag.com//series/class-and-identity
-Climate Change and Apocalypse https://jacobinmag.com//series/climate-change-and-apocalypse
-Density https://jacobinmag.com//series/density
-Foucault https://jacobinmag.com//series/foucault
-Frick Collection https://jacobinmag.com//series/frick-collection
-Gamer Culture https://jacobinmag.com//series/gamer-culture
-Geek Culture https://jacobinmag.com//series/geek-culture
-Graeber's Debt https://jacobinmag.com//series/graebers-debt
-Hostess Bankruptcy https://jacobinmag.com//series/hostess-bankruptcy
-Irish Marriage Equality https://jacobinmag.com//series/irish-marriage-equality
-2018 Italian Elections https://jacobinmag.com//series/italian-elections-2018
-Left and State https://jacobinmag.com//series/left-and-state
-Lincoln https://jacobinmag.com//series/lincoln
-Lincoln and Emancipation https://jacobinmag.com//series/lincoln-and-emancipation
-Market Socialism https://jacobinmag.com//series/market-socialism
-Marx's Inferno https://jacobinmag.com//series/marxs-inferno
-Morality and the Left https://jacobinmag.com//series/morality-and-the-left
-Piketty https://jacobinmag.com//series/piketty
-Police and Occupy https://jacobinmag.com//series/police-and-occupy
-Popular Power https://jacobinmag.com//series/popular-power
-Prison Abolition and Prison Reform https://jacobinmag.com//series/prison-abolition
-Projects https://jacobinmag.com//series/projects
-Real Utopias https://jacobinmag.com//series/real-utopias
-Reparations https://jacobinmag.com//series/reparations
-The Russian Revolution at 100 https://jacobinmag.com//series/russian-revolution
-Strike for America: Chicago Teachers Against Austerity https://jacobinmag.com//series/strike-for-america
-Superpredator https://jacobinmag.com//series/superpredator
-The Chinese Working Class https://jacobinmag.com//series/the-chinese-working-class
-The Demise of Unions https://jacobinmag.com//series/the-demise-of-unions
-The Jacobin Spirit https://jacobinmag.com//series/the-jacobin-spirit
-The Lula Conviction https://jacobinmag.com//series/the-lula-conviction
-The Making of Global Capitalism https://jacobinmag.com//series/the-making-of-global-capitalism
-The Politics of Climate Change https://jacobinmag.com//series/the-politics-of-climate-change
-The Precariat https://jacobinmag.com//series/the-precariat
-This Changes Everything https://jacobinmag.com//series/this-changes-everything
-Trans-Pacific Partnership https://jacobinmag.com//series/trans-pacific-partnership
-Victory in Europe https://jacobinmag.com//series/v-e-day
-The West Virginia Strike https://jacobinmag.com//series/west-virginia-strike-2018
-Store https://jacobinmag.com//store
-Back Issues https://jacobinmag.com//storeissues
-Subscribe https://jacobinmag.com//subscribe
-Renew Your Subscription https://jacobinmag.com//subscribe/renew
-$19.95 https://jacobinmag.com//subscribe?level=standard-digital
-$29.95 https://jacobinmag.com//subscribe?level=standard-print
-Pandemic Politics https://jacobinmag.com/issue/pandemic-politics
-Get a discounted subscription today https://jacobinmag.com/subscribe/?code=PANDEMICPOLITICS
-Twitter https://twitter.com/jacobinmag
-Podcasts https://www.blubrry.com/jacobin/
-Facebook https://www.facebook.com/jacobinmag/
-374
-開放社區 https://github.com/thematters/developer-resource
- https://matters.news//
-下載應用 https://matters.news//@1ampa55ag3/guidance-如何让你的matters之旅更便捷-bafyreiayiuxi4qc2a7qpgjp3fe42wmaoppqykckcvtq4hiukl5pgs3dn2m
-作品 https://matters.news//@Margaux1848
-1966-1971年中国国内的反抗与镇压|马各庄图书室 https://matters.news//@Margaux1848/1966-1971年中国国内的反抗与镇压-马各庄图书室-bafyreif4slc76xurojksxzfjb2mkq5ig5oyanbpakkoio6yctplr4hbgue
-1966-1971年中国国内的反抗与镇压|马各庄图书室 https://matters.news//@Margaux1848/1966-1971年中国国内的反抗与镇压-马各庄图书室-bafyreifx5yhstd642v3l7xcwjq6eygnflhbm4vemqacczkpza7pdpsacgq
-#Black Lives Matter会成为21世纪的黑豹党吗？｜马各庄国际 https://matters.news//@Margaux1848/black-lives-matter会成为21世纪的黑豹党吗-马各庄国际-bafyreif3fo5lwuc6twbxzl2z6w4o5syeiy2rybmpeqsijbupcvuqak7m4u
+ https://jacobinmag.com//2020/07/william-cuffay-chartists-black-british-history-statue
+ https://jacobinmag.com//2020/07/women-labor-wage-gap-pandemic-childcare
+ https://jacobinmag.com//2020/07/yugoslavia-partisan-photography-red-light
+ https://jacobinmag.com//author/Editors
+ https://jacobinmag.com//author/andrew-perez
+ https://jacobinmag.com//author/bryan-d-palmer
+ https://jacobinmag.com//author/chris-dite
+ https://jacobinmag.com//author/david-sirota
+ https://jacobinmag.com//author/elyse-semerdjian
+ https://jacobinmag.com//author/febriana-firdaus
+ https://jacobinmag.com//author/frances-fox-piven
+ https://jacobinmag.com//author/jackie-fielder
+ https://jacobinmag.com//author/john-merrick
+ https://jacobinmag.com//author/luke-savage
+ https://jacobinmag.com//author/meagan-day
+ https://jacobinmag.com//author/nan-elizabeth-woodruff
+ https://jacobinmag.com//author/nick-french
+ https://jacobinmag.com//category/art
+ https://jacobinmag.com//category/austerity
+ https://jacobinmag.com//category/books
+ https://jacobinmag.com//category/borders
+ https://jacobinmag.com//category/capital
+ https://jacobinmag.com//category/cities
+ https://jacobinmag.com//category/commodification
+ https://jacobinmag.com//category/conjectures
+ https://jacobinmag.com//category/conservatism
+ https://jacobinmag.com//category/crisis
+ https://jacobinmag.com//category/culture
+ https://jacobinmag.com//category/debt
+ https://jacobinmag.com//category/development
+ https://jacobinmag.com//category/economic-thought
+ https://jacobinmag.com//category/economy
+ https://jacobinmag.com//category/education
+ https://jacobinmag.com//category/electoral-politics
+ https://jacobinmag.com//category/environment
+ https://jacobinmag.com//category/feminism
+ https://jacobinmag.com//category/film
+ https://jacobinmag.com//category/food
+ https://jacobinmag.com//category/health
+ https://jacobinmag.com//category/history
+ https://jacobinmag.com//category/ideas
+ https://jacobinmag.com//category/ideology
+ https://jacobinmag.com//category/imperialism
+ https://jacobinmag.com//category/inequality
+ https://jacobinmag.com//category/labor
+ https://jacobinmag.com//category/law
+ https://jacobinmag.com//category/lgbtq
+ https://jacobinmag.com//category/liberalism
+ https://jacobinmag.com//category/literature
+ https://jacobinmag.com//category/media
+ https://jacobinmag.com//category/music
+ https://jacobinmag.com//category/organized-labor
+ https://jacobinmag.com//category/police-repression
+ https://jacobinmag.com//category/policy
+ https://jacobinmag.com//category/politics
+ https://jacobinmag.com//category/prisons
+ https://jacobinmag.com//category/race
+ https://jacobinmag.com//category/religion
+ https://jacobinmag.com//category/rich
+ https://jacobinmag.com//category/science-technology
+ https://jacobinmag.com//category/society
+ https://jacobinmag.com//category/sports
+ https://jacobinmag.com//category/state
+ https://jacobinmag.com//category/strategy
+ https://jacobinmag.com//category/theory
+ https://jacobinmag.com//category/work
+ https://jacobinmag.com//category/youth-social
+ https://jacobinmag.com//department/bass-and-superstructure
+ https://jacobinmag.com//department/beyond-a-boundary
+ https://jacobinmag.com//department/canon-fodder
+ https://jacobinmag.com//department/cultural-capital
+ https://jacobinmag.com//department/dossier
+ https://jacobinmag.com//department/feature
+ https://jacobinmag.com//department/friends-and-foes
+ https://jacobinmag.com//department/front-matters
+ https://jacobinmag.com//department/girondins
+ https://jacobinmag.com//department/leftovers
+ https://jacobinmag.com//department/means-and-ends
+ https://jacobinmag.com//department/means-of-deduction
+ https://jacobinmag.com//department/party-lines
+ https://jacobinmag.com//department/popular-front
+ https://jacobinmag.com//department/reading-materiel
+ https://jacobinmag.com//department/red-channels
+ https://jacobinmag.com//department/struggle-session
+ https://jacobinmag.com//department/the-cookshop
+ https://jacobinmag.com//department/the-dustbin
+ https://jacobinmag.com//department/the-tumbrel
+ https://jacobinmag.com//department/the-vulgar-empiricist
+ https://jacobinmag.com//department/thermidor
+ https://jacobinmag.com//department/uneven-and-combined
+ https://jacobinmag.com//department/versailles
+ https://jacobinmag.com//department/ways-of-seeing
+ https://jacobinmag.com//format/announcements
+ https://jacobinmag.com//format/dispatches
+ https://jacobinmag.com//format/interview
+ https://jacobinmag.com//format/listicle
+ https://jacobinmag.com//format/notes
+ https://jacobinmag.com//format/obituaries
+ https://jacobinmag.com//format/profiles
+ https://jacobinmag.com//format/radio
+ https://jacobinmag.com//format/review
+ https://jacobinmag.com//format/roundtable
+ https://jacobinmag.com//issue/a-true-story-of-the-future
+ https://jacobinmag.com//issue/a-world-to-win
+ https://jacobinmag.com//issue/alive-in-the-sunshine
+ https://jacobinmag.com//issue/and-yet-it-moves
+ https://jacobinmag.com//issue/assembly-required-2
+ https://jacobinmag.com//issue/between-the-risings
+ https://jacobinmag.com//issue/breaking-bank
+ https://jacobinmag.com//issue/by-taking-power
+ https://jacobinmag.com//issue/childhood
+ https://jacobinmag.com//issue/earth-wind-and-fire
+ https://jacobinmag.com//issue/emancipation
+ https://jacobinmag.com//issue/from-socialism-to-populism-and-back
+ https://jacobinmag.com//issue/home-improvement
+ https://jacobinmag.com//issue/introducing
+ https://jacobinmag.com//issue/journey-to-the-dark-side
+ https://jacobinmag.com//issue/liberalism-is-dead
+ https://jacobinmag.com//issue/misery-index
+ https://jacobinmag.com//issue/modify-your-dissent
+ https://jacobinmag.com//issue/nineteen-sixty-eight
+ https://jacobinmag.com//issue/ours-to-master
+ https://jacobinmag.com//issue/paint-the-town-red
+ https://jacobinmag.com//issue/pandemic-politics
+ https://jacobinmag.com//issue/phase-two
+ https://jacobinmag.com//issue/political-revolution
+ https://jacobinmag.com//issue/praxis
+ https://jacobinmag.com//issue/rank-and-file
+ https://jacobinmag.com//issue/struggle-and-progress
+ https://jacobinmag.com//issue/the-first-red-century
+ https://jacobinmag.com//issue/the-health-of-nations
+ https://jacobinmag.com//issue/the-party-we-need
+ https://jacobinmag.com//issue/uneven-and-combined
+ https://jacobinmag.com//issue/up-from-liberalism
+ https://jacobinmag.com//issue/war-is-a-racket
+ https://jacobinmag.com//series/abcs-socialism
+ https://jacobinmag.com//series/against-thrift
+ https://jacobinmag.com//series/anti-work
+ https://jacobinmag.com//series/art-and-class
+ https://jacobinmag.com//series/assessing-obama
+ https://jacobinmag.com//series/c-wright-mills
+ https://jacobinmag.com//series/charter-schools-in-new-orleans
+ https://jacobinmag.com//series/chattanooga
+ https://jacobinmag.com//series/class-and-identity
+ https://jacobinmag.com//series/climate-change-and-apocalypse
+ https://jacobinmag.com//series/density
+ https://jacobinmag.com//series/foucault
+ https://jacobinmag.com//series/frick-collection
+ https://jacobinmag.com//series/gamer-culture
+ https://jacobinmag.com//series/geek-culture
+ https://jacobinmag.com//series/graebers-debt
+ https://jacobinmag.com//series/hostess-bankruptcy
+ https://jacobinmag.com//series/irish-marriage-equality
+ https://jacobinmag.com//series/italian-elections-2018
+ https://jacobinmag.com//series/left-and-state
+ https://jacobinmag.com//series/lincoln
+ https://jacobinmag.com//series/lincoln-and-emancipation
+ https://jacobinmag.com//series/market-socialism
+ https://jacobinmag.com//series/marxs-inferno
+ https://jacobinmag.com//series/morality-and-the-left
+ https://jacobinmag.com//series/piketty
+ https://jacobinmag.com//series/police-and-occupy
+ https://jacobinmag.com//series/popular-power
+ https://jacobinmag.com//series/prison-abolition
+ https://jacobinmag.com//series/projects
+ https://jacobinmag.com//series/real-utopias
+ https://jacobinmag.com//series/reparations
+ https://jacobinmag.com//series/russian-revolution
+ https://jacobinmag.com//series/strike-for-america
+ https://jacobinmag.com//series/superpredator
+ https://jacobinmag.com//series/the-chinese-working-class
+ https://jacobinmag.com//series/the-demise-of-unions
+ https://jacobinmag.com//series/the-jacobin-spirit
+ https://jacobinmag.com//series/the-lula-conviction
+ https://jacobinmag.com//series/the-making-of-global-capitalism
+ https://jacobinmag.com//series/the-politics-of-climate-change
+ https://jacobinmag.com//series/the-precariat
+ https://jacobinmag.com//series/this-changes-everything
+ https://jacobinmag.com//series/trans-pacific-partnership
+ https://jacobinmag.com//series/v-e-day
+ https://jacobinmag.com//series/west-virginia-strike-2018
+ https://jacobinmag.com//subscribe/renew
+219
+ https://matters.news//@1ampa55ag3/guidance-如何让你的matters之旅更便捷-bafyreiayiuxi4qc2a7qpgjp3fe42wmaoppqykckcvtq4hiukl5pgs3dn2m
+ https://matters.news//@Margaux1848/1966-1971年中国国内的反抗与镇压-马各庄图书室-bafyreif4slc76xurojksxzfjb2mkq5ig5oyanbpakkoio6yctplr4hbgue
+ https://matters.news//@Margaux1848/1966-1971年中国国内的反抗与镇压-马各庄图书室-bafyreifx5yhstd642v3l7xcwjq6eygnflhbm4vemqacczkpza7pdpsacgq
+ https://matters.news//@Margaux1848/black-lives-matter会成为21世纪的黑豹党吗-马各庄国际-bafyreif3fo5lwuc6twbxzl2z6w4o5syeiy2rybmpeqsijbupcvuqak7m4u
 評論 https://matters.news//@Margaux1848/comments
 0 https://matters.news//@Margaux1848/followees
 42 https://matters.news//@Margaux1848/followers
-不止黑人参与的BLACK LIVES MATTER｜马各庄国际 https://matters.news//@Margaux1848/不止黑人参与的black-lives-matter-马各庄国际-bafyreidiibvns32moyad32cg5zptyplnoysolfnuj6oynbtabmxpe5gprm
-国家主义的进化史：从波拿巴的法国到艾森豪威尔的美国｜马各庄图书室 https://matters.news//@Margaux1848/国家主义的进化史-从波拿巴的法国到艾森豪威尔的美国-马各庄图书室-bafyreid732ljvgayz2yc7hjmdfdryf2ch3nfadz7onuyb2o2gbniooe3qy
-如何研究当代资本主义｜马各庄图书室 https://matters.news//@Margaux1848/如何研究当代资本主义-马各庄图书室-bafyreig67qgnpsofq6nejtv22omazj7uhtcrcqfukwozjo2aznlawfcf6i
-社会调查之风：重新思考中共的知识性格｜马各庄图书室 https://matters.news//@Margaux1848/社会调查之风-重新思考中共的知识性格-马各庄图书室-bafyreih3onre2sx22tbufln3kcmpo6kzj2klvvuycfge2ncjwivtqpbn54
-答后浪：劳动者的光荣与青年人的光荣｜马各庄社论 https://matters.news//@Margaux1848/答后浪-劳动者的光荣与青年人的光荣-马各庄社论-bafyreibvphhhu7t3ia5ypzp757o7wpxksq2xgoniuv6w5r2mc6sqtjcaqe
-被户口赶走的孩子：吃苦！才能回到北京...｜马各庄田野 https://matters.news//@Margaux1848/被户口赶走的孩子-吃苦-才能回到北京-马各庄田野-bafyreie4a6su4qnaba5573scjfbuppva6bjfr2d3pecf4db33bf25twcii
-非暴力拆迁作为一种治理技术——迟到的白石洲札记｜马各庄田野 https://matters.news//@Margaux1848/非暴力拆迁作为一种治理技术-迟到的白石洲札记-马各庄田野-bafyreif5vwvlg7t2n76slnph6omdmeh6red5w2iumkprodibc7fwjra4zi
-Matters 長什麼樣 https://matters.news//about
-社區共建基地 https://matters.news//community
- https://matters.news//follow
-玩轉 Matters 實用指南 https://matters.news//guide
+ https://matters.news//@Margaux1848/不止黑人参与的black-lives-matter-马各庄国际-bafyreidiibvns32moyad32cg5zptyplnoysolfnuj6oynbtabmxpe5gprm
+ https://matters.news//@Margaux1848/国家主义的进化史-从波拿巴的法国到艾森豪威尔的美国-马各庄图书室-bafyreid732ljvgayz2yc7hjmdfdryf2ch3nfadz7onuyb2o2gbniooe3qy
+ https://matters.news//@Margaux1848/如何研究当代资本主义-马各庄图书室-bafyreig67qgnpsofq6nejtv22omazj7uhtcrcqfukwozjo2aznlawfcf6i
+ https://matters.news//@Margaux1848/社会调查之风-重新思考中共的知识性格-马各庄图书室-bafyreih3onre2sx22tbufln3kcmpo6kzj2klvvuycfge2ncjwivtqpbn54
+ https://matters.news//@Margaux1848/答后浪-劳动者的光荣与青年人的光荣-马各庄社论-bafyreibvphhhu7t3ia5ypzp757o7wpxksq2xgoniuv6w5r2mc6sqtjcaqe
+ https://matters.news//@Margaux1848/被户口赶走的孩子-吃苦-才能回到北京-马各庄田野-bafyreie4a6su4qnaba5573scjfbuppva6bjfr2d3pecf4db33bf25twcii
+ https://matters.news//@Margaux1848/非暴力拆迁作为一种治理技术-迟到的白石洲札记-马各庄田野-bafyreif5vwvlg7t2n76slnph6omdmeh6red5w2iumkprodibc7fwjra4zi
  https://matters.news//me/notifications
-一鍵搬家 https://matters.news//migration
- https://matters.news//search
-用戶協議 https://matters.news//tos
-25
-開放社區 https://github.com/thematters/developer-resource
- https://matters.news//
-下載應用 https://matters.news//@1ampa55ag3/guidance-如何让你的matters之旅更便捷-bafyreiayiuxi4qc2a7qpgjp3fe42wmaoppqykckcvtq4hiukl5pgs3dn2m
-作品 https://matters.news//@zoezhao
+15
+ https://matters.news//@1ampa55ag3/guidance-如何让你的matters之旅更便捷-bafyreiayiuxi4qc2a7qpgjp3fe42wmaoppqykckcvtq4hiukl5pgs3dn2m
 評論 https://matters.news//@zoezhao/comments
 14 https://matters.news//@zoezhao/followees
 752 https://matters.news//@zoezhao/followers
-MeToo与完美社会运动迷思 https://matters.news//@zoezhao/me-too与完美社会运动迷思-zdpuArHeiBC97WTGkT8ZWJ9vxLvHqZT3i5rHXjfH3ns5asMdK
-從抗疫到抗議：美國BLM香港化？ https://matters.news//@zoezhao/從抗疫到抗議-美國blm香港化-bafyreihpwch43bxnrrfqkyzxo3axwq5fppu4cpqgajyszmd5eip7bnxeba
-時代遊戲 https://matters.news//@zoezhao/時代遊戲-zdpuAvDCA9LJirBxRY3xP75eZYZ7CPMTXu6U38mrGwQ1F2cHi
-美国的青年反枪运动：被高估的青年，被误解的运动 https://matters.news//@zoezhao/美国的青年反枪运动-被高估的青年-被误解的运动-zdpuAvaSTAhTh7HZSEbHzueKqse1u8tsm8mq9gaKirM5s68gF
-美國右翼運動觀察 https://matters.news//@zoezhao/美國右翼運動觀察-zdpuApfWxnRpVTtMs1gap9iN4WnsnGTTr2e7Yf1ef3YLwZUdG
-Matters 長什麼樣 https://matters.news//about
-社區共建基地 https://matters.news//community
- https://matters.news//follow
-玩轉 Matters 實用指南 https://matters.news//guide
+ https://matters.news//@zoezhao/me-too与完美社会运动迷思-zdpuArHeiBC97WTGkT8ZWJ9vxLvHqZT3i5rHXjfH3ns5asMdK
+ https://matters.news//@zoezhao/從抗疫到抗議-美國blm香港化-bafyreihpwch43bxnrrfqkyzxo3axwq5fppu4cpqgajyszmd5eip7bnxeba
+ https://matters.news//@zoezhao/時代遊戲-zdpuAvDCA9LJirBxRY3xP75eZYZ7CPMTXu6U38mrGwQ1F2cHi
+ https://matters.news//@zoezhao/美国的青年反枪运动-被高估的青年-被误解的运动-zdpuAvaSTAhTh7HZSEbHzueKqse1u8tsm8mq9gaKirM5s68gF
+ https://matters.news//@zoezhao/美國右翼運動觀察-zdpuApfWxnRpVTtMs1gap9iN4WnsnGTTr2e7Yf1ef3YLwZUdG
  https://matters.news//me/notifications
-一鍵搬家 https://matters.news//migration
- https://matters.news//search
-用戶協議 https://matters.news//tos
-20
-跳至主要內容 https://squatting2047.com
-蹲點 蹲点 squatting https://squatting2047.com/
-「非新聞」創辦人出獄：記錄中國底層抗爭，抵抗強迫遺忘 https://squatting2047.com/%e3%80%8c%e9%9d%9e%e6%96%b0%e8%81%9e%e3%80%8d%e5%89%b5%e8%be%a6%e4%ba%ba%e5%87%ba%e7%8d%84%ef%bc%9a%e8%a8%98%e9%8c%84%e4%b8%ad%e5%9c%8b%e5%ba%95%e5%b1%a4%e6%8a%97%e7%88%ad%ef%bc%8c%e6%8a%b5%e6%8a%97/
-【富士康連環跳十週年專題】學生－女工－母親：一個富士康女工的十五年 https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e5%ad%b8%e7%94%9f%ef%bc%8d%e5%a5%b3%e5%b7%a5%ef%bc%8d%e6%af%8d%e8%a6%aa%ef%bc%9a/
-【富士康連環跳十週年專題】訪潘毅（上篇）：「年年我都有遺憾」 https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e8%a8%aa%e6%bd%98%e6%af%85%ef%bc%88%e4%b8%8a%e7%af%87%ef%bc%89%ef%bc%9a%e3%80%8c/
-【富士康連環跳十週年專題】訪潘毅（下篇）：十年後的今天，工人依然是主要力量 https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e8%a8%aa%e6%bd%98%e6%af%85%ef%bc%88%e4%b8%8b%e7%af%87%ef%bc%89%ef%bc%9a%e5%8d%81/
-【富士康連環跳十週年專題】誰還記得他們？ https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e8%aa%b0%e9%82%84%e8%a8%98%e5%be%97%e4%bb%96%e5%80%91%ef%bc%9f/
-【蹲點短評】農家女被頂替上大學，扯掉了中國特色階級社會最後一塊遮羞布 https://squatting2047.com/%e3%80%90%e8%b9%b2%e9%bb%9e%e7%9f%ad%e8%a9%95%e3%80%91%e8%be%b2%e5%ae%b6%e5%a5%b3%e8%a2%ab%e9%a0%82%e6%9b%bf%e4%b8%8a%e5%a4%a7%e5%ad%b8%ef%bc%8c%e6%89%af%e6%8e%89%e4%ba%86%e4%b8%ad%e5%9c%8b%e7%89%b9/
-同志驕傲月：該出櫃的究竟是同志，還是異性戀？ https://squatting2047.com/%e5%90%8c%e5%bf%97%e9%a9%95%e5%82%b2%e6%9c%88%ef%bc%9a%e8%a9%b2%e5%87%ba%e6%ab%83%e7%9a%84%e7%a9%b6%e7%ab%9f%e6%98%af%e5%90%8c%e5%bf%97%ef%bc%8c%e9%82%84%e6%98%af%e7%95%b0%e6%80%a7%e6%88%80%ef%bc%9f/
-國際視野 https://squatting2047.com/%e5%9c%8b%e9%9a%9b%e8%a6%96%e9%87%8e/
-左翼在運動中的姿態問題 https://squatting2047.com/%e5%a7%bf%e6%85%8b%e5%95%8f%e9%a1%8c/
-專題 https://squatting2047.com/%e5%b0%88%e9%a1%8c/
-文化 https://squatting2047.com/%e6%96%87%e5%8c%96/
-時事 https://squatting2047.com/%e6%99%82%e4%ba%8b/
-港版國安法第一天：「一國兩制」糖衣被剝去，民主運動出路何在？ https://squatting2047.com/%e6%b8%af%e7%89%88%e5%9c%8b%e5%ae%89%e6%b3%95%e7%ac%ac%e4%b8%80%e5%a4%a9%ef%bc%9a%e3%80%8c%e4%b8%80%e5%9c%8b%e5%85%a9%e5%88%b6%e3%80%8d%e7%b3%96%e8%a1%a3%e8%a2%ab%e5%89%9d%e5%8e%bb%ef%bc%8c%e6%b0%91/
-關於我們 https://squatting2047.com/%e9%97%9c%e6%96%bc%e6%88%91%e5%80%91/
-香港──白色恐怖新時代 https://squatting2047.com/%e9%a6%99%e6%b8%af%e2%94%80%e2%94%80%e7%99%bd%e8%89%b2%e6%81%90%e6%80%96%e6%96%b0%e6%99%82%e4%bb%a3/
-蹲點 https://squatting2047.com/author/squatting2020/
-專題 https://squatting2047.com/category/%e5%b0%88%e9%a1%8c/
-文化 https://squatting2047.com/category/%e6%96%87%e5%8c%96/
-時事 https://squatting2047.com/category/%e6%99%82%e4%ba%8b/
-Newsletter https://squatting2047.com/newsletter/
-2 https://squatting2047.com/page/2/
-6 https://squatting2047.com/page/6/
- https://twitter.com/squatting2020
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%258c%25e9%259d%259e%25e6%2596%25b0%25e8%2581%259e%25e3%2580%258d%25e5%2589%25b5%25e8%25be%25a6%25e4%25ba%25ba%25e5%2587%25ba%25e7%258d%2584%25ef%25bc%259a%25e8%25a8%2598%25e9%258c%2584%25e4%25b8%25ad%25e5%259c%258b%25e5%25ba%2595%25e5%25b1%25a4%25e6%258a%2597%25e7%2588%25ad%25ef%25bc%258c%25e6%258a%25b5%25e6%258a%2597%2F&linkname=%E3%80%8C%E9%9D%9E%E6%96%B0%E8%81%9E%E3%80%8D%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%87%BA%E7%8D%84%EF%BC%9A%E8%A8%98%E9%8C%84%E4%B8%AD%E5%9C%8B%E5%BA%95%E5%B1%A4%E6%8A%97%E7%88%AD%EF%BC%8C%E6%8A%B5%E6%8A%97%E5%BC%B7%E8%BF%AB%E9%81%BA%E5%BF%98
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e5%25ad%25b8%25e7%2594%259f%25ef%25bc%258d%25e5%25a5%25b3%25e5%25b7%25a5%25ef%25bc%258d%25e6%25af%258d%25e8%25a6%25aa%25ef%25bc%259a%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E5%AD%B8%E7%94%9F%EF%BC%8D%E5%A5%B3%E5%B7%A5%EF%BC%8D%E6%AF%8D%E8%A6%AA%EF%BC%9A%E4%B8%80%E5%80%8B%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%A5%B3%E5%B7%A5%E7%9A%84%E5%8D%81%E4%BA%94%E5%B9%B4
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25a8%25aa%25e6%25bd%2598%25e6%25af%2585%25ef%25bc%2588%25e4%25b8%258a%25e7%25af%2587%25ef%25bc%2589%25ef%25bc%259a%25e3%2580%258c%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%A8%AA%E6%BD%98%E6%AF%85%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89%EF%BC%9A%E3%80%8C%E5%B9%B4%E5%B9%B4%E6%88%91%E9%83%BD%E6%9C%89%E9%81%BA%E6%86%BE%E3%80%8D
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25a8%25aa%25e6%25bd%2598%25e6%25af%2585%25ef%25bc%2588%25e4%25b8%258b%25e7%25af%2587%25ef%25bc%2589%25ef%25bc%259a%25e5%258d%2581%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%A8%AA%E6%BD%98%E6%AF%85%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%EF%BC%9A%E5%8D%81%E5%B9%B4%E5%BE%8C%E7%9A%84%E4%BB%8A%E5%A4%A9%EF%BC%8C%E5%B7%A5%E4%BA%BA%E4%BE%9D%E7%84%B6%E6%98%AF%E4%B8%BB%E8%A6%81%E5%8A%9B%E9%87%8F
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25aa%25b0%25e9%2582%2584%25e8%25a8%2598%25e5%25be%2597%25e4%25bb%2596%25e5%2580%2591%25ef%25bc%259f%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%AA%B0%E9%82%84%E8%A8%98%E5%BE%97%E4%BB%96%E5%80%91%EF%BC%9F
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e8%25b9%25b2%25e9%25bb%259e%25e7%259f%25ad%25e8%25a9%2595%25e3%2580%2591%25e8%25be%25b2%25e5%25ae%25b6%25e5%25a5%25b3%25e8%25a2%25ab%25e9%25a0%2582%25e6%259b%25bf%25e4%25b8%258a%25e5%25a4%25a7%25e5%25ad%25b8%25ef%25bc%258c%25e6%2589%25af%25e6%258e%2589%25e4%25ba%2586%25e4%25b8%25ad%25e5%259c%258b%25e7%2589%25b9%2F&linkname=%E3%80%90%E8%B9%B2%E9%BB%9E%E7%9F%AD%E8%A9%95%E3%80%91%E8%BE%B2%E5%AE%B6%E5%A5%B3%E8%A2%AB%E9%A0%82%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%B8%EF%BC%8C%E6%89%AF%E6%8E%89%E4%BA%86%E4%B8%AD%E5%9C%8B%E7%89%B9%E8%89%B2%E9%9A%8E%E7%B4%9A%E7%A4%BE%E6%9C%83%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A1%8A%E9%81%AE%E7%BE%9E%E5%B8%83
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e5%2590%258c%25e5%25bf%2597%25e9%25a9%2595%25e5%2582%25b2%25e6%259c%2588%25ef%25bc%259a%25e8%25a9%25b2%25e5%2587%25ba%25e6%25ab%2583%25e7%259a%2584%25e7%25a9%25b6%25e7%25ab%259f%25e6%2598%25af%25e5%2590%258c%25e5%25bf%2597%25ef%25bc%258c%25e9%2582%2584%25e6%2598%25af%25e7%2595%25b0%25e6%2580%25a7%25e6%2588%2580%25ef%25bc%259f%2F&linkname=%E5%90%8C%E5%BF%97%E9%A9%95%E5%82%B2%E6%9C%88%EF%BC%9A%E8%A9%B2%E5%87%BA%E6%AB%83%E7%9A%84%E7%A9%B6%E7%AB%9F%E6%98%AF%E5%90%8C%E5%BF%97%EF%BC%8C%E9%82%84%E6%98%AF%E7%95%B0%E6%80%A7%E6%88%80%EF%BC%9F
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e5%25a7%25bf%25e6%2585%258b%25e5%2595%258f%25e9%25a1%258c%2F&linkname=%E5%B7%A6%E7%BF%BC%E5%9C%A8%E9%81%8B%E5%8B%95%E4%B8%AD%E7%9A%84%E5%A7%BF%E6%85%8B%E5%95%8F%E9%A1%8C
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e6%25b8%25af%25e7%2589%2588%25e5%259c%258b%25e5%25ae%2589%25e6%25b3%2595%25e7%25ac%25ac%25e4%25b8%2580%25e5%25a4%25a9%25ef%25bc%259a%25e3%2580%258c%25e4%25b8%2580%25e5%259c%258b%25e5%2585%25a9%25e5%2588%25b6%25e3%2580%258d%25e7%25b3%2596%25e8%25a1%25a3%25e8%25a2%25ab%25e5%2589%259d%25e5%258e%25bb%25ef%25bc%258c%25e6%25b0%2591%2F&linkname=%E6%B8%AF%E7%89%88%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B8%80%E5%A4%A9%EF%BC%9A%E3%80%8C%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6%E3%80%8D%E7%B3%96%E8%A1%A3%E8%A2%AB%E5%89%9D%E5%8E%BB%EF%BC%8C%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%87%BA%E8%B7%AF%E4%BD%95%E5%9C%A8%EF%BC%9F
- https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e9%25a6%2599%25e6%25b8%25af%25e2%2594%2580%25e2%2594%2580%25e7%2599%25bd%25e8%2589%25b2%25e6%2581%2590%25e6%2580%2596%25e6%2596%25b0%25e6%2599%2582%25e4%25bb%25a3%2F&linkname=%E9%A6%99%E6%B8%AF%E2%94%80%E2%94%80%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%96%B0%E6%99%82%E4%BB%A3
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%258c%25e9%259d%259e%25e6%2596%25b0%25e8%2581%259e%25e3%2580%258d%25e5%2589%25b5%25e8%25be%25a6%25e4%25ba%25ba%25e5%2587%25ba%25e7%258d%2584%25ef%25bc%259a%25e8%25a8%2598%25e9%258c%2584%25e4%25b8%25ad%25e5%259c%258b%25e5%25ba%2595%25e5%25b1%25a4%25e6%258a%2597%25e7%2588%25ad%25ef%25bc%258c%25e6%258a%25b5%25e6%258a%2597%2F&linkname=%E3%80%8C%E9%9D%9E%E6%96%B0%E8%81%9E%E3%80%8D%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%87%BA%E7%8D%84%EF%BC%9A%E8%A8%98%E9%8C%84%E4%B8%AD%E5%9C%8B%E5%BA%95%E5%B1%A4%E6%8A%97%E7%88%AD%EF%BC%8C%E6%8A%B5%E6%8A%97%E5%BC%B7%E8%BF%AB%E9%81%BA%E5%BF%98
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e5%25ad%25b8%25e7%2594%259f%25ef%25bc%258d%25e5%25a5%25b3%25e5%25b7%25a5%25ef%25bc%258d%25e6%25af%258d%25e8%25a6%25aa%25ef%25bc%259a%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E5%AD%B8%E7%94%9F%EF%BC%8D%E5%A5%B3%E5%B7%A5%EF%BC%8D%E6%AF%8D%E8%A6%AA%EF%BC%9A%E4%B8%80%E5%80%8B%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%A5%B3%E5%B7%A5%E7%9A%84%E5%8D%81%E4%BA%94%E5%B9%B4
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25a8%25aa%25e6%25bd%2598%25e6%25af%2585%25ef%25bc%2588%25e4%25b8%258a%25e7%25af%2587%25ef%25bc%2589%25ef%25bc%259a%25e3%2580%258c%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%A8%AA%E6%BD%98%E6%AF%85%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89%EF%BC%9A%E3%80%8C%E5%B9%B4%E5%B9%B4%E6%88%91%E9%83%BD%E6%9C%89%E9%81%BA%E6%86%BE%E3%80%8D
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25a8%25aa%25e6%25bd%2598%25e6%25af%2585%25ef%25bc%2588%25e4%25b8%258b%25e7%25af%2587%25ef%25bc%2589%25ef%25bc%259a%25e5%258d%2581%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%A8%AA%E6%BD%98%E6%AF%85%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%EF%BC%9A%E5%8D%81%E5%B9%B4%E5%BE%8C%E7%9A%84%E4%BB%8A%E5%A4%A9%EF%BC%8C%E5%B7%A5%E4%BA%BA%E4%BE%9D%E7%84%B6%E6%98%AF%E4%B8%BB%E8%A6%81%E5%8A%9B%E9%87%8F
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25aa%25b0%25e9%2582%2584%25e8%25a8%2598%25e5%25be%2597%25e4%25bb%2596%25e5%2580%2591%25ef%25bc%259f%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%AA%B0%E9%82%84%E8%A8%98%E5%BE%97%E4%BB%96%E5%80%91%EF%BC%9F
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e8%25b9%25b2%25e9%25bb%259e%25e7%259f%25ad%25e8%25a9%2595%25e3%2580%2591%25e8%25be%25b2%25e5%25ae%25b6%25e5%25a5%25b3%25e8%25a2%25ab%25e9%25a0%2582%25e6%259b%25bf%25e4%25b8%258a%25e5%25a4%25a7%25e5%25ad%25b8%25ef%25bc%258c%25e6%2589%25af%25e6%258e%2589%25e4%25ba%2586%25e4%25b8%25ad%25e5%259c%258b%25e7%2589%25b9%2F&linkname=%E3%80%90%E8%B9%B2%E9%BB%9E%E7%9F%AD%E8%A9%95%E3%80%91%E8%BE%B2%E5%AE%B6%E5%A5%B3%E8%A2%AB%E9%A0%82%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%B8%EF%BC%8C%E6%89%AF%E6%8E%89%E4%BA%86%E4%B8%AD%E5%9C%8B%E7%89%B9%E8%89%B2%E9%9A%8E%E7%B4%9A%E7%A4%BE%E6%9C%83%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A1%8A%E9%81%AE%E7%BE%9E%E5%B8%83
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e5%2590%258c%25e5%25bf%2597%25e9%25a9%2595%25e5%2582%25b2%25e6%259c%2588%25ef%25bc%259a%25e8%25a9%25b2%25e5%2587%25ba%25e6%25ab%2583%25e7%259a%2584%25e7%25a9%25b6%25e7%25ab%259f%25e6%2598%25af%25e5%2590%258c%25e5%25bf%2597%25ef%25bc%258c%25e9%2582%2584%25e6%2598%25af%25e7%2595%25b0%25e6%2580%25a7%25e6%2588%2580%25ef%25bc%259f%2F&linkname=%E5%90%8C%E5%BF%97%E9%A9%95%E5%82%B2%E6%9C%88%EF%BC%9A%E8%A9%B2%E5%87%BA%E6%AB%83%E7%9A%84%E7%A9%B6%E7%AB%9F%E6%98%AF%E5%90%8C%E5%BF%97%EF%BC%8C%E9%82%84%E6%98%AF%E7%95%B0%E6%80%A7%E6%88%80%EF%BC%9F
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e5%25a7%25bf%25e6%2585%258b%25e5%2595%258f%25e9%25a1%258c%2F&linkname=%E5%B7%A6%E7%BF%BC%E5%9C%A8%E9%81%8B%E5%8B%95%E4%B8%AD%E7%9A%84%E5%A7%BF%E6%85%8B%E5%95%8F%E9%A1%8C
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e6%25b8%25af%25e7%2589%2588%25e5%259c%258b%25e5%25ae%2589%25e6%25b3%2595%25e7%25ac%25ac%25e4%25b8%2580%25e5%25a4%25a9%25ef%25bc%259a%25e3%2580%258c%25e4%25b8%2580%25e5%259c%258b%25e5%2585%25a9%25e5%2588%25b6%25e3%2580%258d%25e7%25b3%2596%25e8%25a1%25a3%25e8%25a2%25ab%25e5%2589%259d%25e5%258e%25bb%25ef%25bc%258c%25e6%25b0%2591%2F&linkname=%E6%B8%AF%E7%89%88%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B8%80%E5%A4%A9%EF%BC%9A%E3%80%8C%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6%E3%80%8D%E7%B3%96%E8%A1%A3%E8%A2%AB%E5%89%9D%E5%8E%BB%EF%BC%8C%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%87%BA%E8%B7%AF%E4%BD%95%E5%9C%A8%EF%BC%9F
- https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e9%25a6%2599%25e6%25b8%25af%25e2%2594%2580%25e2%2594%2580%25e7%2599%25bd%25e8%2589%25b2%25e6%2581%2590%25e6%2580%2596%25e6%2596%25b0%25e6%2599%2582%25e4%25bb%25a3%2F&linkname=%E9%A6%99%E6%B8%AF%E2%94%80%E2%94%80%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%96%B0%E6%99%82%E4%BB%A3
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%258c%25e9%259d%259e%25e6%2596%25b0%25e8%2581%259e%25e3%2580%258d%25e5%2589%25b5%25e8%25be%25a6%25e4%25ba%25ba%25e5%2587%25ba%25e7%258d%2584%25ef%25bc%259a%25e8%25a8%2598%25e9%258c%2584%25e4%25b8%25ad%25e5%259c%258b%25e5%25ba%2595%25e5%25b1%25a4%25e6%258a%2597%25e7%2588%25ad%25ef%25bc%258c%25e6%258a%25b5%25e6%258a%2597%2F&linkname=%E3%80%8C%E9%9D%9E%E6%96%B0%E8%81%9E%E3%80%8D%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%87%BA%E7%8D%84%EF%BC%9A%E8%A8%98%E9%8C%84%E4%B8%AD%E5%9C%8B%E5%BA%95%E5%B1%A4%E6%8A%97%E7%88%AD%EF%BC%8C%E6%8A%B5%E6%8A%97%E5%BC%B7%E8%BF%AB%E9%81%BA%E5%BF%98
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e5%25ad%25b8%25e7%2594%259f%25ef%25bc%258d%25e5%25a5%25b3%25e5%25b7%25a5%25ef%25bc%258d%25e6%25af%258d%25e8%25a6%25aa%25ef%25bc%259a%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E5%AD%B8%E7%94%9F%EF%BC%8D%E5%A5%B3%E5%B7%A5%EF%BC%8D%E6%AF%8D%E8%A6%AA%EF%BC%9A%E4%B8%80%E5%80%8B%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%A5%B3%E5%B7%A5%E7%9A%84%E5%8D%81%E4%BA%94%E5%B9%B4
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25a8%25aa%25e6%25bd%2598%25e6%25af%2585%25ef%25bc%2588%25e4%25b8%258a%25e7%25af%2587%25ef%25bc%2589%25ef%25bc%259a%25e3%2580%258c%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%A8%AA%E6%BD%98%E6%AF%85%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89%EF%BC%9A%E3%80%8C%E5%B9%B4%E5%B9%B4%E6%88%91%E9%83%BD%E6%9C%89%E9%81%BA%E6%86%BE%E3%80%8D
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25a8%25aa%25e6%25bd%2598%25e6%25af%2585%25ef%25bc%2588%25e4%25b8%258b%25e7%25af%2587%25ef%25bc%2589%25ef%25bc%259a%25e5%258d%2581%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%A8%AA%E6%BD%98%E6%AF%85%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%EF%BC%9A%E5%8D%81%E5%B9%B4%E5%BE%8C%E7%9A%84%E4%BB%8A%E5%A4%A9%EF%BC%8C%E5%B7%A5%E4%BA%BA%E4%BE%9D%E7%84%B6%E6%98%AF%E4%B8%BB%E8%A6%81%E5%8A%9B%E9%87%8F
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25aa%25b0%25e9%2582%2584%25e8%25a8%2598%25e5%25be%2597%25e4%25bb%2596%25e5%2580%2591%25ef%25bc%259f%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%AA%B0%E9%82%84%E8%A8%98%E5%BE%97%E4%BB%96%E5%80%91%EF%BC%9F
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e8%25b9%25b2%25e9%25bb%259e%25e7%259f%25ad%25e8%25a9%2595%25e3%2580%2591%25e8%25be%25b2%25e5%25ae%25b6%25e5%25a5%25b3%25e8%25a2%25ab%25e9%25a0%2582%25e6%259b%25bf%25e4%25b8%258a%25e5%25a4%25a7%25e5%25ad%25b8%25ef%25bc%258c%25e6%2589%25af%25e6%258e%2589%25e4%25ba%2586%25e4%25b8%25ad%25e5%259c%258b%25e7%2589%25b9%2F&linkname=%E3%80%90%E8%B9%B2%E9%BB%9E%E7%9F%AD%E8%A9%95%E3%80%91%E8%BE%B2%E5%AE%B6%E5%A5%B3%E8%A2%AB%E9%A0%82%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%B8%EF%BC%8C%E6%89%AF%E6%8E%89%E4%BA%86%E4%B8%AD%E5%9C%8B%E7%89%B9%E8%89%B2%E9%9A%8E%E7%B4%9A%E7%A4%BE%E6%9C%83%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A1%8A%E9%81%AE%E7%BE%9E%E5%B8%83
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e5%2590%258c%25e5%25bf%2597%25e9%25a9%2595%25e5%2582%25b2%25e6%259c%2588%25ef%25bc%259a%25e8%25a9%25b2%25e5%2587%25ba%25e6%25ab%2583%25e7%259a%2584%25e7%25a9%25b6%25e7%25ab%259f%25e6%2598%25af%25e5%2590%258c%25e5%25bf%2597%25ef%25bc%258c%25e9%2582%2584%25e6%2598%25af%25e7%2595%25b0%25e6%2580%25a7%25e6%2588%2580%25ef%25bc%259f%2F&linkname=%E5%90%8C%E5%BF%97%E9%A9%95%E5%82%B2%E6%9C%88%EF%BC%9A%E8%A9%B2%E5%87%BA%E6%AB%83%E7%9A%84%E7%A9%B6%E7%AB%9F%E6%98%AF%E5%90%8C%E5%BF%97%EF%BC%8C%E9%82%84%E6%98%AF%E7%95%B0%E6%80%A7%E6%88%80%EF%BC%9F
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e5%25a7%25bf%25e6%2585%258b%25e5%2595%258f%25e9%25a1%258c%2F&linkname=%E5%B7%A6%E7%BF%BC%E5%9C%A8%E9%81%8B%E5%8B%95%E4%B8%AD%E7%9A%84%E5%A7%BF%E6%85%8B%E5%95%8F%E9%A1%8C
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e6%25b8%25af%25e7%2589%2588%25e5%259c%258b%25e5%25ae%2589%25e6%25b3%2595%25e7%25ac%25ac%25e4%25b8%2580%25e5%25a4%25a9%25ef%25bc%259a%25e3%2580%258c%25e4%25b8%2580%25e5%259c%258b%25e5%2585%25a9%25e5%2588%25b6%25e3%2580%258d%25e7%25b3%2596%25e8%25a1%25a3%25e8%25a2%25ab%25e5%2589%259d%25e5%258e%25bb%25ef%25bc%258c%25e6%25b0%2591%2F&linkname=%E6%B8%AF%E7%89%88%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B8%80%E5%A4%A9%EF%BC%9A%E3%80%8C%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6%E3%80%8D%E7%B3%96%E8%A1%A3%E8%A2%AB%E5%89%9D%E5%8E%BB%EF%BC%8C%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%87%BA%E8%B7%AF%E4%BD%95%E5%9C%A8%EF%BC%9F
- https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e9%25a6%2599%25e6%25b8%25af%25e2%2594%2580%25e2%2594%2580%25e7%2599%25bd%25e8%2589%25b2%25e6%2581%2590%25e6%2580%2596%25e6%2596%25b0%25e6%2599%2582%25e4%25bb%25a3%2F&linkname=%E9%A6%99%E6%B8%AF%E2%94%80%E2%94%80%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%96%B0%E6%99%82%E4%BB%A3
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%258c%25e9%259d%259e%25e6%2596%25b0%25e8%2581%259e%25e3%2580%258d%25e5%2589%25b5%25e8%25be%25a6%25e4%25ba%25ba%25e5%2587%25ba%25e7%258d%2584%25ef%25bc%259a%25e8%25a8%2598%25e9%258c%2584%25e4%25b8%25ad%25e5%259c%258b%25e5%25ba%2595%25e5%25b1%25a4%25e6%258a%2597%25e7%2588%25ad%25ef%25bc%258c%25e6%258a%25b5%25e6%258a%2597%2F&linkname=%E3%80%8C%E9%9D%9E%E6%96%B0%E8%81%9E%E3%80%8D%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%87%BA%E7%8D%84%EF%BC%9A%E8%A8%98%E9%8C%84%E4%B8%AD%E5%9C%8B%E5%BA%95%E5%B1%A4%E6%8A%97%E7%88%AD%EF%BC%8C%E6%8A%B5%E6%8A%97%E5%BC%B7%E8%BF%AB%E9%81%BA%E5%BF%98
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e5%25ad%25b8%25e7%2594%259f%25ef%25bc%258d%25e5%25a5%25b3%25e5%25b7%25a5%25ef%25bc%258d%25e6%25af%258d%25e8%25a6%25aa%25ef%25bc%259a%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E5%AD%B8%E7%94%9F%EF%BC%8D%E5%A5%B3%E5%B7%A5%EF%BC%8D%E6%AF%8D%E8%A6%AA%EF%BC%9A%E4%B8%80%E5%80%8B%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%A5%B3%E5%B7%A5%E7%9A%84%E5%8D%81%E4%BA%94%E5%B9%B4
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25a8%25aa%25e6%25bd%2598%25e6%25af%2585%25ef%25bc%2588%25e4%25b8%258a%25e7%25af%2587%25ef%25bc%2589%25ef%25bc%259a%25e3%2580%258c%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%A8%AA%E6%BD%98%E6%AF%85%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89%EF%BC%9A%E3%80%8C%E5%B9%B4%E5%B9%B4%E6%88%91%E9%83%BD%E6%9C%89%E9%81%BA%E6%86%BE%E3%80%8D
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25a8%25aa%25e6%25bd%2598%25e6%25af%2585%25ef%25bc%2588%25e4%25b8%258b%25e7%25af%2587%25ef%25bc%2589%25ef%25bc%259a%25e5%258d%2581%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%A8%AA%E6%BD%98%E6%AF%85%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89%EF%BC%9A%E5%8D%81%E5%B9%B4%E5%BE%8C%E7%9A%84%E4%BB%8A%E5%A4%A9%EF%BC%8C%E5%B7%A5%E4%BA%BA%E4%BE%9D%E7%84%B6%E6%98%AF%E4%B8%BB%E8%A6%81%E5%8A%9B%E9%87%8F
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e5%25af%258c%25e5%25a3%25ab%25e5%25ba%25b7%25e9%2580%25a3%25e7%2592%25b0%25e8%25b7%25b3%25e5%258d%2581%25e9%2580%25b1%25e5%25b9%25b4%25e5%25b0%2588%25e9%25a1%258c%25e3%2580%2591%25e8%25aa%25b0%25e9%2582%2584%25e8%25a8%2598%25e5%25be%2597%25e4%25bb%2596%25e5%2580%2591%25ef%25bc%259f%2F&linkname=%E3%80%90%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%A3%E7%92%B0%E8%B7%B3%E5%8D%81%E9%80%B1%E5%B9%B4%E5%B0%88%E9%A1%8C%E3%80%91%E8%AA%B0%E9%82%84%E8%A8%98%E5%BE%97%E4%BB%96%E5%80%91%EF%BC%9F
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e3%2580%2590%25e8%25b9%25b2%25e9%25bb%259e%25e7%259f%25ad%25e8%25a9%2595%25e3%2580%2591%25e8%25be%25b2%25e5%25ae%25b6%25e5%25a5%25b3%25e8%25a2%25ab%25e9%25a0%2582%25e6%259b%25bf%25e4%25b8%258a%25e5%25a4%25a7%25e5%25ad%25b8%25ef%25bc%258c%25e6%2589%25af%25e6%258e%2589%25e4%25ba%2586%25e4%25b8%25ad%25e5%259c%258b%25e7%2589%25b9%2F&linkname=%E3%80%90%E8%B9%B2%E9%BB%9E%E7%9F%AD%E8%A9%95%E3%80%91%E8%BE%B2%E5%AE%B6%E5%A5%B3%E8%A2%AB%E9%A0%82%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%B8%EF%BC%8C%E6%89%AF%E6%8E%89%E4%BA%86%E4%B8%AD%E5%9C%8B%E7%89%B9%E8%89%B2%E9%9A%8E%E7%B4%9A%E7%A4%BE%E6%9C%83%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A1%8A%E9%81%AE%E7%BE%9E%E5%B8%83
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e5%2590%258c%25e5%25bf%2597%25e9%25a9%2595%25e5%2582%25b2%25e6%259c%2588%25ef%25bc%259a%25e8%25a9%25b2%25e5%2587%25ba%25e6%25ab%2583%25e7%259a%2584%25e7%25a9%25b6%25e7%25ab%259f%25e6%2598%25af%25e5%2590%258c%25e5%25bf%2597%25ef%25bc%258c%25e9%2582%2584%25e6%2598%25af%25e7%2595%25b0%25e6%2580%25a7%25e6%2588%2580%25ef%25bc%259f%2F&linkname=%E5%90%8C%E5%BF%97%E9%A9%95%E5%82%B2%E6%9C%88%EF%BC%9A%E8%A9%B2%E5%87%BA%E6%AB%83%E7%9A%84%E7%A9%B6%E7%AB%9F%E6%98%AF%E5%90%8C%E5%BF%97%EF%BC%8C%E9%82%84%E6%98%AF%E7%95%B0%E6%80%A7%E6%88%80%EF%BC%9F
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e5%25a7%25bf%25e6%2585%258b%25e5%2595%258f%25e9%25a1%258c%2F&linkname=%E5%B7%A6%E7%BF%BC%E5%9C%A8%E9%81%8B%E5%8B%95%E4%B8%AD%E7%9A%84%E5%A7%BF%E6%85%8B%E5%95%8F%E9%A1%8C
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e6%25b8%25af%25e7%2589%2588%25e5%259c%258b%25e5%25ae%2589%25e6%25b3%2595%25e7%25ac%25ac%25e4%25b8%2580%25e5%25a4%25a9%25ef%25bc%259a%25e3%2580%258c%25e4%25b8%2580%25e5%259c%258b%25e5%2585%25a9%25e5%2588%25b6%25e3%2580%258d%25e7%25b3%2596%25e8%25a1%25a3%25e8%25a2%25ab%25e5%2589%259d%25e5%258e%25bb%25ef%25bc%258c%25e6%25b0%2591%2F&linkname=%E6%B8%AF%E7%89%88%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B8%80%E5%A4%A9%EF%BC%9A%E3%80%8C%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6%E3%80%8D%E7%B3%96%E8%A1%A3%E8%A2%AB%E5%89%9D%E5%8E%BB%EF%BC%8C%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%87%BA%E8%B7%AF%E4%BD%95%E5%9C%A8%EF%BC%9F
- https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fsquatting2047.com%2F%25e9%25a6%2599%25e6%25b8%25af%25e2%2594%2580%25e2%2594%2580%25e7%2599%25bd%25e8%2589%25b2%25e6%2581%2590%25e6%2580%2596%25e6%2596%25b0%25e6%2599%2582%25e4%25bb%25a3%2F&linkname=%E9%A6%99%E6%B8%AF%E2%94%80%E2%94%80%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%96%B0%E6%99%82%E4%BB%A3
- https://www.addtoany.com/share
- https://www.facebook.com/squatting2047
-67
- https://wemp.app/
- https://wemp.app/accounts/00b4bbab-ccc7-4ad1-96d7-2b7d2c5cb4ea?utm_source=similar-accounts
- https://wemp.app/accounts/10d81a87-63e2-43e6-b214-6b2bc30fddc4?utm_source=similar-accounts
-保马 https://wemp.app/accounts/12c2c49c-305d-4de3-85c8-00d372e7a47a
-下一页 https://wemp.app/accounts/12c2c49c-305d-4de3-85c8-00d372e7a47a?page=2
- https://wemp.app/accounts/18102aaa-d105-4e4d-8858-940051b66ac5?utm_source=similar-accounts
- https://wemp.app/accounts/33154dc1-beb4-496c-a9f0-2603a90db0c3?utm_source=similar-accounts
- https://wemp.app/accounts/420a919e-a207-4e79-920e-deca24d95847?utm_source=similar-accounts
- https://wemp.app/accounts/4c88ec9d-bc8f-447b-8965-b3a1278e64ee?utm_source=similar-accounts
- https://wemp.app/accounts/59f38d0b-a8ac-451c-8800-7400e14d9dce?utm_source=similar-accounts
- https://wemp.app/accounts/5f927bef-6f21-4ace-9840-b0eddc9b0776?utm_source=similar-accounts
- https://wemp.app/accounts/7c2c40bc-eda8-47e1-b8b5-72f6593ae8c9?utm_source=similar-accounts
- https://wemp.app/accounts/7ec1dee1-574a-41cd-a5d9-64c90e24fc26?utm_source=similar-accounts
- https://wemp.app/accounts/84556c34-4b8e-4cfc-a374-8e7d9d060554?utm_source=similar-accounts
- https://wemp.app/accounts/a7aa7565-7926-45e0-a855-ae972af929b8?utm_source=similar-accounts
- https://wemp.app/accounts/abc43f24-fd41-4e13-a1e8-ae7130a2ec78?utm_source=similar-accounts
- https://wemp.app/accounts/aca183e9-3c30-4a62-a6de-7bb3cf3bb61e?utm_source=similar-accounts
- https://wemp.app/accounts/ae5c07e0-278b-4500-adca-82e601be286c?utm_source=similar-accounts
- https://wemp.app/accounts/b5d2a001-1e0b-41c7-9df4-aab6ae798a40?utm_source=similar-accounts
- https://wemp.app/accounts/d4eab203-adc6-43f9-83ac-c32dc050d554?utm_source=similar-accounts
- https://wemp.app/accounts/d9a776c5-868f-4280-ae4d-f3f61cf87d23?utm_source=similar-accounts
- https://wemp.app/accounts/df5a912f-d094-4d76-9500-3f8b7c138ec7?utm_source=similar-accounts
- https://wemp.app/accounts/efd170d0-8c97-451c-862d-19badfa2c99a?utm_source=similar-accounts
-每日一书 | 娇惯的心灵：“钢铁”是怎么没有炼成的 https://wemp.app/posts/15432fe5-7910-4b75-924d-8c9461faf5ee
-连环画与社会主义文化系列讲座之一 | 蔡小容：两个人的《山乡巨变》 https://wemp.app/posts/43792afb-3962-4a27-bb31-c383b81736e0
-连环画与社会主义文化系列讲座之二 | 唐宏峰：连环图画与《点石斋画报》的创造性 https://wemp.app/posts/4eff9b30-8403-410f-80f9-7532679de819
-吴靖 | 计算机技术发展中的“浪漫主义” https://wemp.app/posts/6427260f-21ea-48f7-bfc4-3acaed48545d
-每日一书 | 网络效应：浪漫主义、资本主义与互联网 https://wemp.app/posts/6a2ce3d9-d6f6-495b-b454-b9d72bb3d86b
-何吉贤｜周立波“小说回乡”的精神和美学转换 https://wemp.app/posts/6a6b0cf0-ba9a-4eb1-9dd1-222167c9c709
-邀请函 | 华东师范大学中文系第三届“中融”全国博士生论坛 https://wemp.app/posts/7fb7faa9-7e5d-40da-9330-68e967b8e094
-每日一书 | 菲利普·迪克传 https://wemp.app/posts/8a366500-00e9-4f50-b586-7d6e8d88b44c
-马臻 | 从陈映真研究感受到的洞见与疑惑 https://wemp.app/posts/8e653b54-9ca8-455b-b125-935ef9944bfc
-每日一书｜上升的大地 https://wemp.app/posts/a8319ced-63a3-44e4-b32a-71e1d97f6613
-33
-BBC Account https://account.bbc.com/account
-Search https://search.bbc.co.uk/search
-Homepage https://www.bbc.co.uk
-About the BBC https://www.bbc.co.uk/aboutthebbc
-Accessibility Help https://www.bbc.co.uk/accessibility/
-Arts https://www.bbc.co.uk/arts
-Get Personalised Newsletters https://www.bbc.co.uk/bbcnewsletter
-Three https://www.bbc.co.uk/bbcthree
+10
+0
+0
 Haaland's 'telling off' and other top footy tweets https://www.bbc.co.uk/bbcthree/article/0d28ccdb-eef2-4fc9-834f-18aac8404719
-Bitesize https://www.bbc.co.uk/bitesize
 Four heroes you may not know are LGBTQ+ https://www.bbc.co.uk/bitesize/articles/z79gscw
 How to have a 'summer holiday' when stuck at home https://www.bbc.co.uk/bitesize/articles/zkthqfr
 'I fell in love with this show the first moment I saw it' https://www.bbc.co.uk/blogs/5live/entries/c47ef85e-eea9-4c7a-9d4e-a345d56c0707
-CBBC https://www.bbc.co.uk/cbbc
-CBeebies https://www.bbc.co.uk/cbeebies
-Contact the BBC https://www.bbc.co.uk/contact
-Complaints https://www.bbc.co.uk/contact/complaints
-Food https://www.bbc.co.uk/food
 Forget about burgers with these healthy barbecue treats https://www.bbc.co.uk/food/collections/healthy_barbecue_recipes
 Weeknight meals with a touch of simple luxury https://www.bbc.co.uk/food/collections/luxury_weeknight_meals
-Perfect pasta salads that are quick and easy to make https://www.bbc.co.uk/food/pasta_salad
-Parental Guidance https://www.bbc.co.uk/guidance
-Read about our approach to external linking. https://www.bbc.co.uk/help/web/links/
-iPlayer https://www.bbc.co.uk/iplayer
 Watch on iPlayer https://www.bbc.co.uk/iplayer/episode/m000jz0n/i-may-destroy-you-series-1-1-eyes-eyes-eyes-eyes
 Watch on iPlayer https://www.bbc.co.uk/iplayer/episode/m000krf5/andy-murrays-greatest-hits-series-1-episode-1
-News https://www.bbc.co.uk/news
 Watch video https://www.bbc.co.uk/news/av/stories-53348819/iraq-war-we-are-systematically-programmed-to-kill
 Watch video https://www.bbc.co.uk/news/av/uk-53352234/lockdown-brought-out-the-workaholic-in-me
-'I saved £700 by not eating out or splashing on gadgets' https://www.bbc.co.uk/news/business-53324898
-'Parents need help controlling kids' spending' https://www.bbc.co.uk/news/business-53333347
-Coronavirus pandemic https://www.bbc.co.uk/news/coronavirus
-Actress Kelly Preston, John Travolta's wife, dies https://www.bbc.co.uk/news/entertainment-arts-53387236
-Elvis Presley's only grandson dies at 27 https://www.bbc.co.uk/news/entertainment-arts-53387574
-Body found in search for Glee's Naya Rivera https://www.bbc.co.uk/news/entertainment-arts-53397318
-What will be the rules when pools and gyms reopen? https://www.bbc.co.uk/news/explainers-53349989
-Local https://www.bbc.co.uk/news/localnews
-How TV's most talked-about sex scenes were filmed https://www.bbc.co.uk/news/newsbeat-53350245
-'The outcome would have been different if he'd been white' https://www.bbc.co.uk/news/stories-53312489
-Ads highlight Brexit changes for UK travellers https://www.bbc.co.uk/news/uk-53383170
-Pub landlord installs electric fence around bar https://www.bbc.co.uk/news/uk-england-cornwall-53389977
-Crowds flock to glimpse 'one of largest ever' birds in UK https://www.bbc.co.uk/news/uk-england-derbyshire-53383387
-Plane diverted after 'bomb note' found in toilet https://www.bbc.co.uk/news/uk-england-essex-53398339
-Care home residents recreate iconic album covers https://www.bbc.co.uk/news/uk-england-london-53389217
-Second laser attack on air ambulance condemned https://www.bbc.co.uk/news/uk-england-wiltshire-53380107
-PM says face coverings ‘should be worn’ in shops https://www.bbc.co.uk/news/uk-politics-53388444
-Kuenssberg: It is quite the shift on face coverings https://www.bbc.co.uk/news/uk-politics-53396422
-Google announces $10bn investment in India https://www.bbc.co.uk/news/world-asia-india-53391466
-Pope 'pained' by Hagia Sophia mosque decision https://www.bbc.co.uk/news/world-europe-53371341
-Brother of Tottenham's Serge Aurier shot dead https://www.bbc.co.uk/news/world-europe-53388855
-Jada Pinkett Smith tells husband of 'relationship' https://www.bbc.co.uk/news/world-us-canada-53371675
-Brooklyn Beckham engaged to US actress https://www.bbc.co.uk/newsround/53380646
-NI https://www.bbc.co.uk/northernireland
 Test your memory of the 'most ambitious concert ever' https://www.bbc.co.uk/programmes/articles/1XbDQQNP2FlSYKLht0xqJFs/play-sounds-of-the-80s-live-aid-quiz
 'Arnie lent me a car to travel across America' https://www.bbc.co.uk/programmes/articles/2VWM311Mf04Y4MPFrLYqh9S/12-things-we-learned-about-greta-thunberg
 Eight powerful podcasts to celebrate Pride 2020 https://www.bbc.co.uk/programmes/articles/33VNYRcLyyFfyMlZNS1R04j/pride-2020-eight-powerful-new-works-from-the-lgbtq-community
 Nine antique treasures with incredible valuations https://www.bbc.co.uk/programmes/articles/4BHT4X0c66d773X2QbsqF3x/the-priceless-treasures-and-missing-masterpieces-discovered-on-antiques-roadshow
-RESULTS https://www.bbc.co.uk/programmes/articles/9JzWg92Gwwn0nqLPndsC5c/latest-results
-Watch video https://www.bbc.co.uk/programmes/p08k31qv
-Watch video https://www.bbc.co.uk/programmes/p08kmm6x
-Scotland https://www.bbc.co.uk/scotland
-Sounds https://www.bbc.co.uk/sounds
-Sport https://www.bbc.co.uk/sport
 Obafemi strikes late to deny Man Utd win https://www.bbc.co.uk/sport/football/53303199
-Southampton stun Man Utd with injury-time leveller. Live now.From Football https://www.bbc.co.uk/sport/live/football/53138232
-Granada v Real Madrid - Zidane's side two wins from title. Live now.From European Football https://www.bbc.co.uk/sport/live/football/53272175
 Usman defeats Masvidal at 'Fight Island' https://www.bbc.co.uk/sport/mixed-martial-arts/53379875
 'I've tried to make it a positive situation' https://www.bbc.co.uk/sport/tennis/53311993
-Taster https://www.bbc.co.uk/taster
-Cookies https://www.bbc.co.uk/usingthebbc/cookies/
-Privacy Policy https://www.bbc.co.uk/usingthebbc/privacy/
-Terms of Use https://www.bbc.co.uk/usingthebbc/terms/
-Wales https://www.bbc.co.uk/wales
-Weather https://www.bbc.co.uk/weather
-ALBA https://www.bbc.com/alba
-Cymru https://www.bbc.com/cymru
-76
-BBC学院浏览全部 http://www.bbc.co.uk/academy/zh-hans
-BBC英伦网 http://www.bbc.co.uk/ukchina/simp
-播客精选浏览全部 http://www.bbc.co.uk/zhongwen/simp/indepth/cluster_podcasts.shtml
-《时事一周》（粤语） http://www.bbc.com/zhongwen/simp/institutional-38228429
-代理服务器和翻墙软件 http://www.bbc.com/zhongwen/simp/institutional/2013/02/130215_proxy_notice.shtml
-跳过此内容 https://www.bbc.co.uk
-拍纪录片遇到难题怎么办 https://www.bbc.co.uk/academy/zh-hans/articles/art20190412093506146
-数字新闻 https://www.bbc.co.uk/academy/zh-hans/collections/digital-journalism-zh-hans
-英汉金融市场词汇 https://www.bbc.co.uk/academy/zh-hans/collections/economic-vocabulary-zh-hans
-广播 https://www.bbc.co.uk/academy/zh-hans/collections/radio-zh-hans
-电视 https://www.bbc.co.uk/academy/zh-hans/collections/television-zh-hans
+17
 阅读了解我们对待外部链接的做法。 https://www.bbc.co.uk/help/web/links/
-BBC News, 中文 https://www.bbc.co.uk/zhongwen
-目前页面, 主页 https://www.bbc.co.uk/zhongwen/simp
-财经 https://www.bbc.co.uk/zhongwen/simp/business
-国安法：TikTok撤出香港， 脸书谷歌停止向警方分享数据 https://www.bbc.co.uk/zhongwen/simp/business-53319715
-疫情阴霾持续 中港股市大涨从何而来 https://www.bbc.co.uk/zhongwen/simp/business-53345100
-香港《国安法》通过后首次立法会选举， 你需要知道的四件事 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53261712
-中国高考：考场外的弊案和漏洞 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53305067
-疫情影响下 面临困境的中国底层农民工和大学毕业生 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53318753
-肺炎疫情：香港“第三波爆发” 解封开关遥遥无期 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53344652
-香港立法会选举：民主派面对《国安法》与“不割席”的考验 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53345650
-《国安法》下英国BNO新政会不会导致港人移民潮 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53349211
-中美南海秀实力 “美国军机靠近广东侦察” https://www.bbc.co.uk/zhongwen/simp/chinese-news-53351501
-香港《国安法》：政府在学校禁政治歌曲与“言论自由”争议 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53360171
-中美科技开启战略脱钩 全球企业和国家开始选阵营 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53372870
-中国洪水：至少141人死亡或失踪，鄱阳湖水位至历史最高 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53388985
-香港疫情爆发凶猛　特区政府首发“戴口罩令” https://www.bbc.co.uk/zhongwen/simp/chinese-news-53390577
-清华大学教授许章润获释回家 公众质疑“嫖娼”传言“污名化” https://www.bbc.co.uk/zhongwen/simp/chinese-news-53390912
-两岸 https://www.bbc.co.uk/zhongwen/simp/chinese_news
-评论 https://www.bbc.co.uk/zhongwen/simp/indepth
-视频材料 https://www.bbc.co.uk/zhongwen/simp/media/video
-科技 https://www.bbc.co.uk/zhongwen/simp/science
-备受争议的“免疫护照”是否解除新冠封锁的良方 https://www.bbc.co.uk/zhongwen/simp/science-53297194
-TikTok争议：亚马逊称要求员工删除TikTok是不是“一场误会” https://www.bbc.co.uk/zhongwen/simp/science-53376483
-英国 https://www.bbc.co.uk/zhongwen/simp/uk
-英国海外公民：投奔伦敦寻求庇护那段扣人心弦的往事 https://www.bbc.co.uk/zhongwen/simp/uk-52992148
 英国首相改变口径 华为成为“潜在敌国供应商” https://www.bbc.co.uk/zhongwen/simp/uk-53266772
-新冠重症患者的康复：击退病毒仅仅是开始 https://www.bbc.co.uk/zhongwen/simp/uk-53303980
-聚焦人权 英国全新“制裁工具箱”有哪些内容 https://www.bbc.co.uk/zhongwen/simp/uk-53321448
 中国驻英大使警告：禁止华为、敌视中国要“承担后果” https://www.bbc.co.uk/zhongwen/simp/uk-53323160
-英国大学为中国学生设立不含“敏感内容”的远程教学系统 https://www.bbc.co.uk/zhongwen/simp/uk-53344833
-疫情封锁下留在中国的英国人：“我不后悔” https://www.bbc.co.uk/zhongwen/simp/uk-53359171
-苏纳克：“不惜代价”救经济的英国八零后财相 https://www.bbc.co.uk/zhongwen/simp/uk-53364111
 英国电讯商：过急禁止华为会造成网络信号中断 https://www.bbc.co.uk/zhongwen/simp/uk-53366320
-那些在新冠疫情封锁期间联系前任的人们 https://www.bbc.co.uk/zhongwen/simp/uk-53390631
-华为5G英国前途 电讯巨头开列取而代之时间表 https://www.bbc.co.uk/zhongwen/simp/uk-53398343
-国际 https://www.bbc.co.uk/zhongwen/simp/world
 视频, 印度孟买医院ICU里医护人员的心声, 3,08 https://www.bbc.co.uk/zhongwen/simp/world-53305842
-俄罗斯修宪公投：普京成21世纪的彼得大帝？ https://www.bbc.co.uk/zhongwen/simp/world-53314830
-美国FBI局长公开指责中国“猎狐行动” https://www.bbc.co.uk/zhongwen/simp/world-53334243
-BBC请专家盘点成功职业生涯的十大软技能 https://www.bbc.co.uk/zhongwen/simp/world-53339193
 视频, 性倾向治疗：医生称有的同性恋实际上“患有强迫症”, 3,52 https://www.bbc.co.uk/zhongwen/simp/world-53345805
 视频, 石油大国委内瑞拉遭遇能源危机 灵车面临停摆, 3,03 https://www.bbc.co.uk/zhongwen/simp/world-53348659
-Tiktok和抖音：从默默无闻到充满争议 https://www.bbc.co.uk/zhongwen/simp/world-53356360
-美国宣布制裁多个侵犯新疆人权的中国官员及实体 https://www.bbc.co.uk/zhongwen/simp/world-53358012
-中国大使馆称哈萨克斯坦出现“不明肺炎”，哈卫生部称是“假新闻” https://www.bbc.co.uk/zhongwen/simp/world-53361986
 视频, 首尔市长被证实身亡，遗书公开向所有人致歉, 3,27 https://www.bbc.co.uk/zhongwen/simp/world-53364495
-取消文化是什么：你要知道的这个网络新词 https://www.bbc.co.uk/zhongwen/simp/world-53366321
-美国《欢乐合唱团》女明星湖上“失踪” 疑云重重 https://www.bbc.co.uk/zhongwen/simp/world-53367088
-美国最高法院判定俄克拉荷马州半数土地属于原住民 https://www.bbc.co.uk/zhongwen/simp/world-53370333
 视频, 新加坡大选执政党获胜，得票率较上届下滑, 2,12 https://www.bbc.co.uk/zhongwen/simp/world-53375302
-圣索菲亚大教堂“变身”清真寺 引各方关注 https://www.bbc.co.uk/zhongwen/simp/world-53377863
-特朗普终于戴口罩了 但美国新冠感染数还在创新高 https://www.bbc.co.uk/zhongwen/simp/world-53379171
-流行音乐变欢快了 乐观主义是否在特殊时期开始复兴 https://www.bbc.co.uk/zhongwen/simp/world-53380117
-美国抗疫新答卷上的四错与三对 https://www.bbc.co.uk/zhongwen/simp/world-53382133
-印度猛似新冠的夺命毒蛇和世卫组织呼吁重视 https://www.bbc.co.uk/zhongwen/simp/world-53383196
-波兰89后最戏剧性的大选结果意味着什么 https://www.bbc.co.uk/zhongwen/simp/world-53392848
-特朗普侄女新书起底总统叔叔内幕的五大看点 https://www.bbc.co.uk/zhongwen/simp/world-53394282
-零用钱理财：用手机应用软件培养孩子金钱观念 https://www.bbc.co.uk/zhongwen/simp/world-53398228
-繁 https://www.bbc.co.uk/zhongwen/trad
-Cookies https://www.bbc.com/usingthebbc/cookies/
-AdChoices / Do Not Sell My Info https://www.bbc.com/usingthebbc/cookies/how-can-i-change-my-bbc-cookie-settings/
-疫情时期被困香港机场数周的中国公民 https://www.bbc.com/zhongwen/simp/51222586
-使用条款 https://www.bbc.com/zhongwen/simp/institutional-38652837
-隐私政策 https://www.bbc.com/zhongwen/simp/institutional-38652843
-联络BBC https://www.bbc.com/zhongwen/simp/institutional-38664417
-BBC值得信赖的原因 https://www.bbc.com/zhongwen/simp/institutional-51359584
-78
-中国互联网举报中心 http://www.12377.cn/
-京公网安备11010502000728 http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502000728
-京ICP证090015号 http://www.miibeian.gov.cn/
-阿比鹿音乐奖 https://artist.douban.com/abilu/
- https://artist.douban.com/app
-豆瓣读书 https://book.douban.com
-购书单 https://book.douban.com/cart
-更多 https://book.douban.com/latest
-书评 https://book.douban.com/review/best/
- https://book.douban.com/subject/35059158/
- https://book.douban.com/subject/35063890/
- https://book.douban.com/subject/35067446/
- https://book.douban.com/subject/35097044/
-分类浏览 https://book.douban.com/tag/
-更多 https://book.douban.com/tag/?view=type
-互联网 https://book.douban.com/tag/互联网
-交互设计 https://book.douban.com/tag/交互设计
-企业史 https://book.douban.com/tag/企业史
-传记 https://book.douban.com/tag/传记
-健康 https://book.douban.com/tag/健康
-励志 https://book.douban.com/tag/励志
-历史 https://book.douban.com/tag/历史
-名著 https://book.douban.com/tag/名著
-哲学 https://book.douban.com/tag/哲学
-商业 https://book.douban.com/tag/商业
-回忆录 https://book.douban.com/tag/回忆录
-奇幻 https://book.douban.com/tag/奇幻
-家居 https://book.douban.com/tag/家居
-小说 https://book.douban.com/tag/小说
-建筑 https://book.douban.com/tag/建筑
-推理 https://book.douban.com/tag/推理
-教育 https://book.douban.com/tag/教育
-散文 https://book.douban.com/tag/散文
-旅行 https://book.douban.com/tag/旅行
-日本文学 https://book.douban.com/tag/日本文学
-武侠 https://book.douban.com/tag/武侠
-港台 https://book.douban.com/tag/港台
-漫画 https://book.douban.com/tag/漫画
-灵修 https://book.douban.com/tag/灵修
-理财 https://book.douban.com/tag/理财
-电影 https://book.douban.com/tag/电影
-神经网络 https://book.douban.com/tag/神经网络
-科幻 https://book.douban.com/tag/科幻
-科普 https://book.douban.com/tag/科普
-童话 https://book.douban.com/tag/童话
-算法 https://book.douban.com/tag/算法
-管理 https://book.douban.com/tag/管理
-经济学 https://book.douban.com/tag/经济学
-绘本 https://book.douban.com/tag/绘本
-编程 https://book.douban.com/tag/编程
-美食 https://book.douban.com/tag/美食
-职场 https://book.douban.com/tag/职场
-股票 https://book.douban.com/tag/股票
-营销 https://book.douban.com/tag/营销
-言情 https://book.douban.com/tag/言情
-设计 https://book.douban.com/tag/设计
-诗歌 https://book.douban.com/tag/诗歌
-通信 https://book.douban.com/tag/通信
-金融 https://book.douban.com/tag/金融
-随笔 https://book.douban.com/tag/随笔
-青春 https://book.douban.com/tag/青春
-音乐 https://book.douban.com/tag/音乐
-作者 https://book.douban.com/writers/
-豆瓣FM https://douban.fm
-豆瓣FM https://douban.fm/?from_=music_nav
- https://douban.fm/app?from_=shire_anonymous_home
-歌单 https://douban.fm/explore/songlists/
-帮助中心 https://help.douban.com/?app=main
-新出发京批字第直160029号 https://img9.doubanio.com/f/shire/80d71f876c40a3ecdfde2fe2afe3b1983a2cac64/pics/licence/publication2018.png
- https://m.douban.com/time/column/190?dt_time_source=douban-web_anonymous
- https://m.douban.com/time/column/191?dt_time_source=douban-web_anonymous
- https://m.douban.com/time/column/192?dt_time_source=douban-web_anonymous
- https://m.douban.com/time/column/193?dt_time_source=douban-web_anonymous
- https://m.douban.com/time/column/194?dt_time_source=douban-web_anonymous
- https://m.douban.com/time/column/195?dt_time_source=douban-web_anonymous
- https://m.douban.com/time/column/196?dt_time_source=douban-web_anonymous
- https://m.douban.com/time/column/197?dt_time_source=douban-web_anonymous
- https://m.douban.com/time/column/198?dt_time_source=douban-web_anonymous
- https://m.douban.com/time/column/199?dt_time_source=douban-web_anonymous
- https://market.douban.com/campaign/doumaot-shirt?dcm=douban&dcs=anonymous-home-spu
- https://market.douban.com/campaign/moviebadge?dcm=douban&dcs=anonymous-home-spu
- https://market.douban.com/campaign/umbrella?dcm=douban&dcs=anonymous-home-spu
- https://market.douban.com/campaign/watch?dcm=douban&dcs=anonymous-home-spu
-更多 https://market.douban.com?dcs=anonymous-home-more-skus&dcm=douban
-豆品 https://market.douban.com?dcs=anonymous-home-sidenav&dcm=douban
-豆瓣豆品 https://market.douban.com?utm_campaign=anonymous_top_nav&utm_source=douban&utm_medium=pc_web
-豆瓣电影 https://movie.douban.com
-问答 https://movie.douban.com/askmatrix/hot_questions/all
-排行榜 https://movie.douban.com/chart
-选电影 https://movie.douban.com/explore
-影讯&购票 https://movie.douban.com/nowplaying/
-影评 https://movie.douban.com/review/best/
-更多 https://movie.douban.com/showtimes/
-默片解说员 https://movie.douban.com/subject/30135942/
-翻译疑云 https://movie.douban.com/subject/30145117/
-午夜0时的吻 https://movie.douban.com/subject/30488584/
-咱们裸熊：电影版 https://movie.douban.com/subject/34822138/
-侵入者 https://movie.douban.com/subject/34845342/
-汉密尔顿 https://movie.douban.com/subject/34961898/
-想哭的我戴上了猫的面具 https://movie.douban.com/subject/34964061/
-黑帮大佬和我的365日 https://movie.douban.com/subject/34968329/
-猎谎者 https://movie.douban.com/subject/35027709/
-好久不见，武汉 https://movie.douban.com/subject/35121307/
-分类 https://movie.douban.com/tag/
-更多 https://movie.douban.com/tag/?view=type
-中国 https://movie.douban.com/tag/中国
-中国大陆 https://movie.douban.com/tag/中国大陆
-剧情 https://movie.douban.com/tag/剧情
-动作 https://movie.douban.com/tag/动作
-动画 https://movie.douban.com/tag/动画
-励志 https://movie.douban.com/tag/励志
-印度 https://movie.douban.com/tag/印度
-台湾 https://movie.douban.com/tag/台湾
-喜剧 https://movie.douban.com/tag/喜剧
-恐怖 https://movie.douban.com/tag/恐怖
-悬疑 https://movie.douban.com/tag/悬疑
-惊悚 https://movie.douban.com/tag/惊悚
-战争 https://movie.douban.com/tag/战争
-搞笑 https://movie.douban.com/tag/搞笑
-文艺 https://movie.douban.com/tag/文艺
-日本 https://movie.douban.com/tag/日本
-法国 https://movie.douban.com/tag/法国
-爱情 https://movie.douban.com/tag/爱情
-犯罪 https://movie.douban.com/tag/犯罪
-科幻 https://movie.douban.com/tag/科幻
-纪录片 https://movie.douban.com/tag/纪录片
-经典 https://movie.douban.com/tag/经典
-美国 https://movie.douban.com/tag/美国
-英国 https://movie.douban.com/tag/英国
-青春 https://movie.douban.com/tag/青春
-韩国 https://movie.douban.com/tag/韩国
-香港 https://movie.douban.com/tag/香港
-黑色幽默 https://movie.douban.com/tag/黑色幽默
-预告片 https://movie.douban.com/trailers
-电视剧 https://movie.douban.com/tv/
-豆瓣音乐 https://music.douban.com
-音乐人 https://music.douban.com/artists/
-金羊毛计划 https://music.douban.com/artists/royalty/
-排行榜 https://music.douban.com/chart
-更多 https://music.douban.com/programmes/
-乐评 https://music.douban.com/review/latest/
- https://music.douban.com/subject/34981011/
- https://music.douban.com/subject/35079600/
- https://music.douban.com/subject/35082080/
- https://music.douban.com/subject/35097422/
- https://music.douban.com/subject/35099703/
- https://music.douban.com/subject/35101591/
- https://music.douban.com/subject/35123826/
- https://music.douban.com/subject/35135203/
-分类浏览 https://music.douban.com/tag/
-专题 https://music.douban.com/topics/
-豆瓣阅读 https://read.douban.com
- https://read.douban.com/app/
- https://read.douban.com/ebook/132046016
- https://read.douban.com/ebook/134626347
- https://read.douban.com/ebook/138134486
- https://read.douban.com/ebook/138947206
-免费试读 https://read.douban.com/reader/column/32999719/chapter/138928824/
-免费试读 https://read.douban.com/reader/column/33400870/chapter/134626456/
-免费试读 https://read.douban.com/reader/column/33783545/chapter/138134694/
-免费试读 https://read.douban.com/reader/column/33879818/chapter/140792445/
-免费试读 https://read.douban.com/reader/ebook/151788432/
-免费试读 https://read.douban.com/reader/ebook/151888736/
-免费试读 https://read.douban.com/reader/ebook/152493334/
-免费试读 https://read.douban.com/reader/ebook/152842108/
-阅读 https://read.douban.com?dcn=entry&dcs=book-nav&dcm=douban
- https://site.douban.com/AfB/
- https://site.douban.com/cottonseed/
- https://site.douban.com/shage/
- https://site.douban.com/shamelesslee/
- https://site.douban.com/woaiqizhen/
-豆瓣时间 https://time.douban.com/?dt_time_source=douban-web_anonymous_index_top_nav
-豆瓣时间 https://time.douban.com?dt_time_source=douban-web_anonymous
- https://www.12377.cn/
-豆瓣 https://www.douban.com
-寸铁 https://www.douban.com/
-去话题广场 https://www.douban.com//gallery/
-精选 https://www.douban.com//group/explore
-文化 https://www.douban.com//group/explore/culture
-娱乐 https://www.douban.com//group/explore/ent
-时尚 https://www.douban.com//group/explore/fashion
-生活 https://www.douban.com//group/explore/life
-科技 https://www.douban.com//group/explore/tech
-行摄 https://www.douban.com//group/explore/travel
-关于豆瓣 https://www.douban.com/about
-法律声明 https://www.douban.com/about/legal
-联系我们 https://www.douban.com/about?topic=contactus
-0110418 https://www.douban.com/about?topic=licence
-移动应用 https://www.douban.com/doubanapp/
-下载豆瓣 App https://www.douban.com/doubanapp/app?channel=nimingye
- https://www.douban.com/event/33216789/
- https://www.douban.com/event/33488110/
- https://www.douban.com/event/33496420/
- https://www.douban.com/event/33516640/
-更多 https://www.douban.com/explore/
-建筑中的几何图形 https://www.douban.com/gallery/topic/152046/?from=hot_topic_anony_sns
-你想和高考那年的自己说什么 https://www.douban.com/gallery/topic/152073/?from=hot_topic_anony_sns
-给往日的恋人写封信 https://www.douban.com/gallery/topic/152145/?from=hot_topic_anony_sns
-小城的哪些地方，你曾为之动容 https://www.douban.com/gallery/topic/152245/?from=hot_topic_anony_sns
-你从父母的婚姻中得到了哪些启示？ https://www.douban.com/gallery/topic/152261/?from=hot_topic_anony_sns
-不露脸足尖舞大赛 https://www.douban.com/gallery/topic/152639/?from=hot_topic_anony_sns
- https://www.douban.com/gallery/topic/761/?index=2&r=topic?dcm=douban&dcs=anonymous-home-topic
-豆瓣小组 https://www.douban.com/group/
- https://www.douban.com/group/170177/
- https://www.douban.com/group/20618/
- https://www.douban.com/group/402725/
-更多 https://www.douban.com/group/588598?dcs=anonymous-home-more-shops&dcm=douban
- https://www.douban.com/group/83759/
- https://www.douban.com/group/cuthair/
- https://www.douban.com/group/dashan/
- https://www.douban.com/group/echofans/
-更多 https://www.douban.com/group/explore
-GAY https://www.douban.com/group/explore?tag=GAY
-LES https://www.douban.com/group/explore?tag=LES
-二手 https://www.douban.com/group/explore?tag=二手
-互联网 https://www.douban.com/group/explore?tag=互联网
-人文 https://www.douban.com/group/explore?tag=人文
-传媒 https://www.douban.com/group/explore?tag=传媒
-健康 https://www.douban.com/group/explore?tag=健康
-八卦 https://www.douban.com/group/explore?tag=八卦
-公益 https://www.douban.com/group/explore?tag=公益
-兴趣» https://www.douban.com/group/explore?tag=兴趣
-出国 https://www.douban.com/group/explore?tag=出国
-创业 https://www.douban.com/group/explore?tag=创业
-动漫 https://www.douban.com/group/explore?tag=动漫
-励志 https://www.douban.com/group/explore?tag=励志
-化妆 https://www.douban.com/group/explore?tag=化妆
-发泄 https://www.douban.com/group/explore?tag=发泄
-吐槽 https://www.douban.com/group/explore?tag=吐槽
-品牌 https://www.douban.com/group/explore?tag=品牌
-哲学 https://www.douban.com/group/explore?tag=哲学
-团购 https://www.douban.com/group/explore?tag=团购
-国学 https://www.douban.com/group/explore?tag=国学
-塔罗 https://www.douban.com/group/explore?tag=塔罗
-学术» https://www.douban.com/group/explore?tag=学术
-宗教 https://www.douban.com/group/explore?tag=宗教
-宠物 https://www.douban.com/group/explore?tag=宠物
-家庭 https://www.douban.com/group/explore?tag=家庭
-展览 https://www.douban.com/group/explore?tag=展览
-建筑 https://www.douban.com/group/explore?tag=建筑
-影视 https://www.douban.com/group/explore?tag=影视
-心情 https://www.douban.com/group/explore?tag=心情
-心理学 https://www.douban.com/group/explore?tag=心理学
-怪癖 https://www.douban.com/group/explore?tag=怪癖
-恋爱 https://www.douban.com/group/explore?tag=恋爱
-情感» https://www.douban.com/group/explore?tag=情感
-戏曲 https://www.douban.com/group/explore?tag=戏曲
-手工 https://www.douban.com/group/explore?tag=手工
-护肤 https://www.douban.com/group/explore?tag=护肤
-摄影 https://www.douban.com/group/explore?tag=摄影
-数码 https://www.douban.com/group/explore?tag=数码
-文具 https://www.douban.com/group/explore?tag=文具
-文学 https://www.douban.com/group/explore?tag=文学
-旅行 https://www.douban.com/group/explore?tag=旅行
-星座 https://www.douban.com/group/explore?tag=星座
-曲艺 https://www.douban.com/group/explore?tag=曲艺
-服饰 https://www.douban.com/group/explore?tag=服饰
-桌游 https://www.douban.com/group/explore?tag=桌游
-求职 https://www.douban.com/group/explore?tag=求职
-汽车 https://www.douban.com/group/explore?tag=汽车
-淘宝 https://www.douban.com/group/explore?tag=淘宝
-游戏 https://www.douban.com/group/explore?tag=游戏
-理财 https://www.douban.com/group/explore?tag=理财
-生活» https://www.douban.com/group/explore?tag=生活
-留学 https://www.douban.com/group/explore?tag=留学
-直播 https://www.douban.com/group/explore?tag=直播
-硬件 https://www.douban.com/group/explore?tag=硬件
-社会» https://www.douban.com/group/explore?tag=社会
-社科 https://www.douban.com/group/explore?tag=社科
-租房 https://www.douban.com/group/explore?tag=租房
-笑话 https://www.douban.com/group/explore?tag=笑话
-纹身 https://www.douban.com/group/explore?tag=纹身
-美容 https://www.douban.com/group/explore?tag=美容
-美食 https://www.douban.com/group/explore?tag=美食
-考试 https://www.douban.com/group/explore?tag=考试
-育儿 https://www.douban.com/group/explore?tag=育儿
-自然 https://www.douban.com/group/explore?tag=自然
-舞蹈 https://www.douban.com/group/explore?tag=舞蹈
-艺术» https://www.douban.com/group/explore?tag=艺术
-设计 https://www.douban.com/group/explore?tag=设计
-语言 https://www.douban.com/group/explore?tag=语言
-购物» https://www.douban.com/group/explore?tag=购物
-软件 https://www.douban.com/group/explore?tag=软件
-运动 https://www.douban.com/group/explore?tag=运动
-闲聊» https://www.douban.com/group/explore?tag=闲聊
-雕塑 https://www.douban.com/group/explore?tag=雕塑
-音乐 https://www.douban.com/group/explore?tag=音乐
- https://www.douban.com/group/liucixin/
- https://www.douban.com/group/shafake/
- https://www.douban.com/hnypt/variformcyst.py
- https://www.douban.com/javascript: void 0;
-在豆瓣工作 https://www.douban.com/jobs
-豆瓣同城 https://www.douban.com/location/
-舞台剧 https://www.douban.com/location/drama/
-近期活动 https://www.douban.com/location/usa/events
-小型现场 https://www.douban.com/location/usa/events/week-1001
-音乐会 https://www.douban.com/location/usa/events/week-1002
-演唱会 https://www.douban.com/location/usa/events/week-1003
-音乐节 https://www.douban.com/location/usa/events/week-1004
-话剧 https://www.douban.com/location/usa/events/week-1101
-音乐剧 https://www.douban.com/location/usa/events/week-1102
-舞剧 https://www.douban.com/location/usa/events/week-1103
-歌剧 https://www.douban.com/location/usa/events/week-1104
-戏曲 https://www.douban.com/location/usa/events/week-1105
-其他 https://www.douban.com/location/usa/events/week-1106
-生活 https://www.douban.com/location/usa/events/week-1401
-集市 https://www.douban.com/location/usa/events/week-1402
-摄影 https://www.douban.com/location/usa/events/week-1403
-外语 https://www.douban.com/location/usa/events/week-1404
-桌游 https://www.douban.com/location/usa/events/week-1405
-夜店 https://www.douban.com/location/usa/events/week-1406
-交友 https://www.douban.com/location/usa/events/week-1407
-美食 https://www.douban.com/location/usa/events/week-1408
-派对 https://www.douban.com/location/usa/events/week-1409
-主题放映 https://www.douban.com/location/usa/events/week-1801
-影展 https://www.douban.com/location/usa/events/week-1802
-影院活动 https://www.douban.com/location/usa/events/week-1803
-其他» https://www.douban.com/location/usa/events/week-all
-公益 https://www.douban.com/location/usa/events/week-commonweal
-戏剧» https://www.douban.com/location/usa/events/week-drama
-展览 https://www.douban.com/location/usa/events/week-exhibition
-电影» https://www.douban.com/location/usa/events/week-film
-音乐» https://www.douban.com/location/usa/events/week-music
-聚会» https://www.douban.com/location/usa/events/week-party
-讲座 https://www.douban.com/location/usa/events/week-salon
-运动 https://www.douban.com/location/usa/events/week-sports
-旅行 https://www.douban.com/location/usa/events/week-travel
-主办方 https://www.douban.com/location/usa/hosts
-不用PS，有了这份 snapseed 超强使用指南分分钟修大片 https://www.douban.com/note/766009156/
-胖纸G的日本爬楼小记（上）——首都圈篇 https://www.douban.com/note/767358638/
-美国高速系统: 一场城市的复仇 https://www.douban.com/note/767836133/
-长春：搭一辆有轨电车，邂逅持永只仁 https://www.douban.com/note/768430009/
-闽侯的木拱廊桥 https://www.douban.com/note/768469476/
-母女关系进化论：两个女人之间的战争史 https://www.douban.com/note/768830174/
-论母亲与父亲的叙事风格 https://www.douban.com/note/769028902/
-端午节西北之行游记 https://www.douban.com/note/769198086/
-夏天不是读书天：我的2020第二季度读书报告 https://www.douban.com/note/769753414/
-在乌兰巴托郊外的荒山上，我看见一出流动的火车风情画 https://www.douban.com/note/770072169/
-豆瓣广告 https://www.douban.com/partner/
+9
+ https://www.douban.com//group/explore
+ https://www.douban.com//group/explore/culture
+ https://www.douban.com//group/explore/ent
+ https://www.douban.com//group/explore/fashion
+ https://www.douban.com//group/explore/life
+ https://www.douban.com//group/explore/tech
+ https://www.douban.com//group/explore/travel
+ https://www.douban.com/gallery/topic/152046/
+ https://www.douban.com/gallery/topic/152073/
+ https://www.douban.com/gallery/topic/152145/
+ https://www.douban.com/gallery/topic/152245/
+ https://www.douban.com/gallery/topic/152261/
+ https://www.douban.com/gallery/topic/152639/
+ https://www.douban.com/gallery/topic/761/
  https://www.douban.com/photos/album/120704503/
  https://www.douban.com/photos/album/1633566859/
  https://www.douban.com/photos/album/1690595730/
  https://www.douban.com/photos/album/1873686200/
-潮潮豆瓣音乐周 https://www.douban.com/wetware/
-344
-登录/注册 https://accounts.douban.com/passport/login?source=main
-读书 https://book.douban.com
-FM https://douban.fm/?from_=shire_top_nav
-帮助中心 https://help.douban.com/?app=main
- https://img9.doubanio.com/view/status/m/public/08a5cd9e9d6fb81.jpg
- https://img9.doubanio.com/view/status/m/public/1b25acae2932dab.jpg
- https://img9.doubanio.com/view/status/m/public/59429448d198290.jpg
- https://img9.doubanio.com/view/status/m/public/6ac2c724166ca24.jpg
- https://img9.doubanio.com/view/status/m/public/785992b4c884a13.jpg
- https://img9.doubanio.com/view/status/m/public/7ef71e1aecfe023.jpg
- https://img9.doubanio.com/view/status/m/public/8ab72da8388f848.jpg
- https://img9.doubanio.com/view/status/m/public/b87510680e0a627.jpg
-豆品 https://market.douban.com/?utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web
-电影 https://movie.douban.com
-音乐 https://music.douban.com
-阅读 https://read.douban.com/?dcs=top-nav&dcm=douban
- https://site.douban.com/Gap_Year/
- https://site.douban.com/doubanyouth/
- https://site.douban.com/gadget/
- https://site.douban.com/huawei/
- https://site.douban.com/thenorthface/
-时间 https://time.douban.com/?dt_time_source=douban-web_top_nav
-豆瓣 https://www.douban.com
-关于豆瓣 https://www.douban.com/about
-法律声明 https://www.douban.com/about/legal
-联系我们 https://www.douban.com/about?topic=contactus
-热议 https://www.douban.com/channel/27625724
-读书 https://www.douban.com/channel/30168716
-故事 https://www.douban.com/channel/30168791
-成长 https://www.douban.com/channel/30168801
-影视 https://www.douban.com/channel/30168817
-科技 https://www.douban.com/channel/30168871
-人文 https://www.douban.com/channel/30168903
-自然 https://www.douban.com/channel/30168981
-运动 https://www.douban.com/channel/30169109
-旅行 https://www.douban.com/channel/30169152
-美食 https://www.douban.com/channel/30169190
-音乐 https://www.douban.com/channel/30169229
-时尚 https://www.douban.com/channel/30169259
-艺术 https://www.douban.com/channel/30169475
-画画 https://www.douban.com/channel/30169485
-建筑 https://www.douban.com/channel/30169514
-摄影 https://www.douban.com/channel/30169541
-情感 https://www.douban.com/channel/30169576
-理财 https://www.douban.com/channel/30169671
-游戏 https://www.douban.com/channel/30169720
-萌宠 https://www.douban.com/channel/30169793
-手作 https://www.douban.com/channel/30169800
-二次元 https://www.douban.com/channel/30307759
-生活 https://www.douban.com/channel/30308073
-八卦 https://www.douban.com/channel/30308276
-找乐 https://www.douban.com/channel/30308279
-移动应用 https://www.douban.com/doubanapp/
-6.0 https://www.douban.com/doubanapp/app?channel=qipao
-下载豆瓣客户端 https://www.douban.com/doubanapp/app?channel=top-nav
-Android https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android
-iPhone https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS
-(更多) https://www.douban.com/doulist/
-那些给我力量的一切 https://www.douban.com/doulist/1783814/
-文章本天成，妙手偶得之 https://www.douban.com/doulist/39106056/
-浏览发现 https://www.douban.com/explore
-话题广场 https://www.douban.com/gallery
-栈道历险记 https://www.douban.com/gallery/topic/149588/
-你所见到的城市夜晚 https://www.douban.com/gallery/topic/15221/
-你喜欢收藏哪些物品？ https://www.douban.com/gallery/topic/5358/
-换季后房间的特别变化 https://www.douban.com/gallery/topic/62418/
-你花了最多心思的家的一角 https://www.douban.com/gallery/topic/86240/
-小组 https://www.douban.com/group
+18
+ https://www.douban.com/gallery/topic/149588/
+ https://www.douban.com/gallery/topic/15221/
+ https://www.douban.com/gallery/topic/5358/
+ https://www.douban.com/gallery/topic/62418/
+ https://www.douban.com/gallery/topic/86240/
  https://www.douban.com/group/topic/181526144/
  https://www.douban.com/group/topic/182333933/
  https://www.douban.com/group/topic/183441985/
- https://www.douban.com/hnypt/variformcyst.py
-× https://www.douban.com/javascript: void 0;
-(收起) https://www.douban.com/javascript:;
-在豆瓣工作 https://www.douban.com/jobs
-同城 https://www.douban.com/location
- https://www.douban.com/note/763079644/
- https://www.douban.com/note/769269369/
-豆瓣广告 https://www.douban.com/partner/
-(更多) https://www.douban.com/partner/brand
- https://www.douban.com/people/154364263/
- https://www.douban.com/people/157603376/
-46回应 https://www.douban.com/people/157603376/status/2998280298/
- https://www.douban.com/people/170237006/
- https://www.douban.com/people/189216139/
- https://www.douban.com/people/202941008/
- https://www.douban.com/people/71563921/
-18回应 https://www.douban.com/people/71563921/status/3011688426/
- https://www.douban.com/people/chenyuz/
-8回应 https://www.douban.com/people/chenyuz/status/2961655324/
- https://www.douban.com/people/strangersssss/
-16回应 https://www.douban.com/people/strangersssss/status/3013380912/
- https://www.douban.com/people/winmoney66/
-93
-登录/注册 https://accounts.douban.com/passport/login?source=main
-读书 https://book.douban.com
-FM https://douban.fm/?from_=shire_top_nav
-帮助中心 https://help.douban.com/?app=main
-豆品 https://market.douban.com/?utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web
-电影 https://movie.douban.com
-音乐 https://music.douban.com
-阅读 https://read.douban.com/?dcs=top-nav&dcm=douban
-时间 https://time.douban.com/?dt_time_source=douban-web_top_nav
-豆瓣 https://www.douban.com
-全部 https://www.douban.com/
-feed: rss 2.0 https://www.douban.com//feed/people/180693708/notes
-关于豆瓣 https://www.douban.com/about
-法律声明 https://www.douban.com/about/legal
-联系我们 https://www.douban.com/about?topic=contactus
-162 https://www.douban.com/accounts/register?reason=collect
-赞 https://www.douban.com/accounts/register?reason=like
-奥斯卡 1 https://www.douban.com/channel/27622682
-社会热点 10 https://www.douban.com/channel/27625724
-社会 4 https://www.douban.com/channel/30168695
-读书 6 https://www.douban.com/channel/30168716
-思想 10 https://www.douban.com/channel/30168784
-影视 2 https://www.douban.com/channel/30168817
-电影节 1 https://www.douban.com/channel/30168853
-人文 3 https://www.douban.com/channel/30168903
-文学 3 https://www.douban.com/channel/30168924
-北京大学 1 https://www.douban.com/channel/30169031
-设计 1 https://www.douban.com/channel/30169133
-LGBT 1 https://www.douban.com/channel/30169326
-艺术 2 https://www.douban.com/channel/30169475
-情感 1 https://www.douban.com/channel/30169576
-游戏 1 https://www.douban.com/channel/30169720
-联合国 1 https://www.douban.com/channel/30169744
-移动应用 https://www.douban.com/doubanapp/
-6.0 https://www.douban.com/doubanapp/app?channel=qipao
-下载豆瓣客户端 https://www.douban.com/doubanapp/app?channel=top-nav
-Android https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android
-iPhone https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS
-浏览发现 https://www.douban.com/explore
-话题广场 https://www.douban.com/gallery
-小组 https://www.douban.com/group
- https://www.douban.com/hnypt/variformcyst.py
-× https://www.douban.com/javascript: void 0;
- https://www.douban.com/javascript:void(0);
-在豆瓣工作 https://www.douban.com/jobs
-8回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F747380198%2F%23comments&type=note&pos=full_comment
-(8回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F747380198%2F%23comments&type=note&pos=short_comment
-2回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F749590363%2F%23comments&type=note&pos=full_comment
-(2回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F749590363%2F%23comments&type=note&pos=short_comment
-19回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F750993761%2F%23comments&type=note&pos=full_comment
-(19回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F750993761%2F%23comments&type=note&pos=short_comment
-18回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F751533011%2F%23comments&type=note&pos=full_comment
-(18回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F751533011%2F%23comments&type=note&pos=short_comment
-有待商榷的永居条例，畅行无阻的种族仇恨 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F752623176%2F&type=note&pos=sidebar_commented_notes
-你看荒谬的我们，离开重复的游戏。 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F752995171%2F&type=note&pos=sidebar_commented_notes
-2回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F753525132%2F%23comments&type=note&pos=full_comment
-(2回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F753525132%2F%23comments&type=note&pos=short_comment
-23回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F754597126%2F%23comments&type=note&pos=full_comment
-(23回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F754597126%2F%23comments&type=note&pos=short_comment
-3回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F756521757%2F%23comments&type=note&pos=full_comment
-(3回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F756521757%2F%23comments&type=note&pos=short_comment
-To Be Radical. https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F757125153%2F&type=note&pos=sidebar_commented_notes
-2020.05.01 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F761007393%2F&type=note&pos=sidebar_commented_notes
-2020.05.11 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F762259942%2F&type=note&pos=sidebar_commented_notes
-14回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F766426949%2F%23comments&type=note&pos=full_comment
-(14回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F766426949%2F%23comments&type=note&pos=short_comment
-探访达里尼 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769557085%2F&type=note&pos=sidebar_commented_notes
-当然点开了，并且我也明确告诉了你，那样对我而言就完全没问题。自然，非要扣字面的话，... https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769986412%2F%2366677135&type=note&pos=sidebar_comments
-trans人口本身占比就很少（1%左右），加上虚假声明会被查，并不会把统计数据翻成女性性... https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769986412%2F%2366677226&type=note&pos=sidebar_comments
-也就是你对于胡子拉碴身材壮硕的跨性别男性（生理女性，比如这位哥哥 https://twitter.c... https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769986412%2F%2366677287&type=note&pos=sidebar_comments
-GT https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769986412%2F%2366677299&type=note&pos=sidebar_comments
-以演员代表整个群体也是一种刻板印象 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769986412%2F%2366677321&type=note&pos=sidebar_comments
-没错，而且again，我所说的问题并不是我舒不舒服，而是，第一位进男厕，男人有无义务一... https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769986412%2F%2366677414&type=note&pos=sidebar_comments
-126回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769986412%2F%23comments&type=note&pos=full_comment
-(126回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769986412%2F%23comments&type=note&pos=short_comment
-同城 https://www.douban.com/location
-我被禁止的恐惧 https://www.douban.com/note/747380198/
-备忘录 | 第22天 https://www.douban.com/note/749590363/
-“非常时期的非常举措”：一如既往的默许将会把我们推向哪里？ https://www.douban.com/note/750993761/
-激励政策中边缘群体依然不可见，制度性歧视的后果让人担忧 https://www.douban.com/note/751533011/
-“自由”的《北大青年》不必再自取其辱 https://www.douban.com/note/753525132/
-我有被迫害妄想症吗？ https://www.douban.com/note/754597126/
-备忘录 | 男色消费 https://www.douban.com/note/756521757/
-3月31日是国际跨性别现身日：让恐惧与偏见终结于我们这一代 https://www.douban.com/note/756802515/
-对身份政治与“政治正确”的一点思考 https://www.douban.com/note/766426949/
-J.K. Rowling的文章如何误导公众并损害跨性别社群的权利 https://www.douban.com/note/769986412/
-电影 2 https://www.douban.com/note/tags/%E7%94%B5%E5%BD%B1?people=180693708&all=1
-豆瓣广告 https://www.douban.com/partner/
- https://www.douban.com/people/150102172/
- https://www.douban.com/people/175739547/
- https://www.douban.com/people/1798340/
- https://www.douban.com/people/180693708/
-豆列 https://www.douban.com/people/180693708/doulists
-日记 https://www.douban.com/people/180693708/notes
-2 https://www.douban.com/people/180693708/notes?start=10&type=note
-相册 https://www.douban.com/people/180693708/photos
-广播 https://www.douban.com/people/180693708/statuses
- https://www.douban.com/people/210412516/
- https://www.douban.com/people/46253924/
- https://www.douban.com/people/60359267/
- https://www.douban.com/people/83391081/
- https://www.douban.com/people/misink/
-102
-登录/注册 https://accounts.douban.com/passport/login?source=main
-读书 https://book.douban.com
-FM https://douban.fm/?from_=shire_top_nav
-帮助中心 https://help.douban.com/?app=main
-豆品 https://market.douban.com/?utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web
-电影 https://movie.douban.com
-音乐 https://music.douban.com
-阅读 https://read.douban.com/?dcs=top-nav&dcm=douban
-时间 https://time.douban.com/?dt_time_source=douban-web_top_nav
-豆瓣 https://www.douban.com
-全部 https://www.douban.com/
-feed: rss 2.0 https://www.douban.com//feed/people/80620968/notes
-关于豆瓣 https://www.douban.com/about
-法律声明 https://www.douban.com/about/legal
-联系我们 https://www.douban.com/about?topic=contactus
-82 https://www.douban.com/accounts/register?reason=collect
-赞 https://www.douban.com/accounts/register?reason=like
-社会热点 13 https://www.douban.com/channel/27625724
-读书 15 https://www.douban.com/channel/30168716
-思想 12 https://www.douban.com/channel/30168784
-职场 3 https://www.douban.com/channel/30168883
-人文 7 https://www.douban.com/channel/30168903
-职业 2 https://www.douban.com/channel/30308147
-移动应用 https://www.douban.com/doubanapp/
-6.0 https://www.douban.com/doubanapp/app?channel=qipao
-下载豆瓣客户端 https://www.douban.com/doubanapp/app?channel=top-nav
-Android https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android
-iPhone https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS
-浏览发现 https://www.douban.com/explore
-话题广场 https://www.douban.com/gallery
-小组 https://www.douban.com/group
- https://www.douban.com/hnypt/variformcyst.py
-× https://www.douban.com/javascript: void 0;
- https://www.douban.com/javascript:void(0);
-在豆瓣工作 https://www.douban.com/jobs
-随便吐个槽 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F611710597%2F&type=note&pos=sidebar_commented_notes
-妇女节怎么过？萨帕塔女性向全世界呼吁女权运动 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F709324616%2F&type=note&pos=sidebar_commented_notes
-1回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F734330822%2F%23comments&type=note&pos=full_comment
-(1回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F734330822%2F%23comments&type=note&pos=short_comment
-3回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F739729732%2F%23comments&type=note&pos=full_comment
-(3回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F739729732%2F%23comments&type=note&pos=short_comment
-24回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F764273683%2F%23comments&type=note&pos=full_comment
-(24回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F764273683%2F%23comments&type=note&pos=short_comment
-3回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F765214024%2F%23comments&type=note&pos=full_comment
-(3回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F765214024%2F%23comments&type=note&pos=short_comment
-非暴力拆迁作为一种治理技术——迟到的白石洲... https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F766481175%2F&type=note&pos=sidebar_commented_notes
-3回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769891609%2F%23comments&type=note&pos=full_comment
-(3回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F769891609%2F%23comments&type=note&pos=short_comment
-嗯？有链接吗？ https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F770561346%2F%2366739197&type=note&pos=sidebar_comments
-这话就非常爆笑了，不仅将弥赛亚时间庸俗化，还将无政资运动说成虚拟权利运动，a u kidd... https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F770561346%2F%2366739203&type=note&pos=sidebar_comments
-自己写一篇吧你 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F770561346%2F%2366739216&type=note&pos=sidebar_comments
-https://app.finchina.com/finchinaAPP/newsDetail.html?type=news&id=73E9773D7ED93848... https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F770561346%2F%2366739707&type=note&pos=sidebar_comments
-对。尤其是现在的豆瓣用户里有一波是来闹事儿的～还有一波是小屁孩。。 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F770561346%2F%2366739773&type=note&pos=sidebar_comments
-Subscription fee嘛 我反正愿意因为十块人民币很小的钱。我现在patreon赞助了好几个喜欢... https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F770561346%2F%2366740039&type=note&pos=sidebar_comments
-56回应 https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F770561346%2F%23comments&type=note&pos=full_comment
-(56回应) https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Fnote%2F770561346%2F%23comments&type=note&pos=short_comment
-同城 https://www.douban.com/location
-东亚社畜手册⑧ | 社畜的救途：想象力的解放 https://www.douban.com/note/734330190/
-东亚社畜手册⑨ | 社畜的救途：从容易的开始 https://www.douban.com/note/734330286/
-东亚社畜手册⑩ | 社畜的救途：可以够得着的地方 https://www.douban.com/note/734330461/
-东亚社畜手册⑪ | 大停电与全球社畜救存实录 https://www.douban.com/note/734330822/
-自杀的库尔德诗人：穆罕默德·奥马尔·奥斯曼（译诗四首） https://www.douban.com/note/739729732/
-谈“打工诗人”与作家的群体身份 https://www.douban.com/note/764273683/
-不妥协的历史:黑人抗争政治片单 https://www.douban.com/note/765214024/
-明尼阿波利斯市议会主席提出废# https://www.douban.com/note/766225860/
-刷豆瓣到底算不算就业？——关于零工经济的二三言 https://www.douban.com/note/769891609/
-#倡议#豆瓣用户每人每月花十块钱买下豆瓣 https://www.douban.com/note/770561346/
-社畜 10 https://www.douban.com/note/tags/%E7%A4%BE%E7%95%9C?people=80620968&all=1
-豆瓣广告 https://www.douban.com/partner/
- https://www.douban.com/people/103093817/
- https://www.douban.com/people/125970609/
- https://www.douban.com/people/2206866/
- https://www.douban.com/people/43916230/
- https://www.douban.com/people/80620968/
-豆列 https://www.douban.com/people/80620968/doulists
-日记 https://www.douban.com/people/80620968/notes
-2 https://www.douban.com/people/80620968/notes?start=10&type=note
-相册 https://www.douban.com/people/80620968/photos
-广播 https://www.douban.com/people/80620968/statuses
- https://www.douban.com/people/huangqingxiu/
- https://www.douban.com/people/tootopia/
- https://www.douban.com/people/xiaoshuojia2016/
- https://www.douban.com/people/zeaglog/
-83
-Let us know what you think http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l
-中文 https://cn.nytimes.com
-2020 https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
- https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi
-Continue reading the main story https://www.nytimes.com
- https://www.nytimes.com/
-Greta BauerPlease, Don’t Intentionally Infect Yourself. Signed, an Epidemiologist. https://www.nytimes.com/2020/04/08/opinion/coronavirus-parties-herd-immunity.html
+ https://www.douban.com/people/157603376/status/2998280298/
+ https://www.douban.com/people/71563921/status/3011688426/
+ https://www.douban.com/people/chenyuz/status/2961655324/
+ https://www.douban.com/people/strangersssss/status/3013380912/
+12
+ https://www.douban.com//feed/people/180693708/notes
+ https://www.douban.com/note/tags/%E7%94%B5%E5%BD%B1
+ https://www.douban.com/people/180693708/doulists
+ https://www.douban.com/people/180693708/notes
+ https://www.douban.com/people/180693708/photos
+ https://www.douban.com/people/180693708/statuses
+6
+ https://www.douban.com//feed/people/80620968/notes
+ https://www.douban.com/note/tags/%E7%A4%BE%E7%95%9C
+ https://www.douban.com/people/80620968/doulists
+ https://www.douban.com/people/80620968/notes
+ https://www.douban.com/people/80620968/photos
+ https://www.douban.com/people/80620968/statuses
+6
 Most New Yorkers who own a second home left the city as soon as the virus hit, but a few stayed behind. https://www.nytimes.com/2020/07/10/realestate/coronavirus-staying-in-new-york.html
-Maureen DowdLiar, Liar, Nation on Fire https://www.nytimes.com/2020/07/11/opinion/sunday/trump-biden-2020.html
-Charles M. BlowAmerican Horror, Starring Donald Trump https://www.nytimes.com/2020/07/12/opinion/coronavirus-donald-trump.html
-Jennifer SeniorDear Liberal Arts Students: Seize This Moment https://www.nytimes.com/2020/07/12/opinion/liberal-arts-college-covid.html
-Douglas LondonI Was a Counterterrorism Chief. Trump Knew What Russia Was Doing. https://www.nytimes.com/2020/07/12/opinion/trump-russia-bounties.html
 TV shows such as “The Bold and the Beautiful,” “Riverdale” and “The L Word: Generation Q” are trying to figure out how to film intimacy in the coronavirus age. https://www.nytimes.com/2020/07/13/arts/television/sex-scenes-coronavirus.html
- https://www.nytimes.com/2020/07/13/briefing/california-the-redskins-koalas.html
+Here’s what you need to know at the end of the day. https://www.nytimes.com/2020/07/13/briefing/california-the-redskins-koalas.html
 Ricardo Nagaoka for The New York Times https://www.nytimes.com/2020/07/13/business/coronavirus-retraining-workers.html
- https://www.nytimes.com/2020/07/13/business/dealbook/stocks-earnings-virus.html
+Infections rise, earnings fall, stocks go ... up? https://www.nytimes.com/2020/07/13/business/dealbook/stocks-earnings-virus.html
 More owners are permanently shutting their doors after new lockdown orders, realizing that there may be no end in sight to the crisis. https://www.nytimes.com/2020/07/13/business/small-businesses-coronavirus.html
 The Manhattan district attorney, Cyrus R. Vance Jr., has two big recent victories, but still has not said whether he is seeking re-election. https://www.nytimes.com/2020/07/13/nyregion/cy-vance-manhattan-da-trump.html
 Cindy Schultz for The New York Times https://www.nytimes.com/2020/07/13/nyregion/mural-black-lives-matter-catskill.html
-Christopher RivasI’m an Actor of Color. My Curls Aren’t Wanted. https://www.nytimes.com/2020/07/13/opinion/hollywood-latinos-diversity.html
-Karen CheungLife in Hong Kong Has Always Been Impossible https://www.nytimes.com/2020/07/13/opinion/hong-kong-national-security-law.html
-Trump in a Mask, at Last! https://www.nytimes.com/2020/07/13/opinion/letters/coronavirus-trump-mask.html
 Even with a pandemic raging, the president wants the Supreme Court to strike down the Affordable Care Act. https://www.nytimes.com/2020/07/13/opinion/obamacare-aca-trump-women.html
 I was a Watergate prosecutor. I know why he didn’t. https://www.nytimes.com/2020/07/13/opinion/roger-stone-trump-mueller.html
-Eric PosnerWhat a Second Trump Term Would Look Like https://www.nytimes.com/2020/07/13/opinion/trump-second-term.html
- https://www.nytimes.com/2020/07/13/podcasts/the-daily/hong-kong.html
+A turning point for Hong Kong. https://www.nytimes.com/2020/07/13/podcasts/the-daily/hong-kong.html
 When it comes to finding a vaccine for chlamydia, the world’s most common sexually transmitted infection, koalas may prove a key ally. https://www.nytimes.com/2020/07/13/science/chlamydia-koalas-vaccines.html
 Current and former employees criticized the lack of diversity in top leadership at the sports media giant and said Black employees struggled to advance. https://www.nytimes.com/2020/07/13/sports/espn-racism-black-employees.html
 The N.F.L. team in Washington announced the move Monday and will continue its search for a new name and logo. https://www.nytimes.com/2020/07/13/sports/football/washington-redskins-new-name.html
@@ -1709,51 +390,4 @@ Oregon was sandwiched between two states that had big coronavirus outbreaks but 
 Welcome to our new briefing, with updates on the 2020 election. Here’s the latest. https://www.nytimes.com/2020/07/13/us/elections/biden-vs-trump.html
 How Russia Built a Channel to the Taliban, Once an Enemy https://www.nytimes.com/2020/07/13/world/asia/russia-taliban-afghanistan.html
 California Rolls Back Reopening as Virus Cases Surge https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html
-Español https://www.nytimes.com/es/
-Mexico »
-         299,750 https://www.nytimes.com/es/interactive/2020/espanol/america-latina/coronavirus-en-mexico.html
-Alaska https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html
-United States »
-         3,353,597
-        
-        total cases https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-Hawaii https://www.nytimes.com/interactive/2020/us/hawaii-coronavirus-cases.html
-Idaho https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html
-Ky. https://www.nytimes.com/interactive/2020/us/kentucky-coronavirus-cases.html
-La. https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html
-Mont. https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html
-N.D. https://www.nytimes.com/interactive/2020/us/north-dakota-coronavirus-cases.html
-P.R. https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html
-W.Va. https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-cases.html
-Brazil »
-         1,864,681 https://www.nytimes.com/interactive/2020/world/americas/brazil-coronavirus-cases.html
-India »
-         878,254 https://www.nytimes.com/interactive/2020/world/asia/india-coronavirus-cases.html
-Canada »
-         107,590 https://www.nytimes.com/interactive/2020/world/canada/canada-coronavirus-cases.html
-How New Cases Are Changing by Day https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
-U.K. »
-         290,133 https://www.nytimes.com/interactive/2020/world/europe/united-kingdom-coronavirus-cases.html
-LIVEBusiness updates: The U.S. budget deficit surged to $864 billion, a new monthly record. Here’s the latest. https://www.nytimes.com/live/2020/07/13/business/stock-market-today-coronavirus
-Arts https://www.nytimes.com/section/arts
-Books https://www.nytimes.com/section/books
-Business https://www.nytimes.com/section/business
-Food https://www.nytimes.com/section/food
-Health https://www.nytimes.com/section/health
-Magazine https://www.nytimes.com/section/magazine
-N.Y. https://www.nytimes.com/section/nyregion
-Opinion https://www.nytimes.com/section/opinion
-Opinion https://www.nytimes.com/section/opinion?pagetype=Homepage&action=click&module=Opinion
-Politics https://www.nytimes.com/section/politics
-Real Estate https://www.nytimes.com/section/realestate
-Science https://www.nytimes.com/section/science
-Sports https://www.nytimes.com/section/sports
-Style https://www.nytimes.com/section/style
-T Magazine https://www.nytimes.com/section/t-magazine
-Tech https://www.nytimes.com/section/technology
-Today’s Paper https://www.nytimes.com/section/todayspaper
-Travel https://www.nytimes.com/section/travel
-U.S. https://www.nytimes.com/section/us
-World https://www.nytimes.com/section/world
-Video https://www.nytimes.com/video
-73
+19

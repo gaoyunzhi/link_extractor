@@ -16,66 +16,41 @@ def genItems(soup):
 	for x in soup.find_all('a'):
 		yield x 
 
-def getName(item):
-	if not item.text or not item.text.strip():
+def getItemText(item):
+	if not item or not item.text:
 		return ''
-	for x in ['p', 'span']:
-		subitem = item.find(x)
-		if subitem and subitem.text and subitem.text.strip():
-			return subitem.text.strip()
-	return item.text.strip()
+	return ' '.join(item.text.strip().split())
 
-def meaningfulCount(link, domain):
-	for x in [domain, 'section', '/', 'spotlight', 'video', 'subscription', 'digital',
-		'html', 'eduation', 'nav', 'left', 'right', 'correction', 'column', 'editorial',
-		'opinion', 'newsletters']:
-		link = link.replace(x, '')
-	return len(link)
+def getName(item):
+	for tag in ['p', 'span']:
+		text = getItemText(item.find(tag))
+		if text:
+			return text
+	return getItemText(text)
 
-def valid(link, name, domain):
-	if not domain in link:
+def isValidLink(link):
+	parts = link.strip('/').split('/')
+	if len(parts) <= 5:
 		return False
-	if 'thinkingtaiwan' in link:
-		return '/content/' in link
-	if meaningfulCount(link, domain) < 10:
-		return False
-	if 'matters.news' in link:
-		if len([x for x in link.split('/') if x]) <= 3 or '@' not in link:
-			return False
-	if 'wemp.app' in link:
-		if matchKey(link, ['accounts/']):
-			return False 
-	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing',
-		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries', '/author/',
-		'hi176', '/category/', '/format/', '/channel/', '/location/',
-		'/department/', '/series/', '/javascript', '/doulist/', '/partner/brand',
-		'/gallery/topic', '/group/explore']):
-		return False
-	if not name:
-		return False
-	if matchKey(name, ['\n', '视频', '音频', 'podcasts', 'Watch video', 'Watch:', 
-		'专题', '专栏', 'BBC中文', 'News 中文', '最多人阅读内容', 'Homepage', 'Radio',
-		'Matters改版', '社区诉讼']):
-		return False
-	if '.douban.' in link:
-		if matchKey(link, ['/event/', '/about/legal']):
-			return False
-		if link.strip('/').split('/')[-2] in ['people', 'group']:
-			return False
-		return True
-	if matchKey(link, ['topic', '/people/']) or len(name) < 7: # 导航栏目
+	if set(parts) & set(['video', 'location', 'interactive']):
 		return False
 	return True
 
 def formatLink(link, domain):
 	if '://' not in link:
 		link = domain + link
-	return link.split('#')[0]
+	for char in '#?':
+		link = link.split(char)[0]
+	return link
 
 def getLink(item, domain):
 	if not item.attrs or 'href' not in item.attrs:
 		return
 	link = formatLink(item['href'], domain)
+	if not domain in link or not isValidLink(link):
+		return
+	if matchKey(link, ['.nytimes.', '.bbc.']) and not getName(item):
+		return
 	return link
 
 def format(items, domain):
