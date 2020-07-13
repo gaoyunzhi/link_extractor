@@ -27,6 +27,7 @@ def test():
 	os.system('rm ' + fn)
 	for site in tests:
 		links = link_extractor.getLinks(site)
+		links.sort()
 		for link, name in links:
 			with open(fn, 'a') as f:
 				f.write(name + ' ' + link + '\n')

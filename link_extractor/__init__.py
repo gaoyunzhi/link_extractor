@@ -9,7 +9,7 @@ import cached_url
 from datetime import date
 from .domain import getDomain
 
-def getItems(soup):
+def genItems(soup):
 	for x in soup.find_all('div', class_='note-container'): # douban notes
 		item = x.find('a', title=True)
 		item['href'] = x['data-url'] 
@@ -77,8 +77,7 @@ def format(items, domain):
 		if '://' not in link:
 			link = domain + link
 		link = link.split('#')[0]
-		if len(item) > len(result.get(link)):
-			result[link] = item
+		result[link] = item
 	return result
 
 def dedup(items):
@@ -89,30 +88,24 @@ def dedup(items):
 		link_set.add(l)
 		yield (l, n)
 
-def getSortKey(x):
-	index, link, name = x
-	score = index
-	if name and '代理服务器' in name:
-		score = -1
-	return score
-
 def validSoup(item):
-	if matchKey(str(item.attrs), ['footer-link']):
-		# print(item)
-		return False
-	return True
+	return not matchKey(str(item), ['footer-link', ])
+
+def format2(link, name, domain):
+	if not '://' in link:
+		link = domain + link
+	if '#' in link:
+		link = link[:link.find('#')]
+	return link, name
 
 def getLinks(webpage, domain=None):
 	domain = getDomain(webpage, domain)
 	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
-	items = getItems(soup)
+	items = genItems(soup)
 	items = [x for x in items if validSoup(x)]
 	items = format(items, domain)
 	# items = [(x['href'], getName(x)) for x in items]
-	# items = [format(link, name, domain) for link, name in items]
-	items = [(l, getName(items[l])) for l in items]
-	items = [(link, name) for link, name in items if valid(link, name, domain)]
-	items = dedup(items)
-	items = sorted([(index, link, name) for index, (link, name) in enumerate(items)], 
-		key=getSortKey)
-	return [(link, name) for (index, link, name) in items]
+	# items = [format2(link, name, domain) for link, name in items]
+	# items = [(link, name) for link, name in items if valid(link, name, domain)]
+	# return [(link, name) for (index, link, name) in items]
+	return []
