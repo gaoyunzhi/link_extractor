@@ -68,12 +68,18 @@ def valid(link, name, domain):
 		return False
 	return True
 
-def format(link, name, domain):
-	if not '://' in link:
-		link = domain + link
-	if '#' in link:
-		link = link[:link.find('#')]
-	return link, name
+def format(items, domain):
+	result = {}
+	for item in items:
+		if not item.attrs or 'href' not in item.attrs:
+			continue
+		link = item['href']
+		if '://' not in link:
+			link = domain + link
+		link = link.split('#')[0]
+		if len(item) > len(result.get(link)):
+			result[link] = item
+	return result
 
 def dedup(items):
 	link_set = set()
@@ -91,11 +97,8 @@ def getSortKey(x):
 	return score
 
 def validSoup(item):
-	if not item.attrs or 'href' not in item.attrs:
-		print(item)
-		return False
 	if matchKey(str(item.attrs), ['footer-link']):
-		print(item)
+		# print(item)
 		return False
 	return True
 
@@ -104,8 +107,10 @@ def getLinks(webpage, domain=None):
 	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
 	items = getItems(soup)
 	items = [x for x in items if validSoup(x)]
-	items = [(x['href'], getName(x)) for x in items]
-	items = [format(link, name, domain) for link, name in items]
+	items = format(items, domain)
+	# items = [(x['href'], getName(x)) for x in items]
+	# items = [format(link, name, domain) for link, name in items]
+	items = [(l, getName(items[l])) for l in items]
 	items = [(link, name) for link, name in items if valid(link, name, domain)]
 	items = dedup(items)
 	items = sorted([(index, link, name) for index, (link, name) in enumerate(items)], 

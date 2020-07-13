@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import link_extractor
+import os
 
 tests = [
 	'http://tagesschau.de',
@@ -23,6 +24,7 @@ tests = [
 
 def test():
 	fn = 'result1.txt'
+	os.system('rm ' + fn)
 	for site in tests:
 		links = link_extractor.getLinks(site)
 		for link, name in links:
