@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import link_extractor
-import msvcrt as m
 
 tests = [
 	'http://tagesschau.de',
@@ -26,9 +25,11 @@ def test():
 	for site in tests:
 		links = link_extractor.getLinks(site)
 		for link, name in links:
-			print(name, link)
-		print(len(links))
-		m.getch()
+			with open('old_result.txt', 'a') as f:
+				f.write(name + ' ' + link + '\n')
+		with open('old_result.txt', 'a') as f:
+			f.write(str(len(links)) + '\n')
+		# input()
 	
 if __name__=='__main__':
 	test()

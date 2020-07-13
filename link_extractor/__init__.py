@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from telegram_util import matchKey
 import cached_url
 from datetime import date
+from .domain import getDomain
 
 def getItems(soup):
 	for x in soup.find_all('div', class_='note-container'):
@@ -114,18 +115,8 @@ def validSoup(item):
 		return False
 	return True
 
-single_domain_list = ['https://squatting2047.com', 
-	'https://matters.news/', 'https://wemp.app',
-	'http://www.gzhshoulu.wang/', 'https://www.douban.com/']
-
 def getLinks(webpage, domain=None):
-	if not domain and webpage == 'https://www.bbc.com/zhongwen/simp':
-		domain = 'https://www.bbc.co.uk'
-	for single_domain in single_domain_list: # may need to revisit
-		if not domain and single_domain in webpage:
-			domain = single_domain
-	if not domain:
-		domain = webpage
+	domain = getDomain(webpage, domain)
 	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
 	items = getItems(soup)
 	items = [x for x in items if validSoup(x)]
