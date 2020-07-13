@@ -5,7 +5,7 @@ import link_extractor
 
 def test():
 	links = link_extractor.getLinks(
-		'https://jacobinmag.com/')
+		'https://www.douban.com')
 		# 'https://www.douban.com/people/180693708/notes')
 		# 'http://www.gzhshoulu.wang/account_PourMarx.html')
 		# 'https://wemp.app/posts/8ee508d2-592d-479d-9d1d-4b76a10e5442')

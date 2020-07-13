@@ -76,6 +76,8 @@ def valid(link, name, domain):
 		'专题', '专栏', 'BBC中文', 'News 中文', '最多人阅读内容', 'Homepage', 'Radio',
 		'Matters改版', '社区诉讼']):
 		return False
+	if '.douban.' in link:
+		return not matchKey(link, ['/group/', '/event/', '/about/legal'])
 	if len(name) < 7: # 导航栏目
 		return False
 	return True
