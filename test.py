@@ -5,6 +5,7 @@ import link_extractor
 
 def test():
 	links = link_extractor.getLinks(
+		# 'https://www.douban.com/explore/')
 		'https://www.douban.com')
 		# 'https://www.douban.com/people/180693708/notes')
 		# 'http://www.gzhshoulu.wang/account_PourMarx.html')

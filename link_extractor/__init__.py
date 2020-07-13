@@ -53,22 +53,21 @@ def meaningfulCount(link, domain):
 def valid(link, name, domain):
 	if not domain in link:
 		return False
-	if 'thinkingtaiwan' not in link and meaningfulCount(link, domain) < 10:
-		return False
 	if 'thinkingtaiwan' in link:
 		return '/content/' in link
+	if meaningfulCount(link, domain) < 10:
+		return False
 	if 'matters.news' in link:
-		if len([x for x in link.split('/') if x]) <= 3:
-			return False
-		if '@' not in link:
+		if len([x for x in link.split('/') if x]) <= 3 or '@' not in link:
 			return False
 	if 'wemp.app' in link:
 		if matchKey(link, ['accounts/']):
 			return False 
-	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing', 'topic',
+	if matchKey(link, ['#', 'cookie-setting', 'podcast', 'briefing',
 		'bbcnewsletter', 'help/web', '?', 'news-event', 'obituaries', '/author/',
-		'hi176', '/category/', '/format/', '/people/', '/channel/', '/location/',
-		'/department/', '/series/']):
+		'hi176', '/category/', '/format/', '/channel/', '/location/',
+		'/department/', '/series/', '/javascript', '/doulist/', '/partner/brand',
+		'/gallery/topic', '/group/explore']):
 		return False
 	if not name:
 		return False
@@ -77,8 +76,12 @@ def valid(link, name, domain):
 		'Matters改版', '社区诉讼']):
 		return False
 	if '.douban.' in link:
-		return not matchKey(link, ['/group/', '/event/', '/about/legal'])
-	if len(name) < 7: # 导航栏目
+		if matchKey(link, ['/event/', '/about/legal']):
+			return False
+		if link.strip('/').split('/')[-2] in ['people', 'group']:
+			return False
+		return True
+	if matchKey(link, ['topic', '/people/']) or len(name) < 7: # 导航栏目
 		return False
 	return True
 
