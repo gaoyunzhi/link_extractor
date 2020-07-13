@@ -72,13 +72,17 @@ def formatLink(link, domain):
 		link = domain + link
 	return link.split('#')[0]
 
+def getLink(item, domain):
+	if not item.attrs or 'href' not in item.attrs:
+		return
+	link = formatLink(item['href'], domain)
+	return link
+
 def format(items, domain):
 	existing = set()
 	for item in items:
-		if not item.attrs or 'href' not in item.attrs:
-			continue
-		link = formatLink(item['href'], domain)
-		if link in existing:
+		link = getLink(item, domain)
+		if not link or link in existing:
 			continue
 		yield link, item
 		existing.add(link)
