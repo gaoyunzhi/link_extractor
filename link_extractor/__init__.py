@@ -6,7 +6,6 @@ name = 'link_extractor'
 from bs4 import BeautifulSoup
 from telegram_util import matchKey
 import cached_url
-from datetime import date
 from .domain import getDomain
 
 def genItems(soup):
@@ -68,35 +67,24 @@ def valid(link, name, domain):
 		return False
 	return True
 
+def formatLink(link, domain):
+	if '://' not in link:
+		link = domain + link
+	return link.split('#')[0]
+
 def format(items, domain):
-	result = {}
+	existing = set()
 	for item in items:
 		if not item.attrs or 'href' not in item.attrs:
 			continue
-		link = item['href']
-		if '://' not in link:
-			link = domain + link
-		link = link.split('#')[0]
-		result[link] = item
-	return result
-
-def dedup(items):
-	link_set = set()
-	for l, n in items:
-		if l in link_set:
+		link = formatLink(item['href'], domain)
+		if link in existing:
 			continue
-		link_set.add(l)
-		yield (l, n)
+		yield link, item
+		existing.add(link)
 
 def validSoup(item):
 	return not matchKey(str(item), ['footer-link', ])
-
-def format2(link, name, domain):
-	if not '://' in link:
-		link = domain + link
-	if '#' in link:
-		link = link[:link.find('#')]
-	return link, name
 
 def getLinks(webpage, domain=None):
 	domain = getDomain(webpage, domain)
@@ -104,8 +92,4 @@ def getLinks(webpage, domain=None):
 	items = genItems(soup)
 	items = [x for x in items if validSoup(x)]
 	items = format(items, domain)
-	# items = [(x['href'], getName(x)) for x in items]
-	# items = [format2(link, name, domain) for link, name in items]
-	# items = [(link, name) for link, name in items if valid(link, name, domain)]
-	# return [(link, name) for (index, link, name) in items]
-	return []
+	return [(link, getName(item)) for (link, item) in items]
