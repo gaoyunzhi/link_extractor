@@ -18,7 +18,7 @@ def genItems(soup):
 
 def getName(item):
 	if not item.text or not item.text.strip():
-		return
+		return ''
 	for x in ['p', 'span']:
 		subitem = item.find(x)
 		if subitem and subitem.text and subitem.text.strip():
