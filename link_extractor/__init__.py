@@ -32,11 +32,14 @@ def isValidLink(link):
 	parts = link.strip('/').split('/')
 	if len(parts) <= 5:
 		return False
+	if 'jacobinmag.' in link and len(parts) < 7:
+		return False
 	if set(parts) & set(['video', 'location', 'interactive', 'help']):
 		return False
 	return True
 
 def formatLink(link, domain):
+	link = link.strip('/')
 	if '://' not in link:
 		link = domain + link
 	for char in '#?':
