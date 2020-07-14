@@ -20,16 +20,16 @@ tests = [
 	# 'https://www.douban.com/people/180693708/notes',
 	# 'https://www.douban.com/people/80620968/notes',
 	# 'https://www.thinkingtaiwan.com',
-	'https://www.bbc.co.uk',
-	'https://cn.nytimes.com',
+	# 'https://www.bbc.co.uk',
+	# 'https://cn.nytimes.com',
 	'https://www.nytimes.com',
-	'https://www.bbc.com/zhongwen/simp',
+	# 'https://www.bbc.com/zhongwen/simp',
 ]
 
 def test():
 	for site in tests:
 		links = link_extractor.getLinks(site)
-		for link, name in links[:5]:
+		for link, name in links:
 			# with open(fn, 'a') as f:
 			# 	f.write(name + ' ' + link + '\n')
 			print(name, link)
