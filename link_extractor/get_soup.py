@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import cached_url
 
-offtopic_tags = ['nav', 'footer', 'aside']
+offtopic_tags = ['nav', 'footer', 'aside', 'header']
 
 def getSoup(site):
 	soup = BeautifulSoup(cached_url.get(site), 'html.parser')

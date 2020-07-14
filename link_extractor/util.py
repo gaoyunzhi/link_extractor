@@ -13,3 +13,20 @@ def hasYear(parts):
 		if isYear(part):
 			return True
 	return False
+
+def _hasNumber(part):
+	if not part:
+		return False
+	part = part.split('-')[-1]
+	try:
+		int(part)
+		return True
+	except:
+		...
+	return False
+
+def hasNumber(parts):
+	for part in parts:
+		if _hasNumber(part):
+			return True
+	return False

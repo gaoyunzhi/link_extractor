@@ -16,6 +16,7 @@ def getPrefix(site):
 
 def hasPrefix(link, site):
 	prefix = getPrefix(site)
-	if link.strip('/') == prefix.strip('/'):
+	if (link.strip('/') == prefix.strip('/') or 
+		link.strip('/') == site.strip('/')):
 		return False
 	return prefix in link

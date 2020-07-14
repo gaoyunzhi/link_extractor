@@ -6,12 +6,12 @@ name = 'link_extractor'
 from telegram_util import matchKey
 from .domain import getDomain, hasPrefix
 from .name import getName
-from .util import hasYear
+from .util import hasYear, hasNumber
 from .get_soup import getSoup
 
 def validSoup(item):
-	return not matchKey(str(item), ['footer-link', 
-		'视频', '专题', 'Watch ', 'headlines'])
+	# BBC filters
+	return not matchKey(str(item), ['视频', '专题', 'Watch ', 'headlines'])
 
 def isValidLink(link):
 	parts = link.strip('/').split('/')
@@ -19,13 +19,12 @@ def isValidLink(link):
 	if '.gzhshoulu.' in link:
 		return 'article' in parts
 	if '.douban.' in link:
-		return set(['note', 'status', 'album', 'topic']) & set(parts)
+		return (set(['note', 'status', 'album', 'topic']) & set(parts) and
+			not set(['gallery']) & set(parts)) and hasNumber(parts)
 
-	if set(['video', 'location', 'interactive', 'help', 'tools'
+	if set(['video', 'location', 'interactive', 
 			'slideshow', 'accounts', 'page', 'category', 
 			'collections', 'briefing', 'podcasts']) & set(parts):
-		return False
-	if matchKey(link, ['comment', 'follow']):
 		return False
 
 	if 'jacobinmag.' in link and len(parts) < 6:
