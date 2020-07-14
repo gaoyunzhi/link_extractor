@@ -39,7 +39,8 @@ def isValidLink(link):
 
 	return True
 
-def genItems(soup):
+# deal with sorting for bbc and nyt, no need for other sites
+def genItems(soup): 
 	for note in soup.find_all('div', class_='note-container'): # douban notes
 		item = note.find('a', title=True)
 		item['href'] = note['data-url'] 
