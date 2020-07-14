@@ -32,6 +32,10 @@ def isValidLink(link):
 		return False
 	if '.nytimes.' in link:
 		return 'topic' not in parts and hasYear(parts)
+	if 'matters.news' in link:
+		return len(parts) == 5
+	if '.thinkingtaiwan.' in link:
+		return 'content' in parts
 
 	return True
 
