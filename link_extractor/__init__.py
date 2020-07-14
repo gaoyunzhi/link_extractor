@@ -24,7 +24,7 @@ def isValidLink(link):
 
 	if set(['accounts', # wemp.app
 			'interactive', 'briefing', 'podcasts', 'slideshow', # nyt
-			'collections', # bbc
+			'collections', 'sport', # bbc
 			]) & set(parts):
 		return False
 
@@ -40,12 +40,18 @@ def isValidLink(link):
 	return True
 
 def genItems(soup):
-	for x in soup.find_all('div', class_='note-container'): # douban notes
-		item = x.find('a', title=True)
-		item['href'] = x['data-url'] 
+	for note in soup.find_all('div', class_='note-container'): # douban notes
+		item = note.find('a', title=True)
+		item['href'] = note['data-url'] 
 		yield item
-	for x in soup.find_all('a'):
-		yield x 
+	for item in soup.find_all('a', class_='top-story'): # bbc sorting
+		yield item
+	for container in soup.find_all(): # bbc china sorting
+		if container.attrs and 'Headline' in str(container.attrs.get('class')):
+			for item in container.find_all('a'):
+				yield item
+	for item in soup.find_all('a'):
+		yield item 
 
 def formatLink(link, domain):
 	if '://' not in link:
