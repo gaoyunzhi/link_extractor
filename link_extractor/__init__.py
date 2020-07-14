@@ -8,6 +8,7 @@ from .domain import getDomain, hasPrefix
 from .name import getName
 from .util import hasYear, hasNumber
 from .get_soup import getSoup
+from .douban import sortDouban
 
 def validSoup(item):
 	# BBC filters
@@ -83,7 +84,10 @@ def format(items, site):
 		existing.add(link)
 
 def getLinks(site):
-	items = genItems(getSoup(site))
+	soup = getSoup(site)
+	items = genItems(soup)
 	items = [x for x in items if validSoup(x)]
 	items = format(items, site)
+	if '.douban.' in site:
+		items = sortDouban(items, soup)
 	return [(link, getName(item)) for (link, item) in items]
