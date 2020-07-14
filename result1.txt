@@ -1,192 +1,396 @@
- http://tagesschau.de//meta.tagesschau.de/bewertet/
- http://tagesschau.de//meta.tagesschau.de/geotags/
- http://tagesschau.de//meta.tagesschau.de/kommentare/
- http://tagesschau.de//meta.tagesschau.de/richtlinien/
- http://tagesschau.de//meta.tagesschau.de/tags/
- http://tagesschau.de//meta.tagesschau.de/user/
- http://tagesschau.de//wahl.tagesschau.de/landtag.shtml
- http://tagesschau.de//wahl.tagesschau.de/uebersicht-der-wahlen.shtml
- http://tagesschau.de//wahl.tagesschau.de/wahlen/2017-09-24-BT-DE/
- http://tagesschau.de//wahl.tagesschau.de/wahlen/2019-05-26-EP-DE/
- http://tagesschau.de//wahl.tagesschau.de/wahlen/chronologie/chronologie.shtml
- http://tagesschau.de//wetter.tagesschau.de/deutschland/
- http://tagesschau.de//wetter.tagesschau.de/deutschland/aussichten.html
- http://tagesschau.de//wetter.tagesschau.de/deutschland/wetterstationen/
- http://tagesschau.de//wetter.tagesschau.de/deutschland/windundwolken.html
- http://tagesschau.de//wetter.tagesschau.de/europawelt/
- http://tagesschau.de//wetter.tagesschau.de/europawelt/wolken.html
- http://tagesschau.de//wetter.tagesschau.de/pollenflug/
- http://tagesschau.de//wetter.tagesschau.de/radarbilder/
- http://tagesschau.de//wetter.tagesschau.de/reisewetter/
- http://tagesschau.de//wetter.tagesschau.de/unwetter/
- http://tagesschau.de//wetter.tagesschau.de/wetterfuehligkeit/
- http://tagesschau.de//wetter.tagesschau.de/wetterlexikon/
- http://tagesschau.de//wetter.tagesschau.de/wetterthema/
- http://tagesschau.de//wetter.tagesschau.de/wetterthema/2020/07/13/auf-und-ab.html
- http://tagesschau.de//www.tagesschau.de/impressum/
- http://tagesschau.de//www.tagesschau.de/kontakt_und_hilfe/datenschutz/
- http://tagesschau.de//www.tagesschau.de/kontakt_und_hilfe/hilfe/
- http://tagesschau.de//www.tagesschau.de/sitemap/
- http://tagesschau.de/archiv/dossiers/dossierarchiv2.html
- http://tagesschau.de/archiv/hintergruende/hintergruende106.html
- http://tagesschau.de/archiv/sendungsarchiv/sendungsarchiv102.html
- http://tagesschau.de/mehr/soziale_netzwerke/startseite/
- http://tagesschau.de/multimedia/audio/audio-93031.html
- http://tagesschau.de/multimedia/audio/audio-93041.html
- http://tagesschau.de/multimedia/audio/audio-93045.html
- http://tagesschau.de/multimedia/audio/audio-93047.html
+Tagesschau in 100 Sekunden http://tagesschau.de/100sekunden/
+Sieben-Tage-Überblick http://tagesschau.de/allemeldungen/
+Sieben-Tage-Überblick http://tagesschau.de/allemeldungen/ausland/
+Sieben-Tage-Überblick http://tagesschau.de/allemeldungen/inland/
+Sieben-Tage-Überblick http://tagesschau.de/allemeldungen/wirtschaft/
+tagesschau App http://tagesschau.de/app/
+Archiv http://tagesschau.de/archiv/
+Ausgewählte Dossiers http://tagesschau.de/archiv/dossiers/dossierarchiv2.html
+Hintergründe http://tagesschau.de/archiv/hintergruende/hintergruende106.html
+Sendungen http://tagesschau.de/archiv/sendungsarchiv/sendungsarchiv102.html
+Ausland http://tagesschau.de/ausland/
+Hochwasser in China http://tagesschau.de/ausland/china-ueberschwemmungen-109.html
+Minderheiten-Politik: China verwehrt US-Politikern Einreise http://tagesschau.de/ausland/china-us-politiker-einreise-101.html
+Corona-Hotspot Südafrika: "Der Lockdown wurde nicht genutzt" http://tagesschau.de/ausland/corona-suedafrika-107.html
+Burka-Verbot in Frankreich: Alter Streit im neuen Gewand http://tagesschau.de/ausland/coronakrise-burkaverbot-frankreich-101.html
+9 http://tagesschau.de/ausland/coronavirus-karte-101.html
+Interaktiv http://tagesschau.de/ausland/coronavirus-karten-101.html
+Dossiers http://tagesschau.de/ausland/dossiers/
+EU-Außenministertreffen http://tagesschau.de/ausland/eu-aussenminister-china-tuerkei-101.html
+2 http://tagesschau.de/ausland/mallorca-corona-ballermann-103.html
+Coronavirus http://tagesschau.de/ausland/masken-balearen-mallorca-101.html
+Conte bei Merkel in Meseberg: Annäherungsversuche im Schloss http://tagesschau.de/ausland/merkel-conte-115.html
+Merkel und Conte über Aufbaufonds http://tagesschau.de/ausland/merkel-conte-123.html
+ http://tagesschau.de/ausland/migration-139.html
+Heuschreckenplage in Indien, 28.05.2020 http://tagesschau.de/ausland/pakistan-indien-heuschrecken-101.html
+China: Regierungskritischer Professor wieder frei http://tagesschau.de/ausland/peking-verhaftung-regimekritiker-xu-103.html
+Nach Präsidentenwahl in Polen http://tagesschau.de/ausland/polen-praesidentenwahl-103.html
+ http://tagesschau.de/ausland/redskins-113.html
+Russischer Journalist http://tagesschau.de/ausland/russland-safronow-anklage-103.html
+Nach Stone-Begnadigung: US-Kongress will Mueller erneut befragen http://tagesschau.de/ausland/russlandaffaere-us-senat-mueller-101.html
+5 http://tagesschau.de/ausland/todesstrafe-usa-daniel-lewis-lee-101.html
+ http://tagesschau.de/ausland/usa-todesstrafe-hinrichtungen-101.html
+UN-Ernährungsbericht: Jedes fünfte Kind hungert, 11.09.2018 http://tagesschau.de/ausland/welternaehrungsbericht-101.html
+ http://tagesschau.de/ausland/welternaehrungsbericht-105.html
+Bericht aus Berlin http://tagesschau.de/bab/
+Die wichtigsten Nachrichten als Video http://tagesschau.de/die_wichtigsten_nachrichten_als_video/
+faktenfinder http://tagesschau.de/faktenfinder.tagesschau.de/
+#kurzerklärt http://tagesschau.de/faktenfinder/kurzerklaert/
+Inland http://tagesschau.de/inland/
+ http://tagesschau.de/inland/binnentourismus-101.html
+Bundestagswahl http://tagesschau.de/inland/btw17/
+Corona-Regeln in Deutschland http://tagesschau.de/inland/coronakrise-lockerungen-laender-105.html
+DeutschlandTrend http://tagesschau.de/inland/deutschlandtrend/
+Dossiers http://tagesschau.de/inland/dossiers/
+10 http://tagesschau.de/inland/ghs-index-deutschland-corona-101.html
+Grüne: Arztjobs sollen abhängig von Ja zu Abtreibungen werden http://tagesschau.de/inland/gruene-schwangerschaftabbrueche-101.html
+ http://tagesschau.de/inland/kindesmissbrauch-fuehrungszeugnis-101.html
+Wie viel Tourismus verträgt Fehmarn noch? 10.70.2020 http://tagesschau.de/inland/kitesurfen-101.html
+Lindner im Interview: "Keine Konjunktur für FDP-Werte" http://tagesschau.de/inland/lindner-sommerinterview-101.html
+Spahn zur Corona-Pandemie http://tagesschau.de/inland/spahn-wieler-corona-101.html
+Nach Stuttgart-Krawallen http://tagesschau.de/inland/stammbaum-diskussion-stuttgart-101.html
+Wissenschaftsrat empfiehlt http://tagesschau.de/inland/stiftung-preussischer-kulturbesitz-101.html
+ http://tagesschau.de/inland/stvo-fuehrerscheine-101.html
+Hanau und Halle: Entschädigung für Terror-Hinterbliebene http://tagesschau.de/inland/terror-entschaedigung-101.html
+ http://tagesschau.de/inland/tsvorzwanzigjahren100.html
+Wetter - Wir über uns http://tagesschau.de/intern.tagesschau.de/
+Investigativ http://tagesschau.de/investigativ/
+Jahresrückblicke http://tagesschau.de/jahresrueckblick/jahresrueckblicke2.html
+Präsidentenwahl in Polen http://tagesschau.de/kommentar/polen-wahl-duda-101.html
+RSS-Feeds http://tagesschau.de/mehr/rss-feeds/
+Soziale Netzwerke http://tagesschau.de/mehr/soziale_netzwerke/
+Überblick http://tagesschau.de/mehr/soziale_netzwerke/startseite/
+Spendenkonten http://tagesschau.de/mehr/spendenkonten/
+Was ist neu? http://tagesschau.de/mehr/was_ist_neu/
+Ihre Meinung http://tagesschau.de/meta.tagesschau.de/
+Bewertete Beiträge http://tagesschau.de/meta.tagesschau.de/bewertet/
+Geo-Schlagwörter http://tagesschau.de/meta.tagesschau.de/geotags/
+Kommentare http://tagesschau.de/meta.tagesschau.de/kommentare/
+Kommentarrichtlinien http://tagesschau.de/meta.tagesschau.de/richtlinien/
+Schlagwörter http://tagesschau.de/meta.tagesschau.de/tags/
+Benutzereinstellungen http://tagesschau.de/meta.tagesschau.de/user/
+Videos & Audios http://tagesschau.de/multimedia/
+Versöhnung? Polen nach der Wahl http://tagesschau.de/multimedia/audio/audio-93031.html
+Safronow des Hochverrats angeklagt: Festnahmen bei Solidaritätsaktionen http://tagesschau.de/multimedia/audio/audio-93041.html
+Kommentar zur Präsidentenwahl: Das schwierige „Ja“ der Polen http://tagesschau.de/multimedia/audio/audio-93045.html
+Spannungen und Konflikte: EU-Außenminister beraten über Türkei und Hongkong http://tagesschau.de/multimedia/audio/audio-93047.html
  http://tagesschau.de/multimedia/audio/audio-93051.html
+Bildergalerien http://tagesschau.de/multimedia/bilder/
+Livestream http://tagesschau.de/multimedia/livestreams/
  http://tagesschau.de/multimedia/livestreams/livestream3/
- http://tagesschau.de/multimedia/politikimradio/audio-93025.html
- http://tagesschau.de/multimedia/politikimradio/audio-93029.html
- http://tagesschau.de/multimedia/politikimradio/audio-93037.html
- http://tagesschau.de/multimedia/politikimradio/audio-93049.html
+Podcasts http://tagesschau.de/multimedia/podcasts/
+Politik im Radio http://tagesschau.de/multimedia/politikimradio/
+Debatte über Ermittlungen zu Stuttgarter Krawallnacht http://tagesschau.de/multimedia/politikimradio/audio-93025.html
+Spahn warnt vor "Jetzt-erst-recht"-Modus am Ballermann http://tagesschau.de/multimedia/politikimradio/audio-93029.html
+Deutsche Reaktionen auf Wahl in Polen | audio http://tagesschau.de/multimedia/politikimradio/audio-93037.html
+Vor EU-Gipfel: Merkel empfing Conte im Schloss Meseberg http://tagesschau.de/multimedia/politikimradio/audio-93049.html
+Sendungsarchiv http://tagesschau.de/multimedia/sendung/
  http://tagesschau.de/multimedia/sendung/ts-38051.html
- http://tagesschau.de/sport/sportschau/manchester-city-cas-101.html
- http://tagesschau.de/wirtschaft/boerse/fraport-corona-101.html
- http://tagesschau.de/wirtschaft/boerse/hauptversammlung-dax-digital-101.html
-47
-0
-0
- https://jacobinmag.com//2020/05/frances-fox-piven-coronavirus-crisis-unemployment
- https://jacobinmag.com//2020/05/get-a-free-ebook-version-of-the-abcs-of-capitalism
- https://jacobinmag.com//2020/05/no-act-of-god
- https://jacobinmag.com//2020/07/afghanistan-war-liz-cheney-jason-crow
- https://jacobinmag.com//2020/07/anti-racism-solidarity-black-jacobins
- https://jacobinmag.com//2020/07/bernie-sanders-campaign-strategy
- https://jacobinmag.com//2020/07/bernie-sanders-joe-biden-democratic-primary
- https://jacobinmag.com//2020/07/camden-new-jersey-police-reform-surveillance
- https://jacobinmag.com//2020/07/carnegie-museums-pittsburgh-union
- https://jacobinmag.com//2020/07/chelsea-manning-james-averhart-alabama-congress
- https://jacobinmag.com//2020/07/claude-mckay-marseille-review-literature
- https://jacobinmag.com//2020/07/defund-police-unions-law-enforcement-lobby
- https://jacobinmag.com//2020/07/eric-hobsbawn-life-history-richard-evans
- https://jacobinmag.com//2020/07/eugene-debs-independence-day-address-fourth-july
- https://jacobinmag.com//2020/07/german-colonialism-herero-nama-genocide-court-case
- https://jacobinmag.com//2020/07/harry-britt-obituary-lgbt-dsa
- https://jacobinmag.com//2020/07/jackie-fielder-california-state-senate-district-11-dsa
- https://jacobinmag.com//2020/07/jon-stewart-irresistible-review
- https://jacobinmag.com//2020/07/jonathan-sackler-opioid-epidemic-big-pharma
- https://jacobinmag.com//2020/07/karl-marx-capital-corporation-production-socialism
- https://jacobinmag.com//2020/07/karl-marx-study
- https://jacobinmag.com//2020/07/kylie-jenner-sweatshop-garment-workers-covid
- https://jacobinmag.com//2020/07/labor-secretary-eugene-scalia-private-profits
- https://jacobinmag.com//2020/07/labour-green-jobs-coronavirus-climate-change
- https://jacobinmag.com//2020/07/melbourne-victoria-hard-lockdown-coronavirus-covid-public-housing
- https://jacobinmag.com//2020/07/mexico-amlo-tax-reform
- https://jacobinmag.com//2020/07/mike-davis-coronavirus-the-monster-enters
- https://jacobinmag.com//2020/07/multiracial-solidarity-unions
- https://jacobinmag.com//2020/07/nan-elizabeth-woodruff-american-congo-mississippi-delta
- https://jacobinmag.com//2020/07/national-security-laws-hong-kong
- https://jacobinmag.com//2020/07/one-percent-canada-wealth-tax
- https://jacobinmag.com//2020/07/police-tactics-israel-palestine-brutality
- https://jacobinmag.com//2020/07/public-transportation-funding-nationalize-trains
- https://jacobinmag.com//2020/07/racial-wealth-gap-redistribution
- https://jacobinmag.com//2020/07/statues-confederate-slavery-black-lives-matter
- https://jacobinmag.com//2020/07/thomas-ferguson-business-interests-coronavirus-covid-election
- https://jacobinmag.com//2020/07/west-papua-black-lives-matter
- https://jacobinmag.com//2020/07/william-cuffay-chartists-black-british-history-statue
- https://jacobinmag.com//2020/07/women-labor-wage-gap-pandemic-childcare
- https://jacobinmag.com//2020/07/yugoslavia-partisan-photography-red-light
-40
- https://matters.news//@1ampa55ag3/guidance-如何让你的matters之旅更便捷-bafyreiayiuxi4qc2a7qpgjp3fe42wmaoppqykckcvtq4hiukl5pgs3dn2m
- https://matters.news//@Margaux1848/1966-1971年中国国内的反抗与镇压-马各庄图书室-bafyreif4slc76xurojksxzfjb2mkq5ig5oyanbpakkoio6yctplr4hbgue
- https://matters.news//@Margaux1848/1966-1971年中国国内的反抗与镇压-马各庄图书室-bafyreifx5yhstd642v3l7xcwjq6eygnflhbm4vemqacczkpza7pdpsacgq
- https://matters.news//@Margaux1848/black-lives-matter会成为21世纪的黑豹党吗-马各庄国际-bafyreif3fo5lwuc6twbxzl2z6w4o5syeiy2rybmpeqsijbupcvuqak7m4u
-評論 https://matters.news//@Margaux1848/comments
-0 https://matters.news//@Margaux1848/followees
-42 https://matters.news//@Margaux1848/followers
- https://matters.news//@Margaux1848/不止黑人参与的black-lives-matter-马各庄国际-bafyreidiibvns32moyad32cg5zptyplnoysolfnuj6oynbtabmxpe5gprm
- https://matters.news//@Margaux1848/国家主义的进化史-从波拿巴的法国到艾森豪威尔的美国-马各庄图书室-bafyreid732ljvgayz2yc7hjmdfdryf2ch3nfadz7onuyb2o2gbniooe3qy
- https://matters.news//@Margaux1848/如何研究当代资本主义-马各庄图书室-bafyreig67qgnpsofq6nejtv22omazj7uhtcrcqfukwozjo2aznlawfcf6i
- https://matters.news//@Margaux1848/社会调查之风-重新思考中共的知识性格-马各庄图书室-bafyreih3onre2sx22tbufln3kcmpo6kzj2klvvuycfge2ncjwivtqpbn54
- https://matters.news//@Margaux1848/答后浪-劳动者的光荣与青年人的光荣-马各庄社论-bafyreibvphhhu7t3ia5ypzp757o7wpxksq2xgoniuv6w5r2mc6sqtjcaqe
- https://matters.news//@Margaux1848/被户口赶走的孩子-吃苦-才能回到北京-马各庄田野-bafyreie4a6su4qnaba5573scjfbuppva6bjfr2d3pecf4db33bf25twcii
- https://matters.news//@Margaux1848/非暴力拆迁作为一种治理技术-迟到的白石洲札记-马各庄田野-bafyreif5vwvlg7t2n76slnph6omdmeh6red5w2iumkprodibc7fwjra4zi
- https://matters.news//me/notifications
-15
- https://matters.news//@1ampa55ag3/guidance-如何让你的matters之旅更便捷-bafyreiayiuxi4qc2a7qpgjp3fe42wmaoppqykckcvtq4hiukl5pgs3dn2m
-評論 https://matters.news//@zoezhao/comments
-14 https://matters.news//@zoezhao/followees
-752 https://matters.news//@zoezhao/followers
- https://matters.news//@zoezhao/me-too与完美社会运动迷思-zdpuArHeiBC97WTGkT8ZWJ9vxLvHqZT3i5rHXjfH3ns5asMdK
- https://matters.news//@zoezhao/從抗疫到抗議-美國blm香港化-bafyreihpwch43bxnrrfqkyzxo3axwq5fppu4cpqgajyszmd5eip7bnxeba
- https://matters.news//@zoezhao/時代遊戲-zdpuAvDCA9LJirBxRY3xP75eZYZ7CPMTXu6U38mrGwQ1F2cHi
- https://matters.news//@zoezhao/美国的青年反枪运动-被高估的青年-被误解的运动-zdpuAvaSTAhTh7HZSEbHzueKqse1u8tsm8mq9gaKirM5s68gF
- https://matters.news//@zoezhao/美國右翼運動觀察-zdpuApfWxnRpVTtMs1gap9iN4WnsnGTTr2e7Yf1ef3YLwZUdG
- https://matters.news//me/notifications
+Startseite Videos & Audios http://tagesschau.de/multimedia/startseite/
+Liveblog http://tagesschau.de/newsticker/liveblog-133.html
+Regional http://tagesschau.de/regional/
+Letzte Sendung http://tagesschau.de/sendung/letzte-sendung/
+Nachtmagazin http://tagesschau.de/sendung/nachtmagazin/
+Tagesschau 20 Uhr http://tagesschau.de/sendung/tagesschau/
+Tagesschau 20 Uhr (Gebärdensprache) http://tagesschau.de/sendung/tagesschau_mit_gebaerdensprache/
+Tagesthemen http://tagesschau.de/sendung/tagesthemen/
+CAS hebt Sperre für Manchester City auf http://tagesschau.de/sport/sportschau/manchester-city-cas-101.html
+ http://tagesschau.de/suche2.html
+Wahlen http://tagesschau.de/wahl.tagesschau.de
+Länderparlamente http://tagesschau.de/wahl.tagesschau.de/landtag.shtml
+Übersicht der Wahlen seit 1946 http://tagesschau.de/wahl.tagesschau.de/uebersicht-der-wahlen.shtml
+Bundestagswahl http://tagesschau.de/wahl.tagesschau.de/wahlen/2017-09-24-BT-DE/
+Europäisches Parlament http://tagesschau.de/wahl.tagesschau.de/wahlen/2019-05-26-EP-DE/
+Chronologie http://tagesschau.de/wahl.tagesschau.de/wahlen/chronologie/chronologie.shtml
+Wahltermine http://tagesschau.de/wahlarchiv/wahltermine/
+Wetter http://tagesschau.de/wetter.tagesschau.de
+Startseite Wetter http://tagesschau.de/wetter.tagesschau.de/
+Deutschland http://tagesschau.de/wetter.tagesschau.de/deutschland/
+Vorhersage http://tagesschau.de/wetter.tagesschau.de/deutschland/aussichten.html
+Wetterstationen http://tagesschau.de/wetter.tagesschau.de/deutschland/wetterstationen/
+Wind & Wolken http://tagesschau.de/wetter.tagesschau.de/deutschland/windundwolken.html
+Europa & Welt http://tagesschau.de/wetter.tagesschau.de/europawelt/
+Wolken http://tagesschau.de/wetter.tagesschau.de/europawelt/wolken.html
+Pollenflug http://tagesschau.de/wetter.tagesschau.de/pollenflug/
+Regenradar http://tagesschau.de/wetter.tagesschau.de/radarbilder/
+Reisewetter http://tagesschau.de/wetter.tagesschau.de/reisewetter/
+Unwetterwarnungen http://tagesschau.de/wetter.tagesschau.de/unwetter/
+Wetterfühligkeit http://tagesschau.de/wetter.tagesschau.de/wetterfuehligkeit/
+Wetterlexikon http://tagesschau.de/wetter.tagesschau.de/wetterlexikon/
+Wetterthema http://tagesschau.de/wetter.tagesschau.de/wetterthema/
+ http://tagesschau.de/wetter.tagesschau.de/wetterthema/2020/07/13/auf-und-ab.html
+Wirtschaft http://tagesschau.de/wirtschaft/
+Flughafenbetreiber Fraport ringt weiter mit Corona-Folgen http://tagesschau.de/wirtschaft/boerse/fraport-corona-101.html
+Digitale Hauptversammlungen: Vorstands Freud, Aktionärs Leid http://tagesschau.de/wirtschaft/boerse/hauptversammlung-dax-digital-101.html
+Chronologie der Krise http://tagesschau.de/wirtschaft/chronologiefinanzmarktkrise100.html
+Dossiers http://tagesschau.de/wirtschaft/dossiers/
+Nachrichten aus der EU http://tagesschau.de/wirtschaft/eu/
+Impressum http://tagesschau.de/www.tagesschau.de/impressum/
+Datenschutz http://tagesschau.de/www.tagesschau.de/kontakt_und_hilfe/datenschutz/
+Hilfe zum Angebot http://tagesschau.de/www.tagesschau.de/kontakt_und_hilfe/hilfe/
+Inhaltsverzeichnis http://tagesschau.de/www.tagesschau.de/sitemap/
+131
+冯蕙｜对毛泽东同志一篇重要文献的考证和研究 http://www.gzhshoulu.wang/article/1002249823
+每日一书｜毛泽东著作编研文存 http://www.gzhshoulu.wang/article/1002249824
+吴晓明|社会现实的发现：黑格尔与马克思 http://www.gzhshoulu.wang/article/1002256314
+《新工人文学》第八期 http://www.gzhshoulu.wang/article/1002256315
+每日一书|黑格尔的哲学遗产 http://www.gzhshoulu.wang/article/1002256316
+【韦伯百年祭】雷特尔、维尔蒙|韦伯发明了人文学科的危机 http://www.gzhshoulu.wang/article/1002262831
+每日一书|苏联设计时代1950—1989 http://www.gzhshoulu.wang/article/1002262832
+刘春勇 | 从长时段视角重审五四与晚明之关联 http://www.gzhshoulu.wang/article/1002269484
+孙歌|直视韩朝分断体制 http://www.gzhshoulu.wang/article/1002274738
+每日一书|想象东亚 http://www.gzhshoulu.wang/article/1002274739
+王中忱|艺术追随帝国，抑或帝国追随艺术 http://www.gzhshoulu.wang/article/1002280167
+每日一书|现代文学路上的迷途羔羊 http://www.gzhshoulu.wang/article/1002280168
+陈默|战争与工业的双重变奏 http://www.gzhshoulu.wang/article/1002286778
+每日一书|感情研究指南 http://www.gzhshoulu.wang/article/1002286779
+刘禾|当代生物安全统治术的全面坍塌 http://www.gzhshoulu.wang/article/1002293696
+每日一书|寻找《局外人》 http://www.gzhshoulu.wang/article/1002293697
+【纪念王家范先生】|我对《中国历史通论》的考虑 http://www.gzhshoulu.wang/article/1002300259
+每日一书|史家与史学（增订版） http://www.gzhshoulu.wang/article/1002300260
+18
+中国加强对香港控制，台湾看到了威胁 https://cn.nytimes.com/asia-pacific/20200702/taiwan-china-hong-kong/
+澳大利亚宣布暂停与香港引渡协议 https://cn.nytimes.com/asia-pacific/20200709/hong-kong-extradition-visas-china/
+韩国运动员自杀，体育界虐待文化引发反思 https://cn.nytimes.com/asia-pacific/20200710/korea-triathlete-suicide/
+韩国首尔市长死亡，此前被下属指性骚扰 https://cn.nytimes.com/asia-pacific/20200710/seoul-mayor-dead/
+香港成为中美网络自由斗争新前线 https://cn.nytimes.com/business/20200708/hong-kong-security-law-tech/
+无视外界反对，北京实施新国安法 https://cn.nytimes.com/china/20200701/china-critics-security-law-hong-kong/
+香港会变得越来越像北京吗？ https://cn.nytimes.com/china/20200702/hong-kong-security-law-fear/
+香港从法治绿洲走向“警察国家” https://cn.nytimes.com/china/20200703/hong-kong-security-china/
+新国安法下，香港电台未来引发担忧 https://cn.nytimes.com/china/20200709/hong-kong-security-china-media/
+香港禁止学生在校唱抗议歌曲 https://cn.nytimes.com/china/20200709/hong-kong-students-protests-china/
+中共全面改革香港教育体系 https://cn.nytimes.com/china/20200713/china-hong-kong-security-schools/
+胡杰：用令人痛苦的电影挖掘历史 https://cn.nytimes.com/culture/20200706/hu-jie-films/
+《汉密尔顿》里的美国历史课 https://cn.nytimes.com/culture/20200708/hamilton-musical-history-facts/
+离开校园，哈佛的价值在哪里 https://cn.nytimes.com/education/20200713/harvard-students-coronavirus/
+传染病专家八问新冠病毒起源 https://cn.nytimes.com/health/20200710/coronavirus-origin-china-lucey/
+中共改革香港教育体系；许章润教授据信已获释 https://cn.nytimes.com/morning-brief/20200713/china-hong-kong-security-schools-xu-zhangrun-released/
+中国是如何欺骗香港的 https://cn.nytimes.com/opinion/20200703/hong-kong-security-law-china/
+为什么我们应该重读乔治·奥威尔 https://cn.nytimes.com/opinion/20200706/orwell-fourth-of-july/
+新冠病毒将把我们带入“中国十年” https://cn.nytimes.com/opinion/20200713/china-coronavirus-power/
+中美新冷战会滑向热战吗 https://cn.nytimes.com/opinion/20200713/us-china-hot-war/
+“隐形花园”：探索植物香气的世界 https://cn.nytimes.com/real-estate/20200709/create-fragrant-garden-nice-smelling-plants/
+“乔治·弗洛伊德事件”发酵，全美爆发抗议 https://cn.nytimes.com/slideshow/20200601/george-floyd-protest-photos-ss/
+百年之后，梦回老巴黎 https://cn.nytimes.com/slideshow/20200616/c16paris-atget-ss/
+台湾骄傲大游行 https://cn.nytimes.com/slideshow/20200629/c29taiwan-pride-ss/
+寻访赞比亚的野生动物秘境 https://cn.nytimes.com/slideshow/20200629/c29travel-zambia-ss/
+收获藏红花，意大利乡间的“红色黄金” https://cn.nytimes.com/slideshow/20200701/italy-saffron-ss/
+暴雨侵袭日本多地，数十人死亡 https://cn.nytimes.com/slideshow/20200709/c09japan-flood-visual-ss/
+时尚并未终结 https://cn.nytimes.com/style/20200710/fashion-industry-dead-or-alive/
+新研究再揭中国对维族人监控规模 https://cn.nytimes.com/technology/20200702/china-uighurs-hackers-malware-hackers-smartphones/
+“战略上的同理心”：拜登的非正式外交 https://cn.nytimes.com/usa/20200706/joe-biden-foreign-policy/
+美国将限制涉藏中国官员进入美国 https://cn.nytimes.com/usa/20200708/china-tibet-pompeo/
+哈佛MIT就留学生签证新规起诉政府 https://cn.nytimes.com/usa/20200709/harvard-mit-trump-ice-students/
+特朗普侄女为何要写书曝光家族丑闻 https://cn.nytimes.com/usa/20200709/mary-trump-book/
+“也许我就不该来”：被美国签证新规困住的留学生 https://cn.nytimes.com/usa/20200710/international-students-visa-reaction/
+美国就新疆拘禁营制裁中国官员 https://cn.nytimes.com/usa/20200710/trump-china-sanctions-uighurs/
+中国与伊朗拟加强合作 https://cn.nytimes.com/world/20200713/china-iran-trade-military-deal/
+在中印夹缝中生存：喜马拉雅边境的拉达克人 https://cn.nytimes.com/world/20200713/india-china-border-ladakh/
+37
+ https://jacobinmag.com/2020/05/frances-fox-piven-coronavirus-crisis-unemployment
+ https://jacobinmag.com/2020/05/get-a-free-ebook-version-of-the-abcs-of-capitalism
+ https://jacobinmag.com/2020/05/no-act-of-god
+ https://jacobinmag.com/2020/07/anti-racism-solidarity-black-jacobins
+ https://jacobinmag.com/2020/07/chelsea-manning-james-averhart-alabama-congress
+ https://jacobinmag.com/2020/07/eric-hobsbawn-life-history-richard-evans
+ https://jacobinmag.com/2020/07/jackie-fielder-california-state-senate-district-11-dsa
+ https://jacobinmag.com/2020/07/jonathan-sackler-opioid-epidemic-big-pharma
+ https://jacobinmag.com/2020/07/labor-secretary-eugene-scalia-private-profits
+ https://jacobinmag.com/2020/07/melbourne-victoria-hard-lockdown-coronavirus-covid-public-housing
+ https://jacobinmag.com/2020/07/mike-davis-coronavirus-the-monster-enters
+ https://jacobinmag.com/2020/07/multiracial-solidarity-unions
+ https://jacobinmag.com/2020/07/nan-elizabeth-woodruff-american-congo-mississippi-delta
+ https://jacobinmag.com/2020/07/one-percent-canada-wealth-tax
+ https://jacobinmag.com/2020/07/police-tactics-israel-palestine-brutality
+ https://jacobinmag.com/2020/07/west-papua-black-lives-matter
+16
+1966-1971年中国国内的反抗与镇压|马各庄图书室 https://matters.news/@Margaux1848/1966-1971年中国国内的反抗与镇压-马各庄图书室-bafyreif4slc76xurojksxzfjb2mkq5ig5oyanbpakkoio6yctplr4hbgue
+1966-1971年中国国内的反抗与镇压|马各庄图书室 https://matters.news/@Margaux1848/1966-1971年中国国内的反抗与镇压-马各庄图书室-bafyreifx5yhstd642v3l7xcwjq6eygnflhbm4vemqacczkpza7pdpsacgq
+#Black Lives Matter会成为21世纪的黑豹党吗？｜马各庄国际 https://matters.news/@Margaux1848/black-lives-matter会成为21世纪的黑豹党吗-马各庄国际-bafyreif3fo5lwuc6twbxzl2z6w4o5syeiy2rybmpeqsijbupcvuqak7m4u
+不止黑人参与的BLACK LIVES MATTER｜马各庄国际 https://matters.news/@Margaux1848/不止黑人参与的black-lives-matter-马各庄国际-bafyreidiibvns32moyad32cg5zptyplnoysolfnuj6oynbtabmxpe5gprm
+国家主义的进化史：从波拿巴的法国到艾森豪威尔的美国｜马各庄图书室 https://matters.news/@Margaux1848/国家主义的进化史-从波拿巴的法国到艾森豪威尔的美国-马各庄图书室-bafyreid732ljvgayz2yc7hjmdfdryf2ch3nfadz7onuyb2o2gbniooe3qy
+如何研究当代资本主义｜马各庄图书室 https://matters.news/@Margaux1848/如何研究当代资本主义-马各庄图书室-bafyreig67qgnpsofq6nejtv22omazj7uhtcrcqfukwozjo2aznlawfcf6i
+社会调查之风：重新思考中共的知识性格｜马各庄图书室 https://matters.news/@Margaux1848/社会调查之风-重新思考中共的知识性格-马各庄图书室-bafyreih3onre2sx22tbufln3kcmpo6kzj2klvvuycfge2ncjwivtqpbn54
+答后浪：劳动者的光荣与青年人的光荣｜马各庄社论 https://matters.news/@Margaux1848/答后浪-劳动者的光荣与青年人的光荣-马各庄社论-bafyreibvphhhu7t3ia5ypzp757o7wpxksq2xgoniuv6w5r2mc6sqtjcaqe
+被户口赶走的孩子：吃苦！才能回到北京...｜马各庄田野 https://matters.news/@Margaux1848/被户口赶走的孩子-吃苦-才能回到北京-马各庄田野-bafyreie4a6su4qnaba5573scjfbuppva6bjfr2d3pecf4db33bf25twcii
+非暴力拆迁作为一种治理技术——迟到的白石洲札记｜马各庄田野 https://matters.news/@Margaux1848/非暴力拆迁作为一种治理技术-迟到的白石洲札记-马各庄田野-bafyreif5vwvlg7t2n76slnph6omdmeh6red5w2iumkprodibc7fwjra4zi
 10
-0
-0
+MeToo与完美社会运动迷思 https://matters.news/@zoezhao/me-too与完美社会运动迷思-zdpuArHeiBC97WTGkT8ZWJ9vxLvHqZT3i5rHXjfH3ns5asMdK
+從抗疫到抗議：美國BLM香港化？ https://matters.news/@zoezhao/從抗疫到抗議-美國blm香港化-bafyreihpwch43bxnrrfqkyzxo3axwq5fppu4cpqgajyszmd5eip7bnxeba
+時代遊戲 https://matters.news/@zoezhao/時代遊戲-zdpuAvDCA9LJirBxRY3xP75eZYZ7CPMTXu6U38mrGwQ1F2cHi
+美国的青年反枪运动：被高估的青年，被误解的运动 https://matters.news/@zoezhao/美国的青年反枪运动-被高估的青年-被误解的运动-zdpuAvaSTAhTh7HZSEbHzueKqse1u8tsm8mq9gaKirM5s68gF
+美國右翼運動觀察 https://matters.news/@zoezhao/美國右翼運動觀察-zdpuApfWxnRpVTtMs1gap9iN4WnsnGTTr2e7Yf1ef3YLwZUdG
+5
+「非新聞」創辦人出獄：記錄中國底層抗爭，抵抗強迫遺忘 https://squatting2047.com/%e3%80%8c%e9%9d%9e%e6%96%b0%e8%81%9e%e3%80%8d%e5%89%b5%e8%be%a6%e4%ba%ba%e5%87%ba%e7%8d%84%ef%bc%9a%e8%a8%98%e9%8c%84%e4%b8%ad%e5%9c%8b%e5%ba%95%e5%b1%a4%e6%8a%97%e7%88%ad%ef%bc%8c%e6%8a%b5%e6%8a%97/
+【富士康連環跳十週年專題】學生－女工－母親：一個富士康女工的十五年 https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e5%ad%b8%e7%94%9f%ef%bc%8d%e5%a5%b3%e5%b7%a5%ef%bc%8d%e6%af%8d%e8%a6%aa%ef%bc%9a/
+【富士康連環跳十週年專題】訪潘毅（上篇）：「年年我都有遺憾」 https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e8%a8%aa%e6%bd%98%e6%af%85%ef%bc%88%e4%b8%8a%e7%af%87%ef%bc%89%ef%bc%9a%e3%80%8c/
+【富士康連環跳十週年專題】訪潘毅（下篇）：十年後的今天，工人依然是主要力量 https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e8%a8%aa%e6%bd%98%e6%af%85%ef%bc%88%e4%b8%8b%e7%af%87%ef%bc%89%ef%bc%9a%e5%8d%81/
+【富士康連環跳十週年專題】誰還記得他們？ https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e8%aa%b0%e9%82%84%e8%a8%98%e5%be%97%e4%bb%96%e5%80%91%ef%bc%9f/
+【蹲點短評】農家女被頂替上大學，扯掉了中國特色階級社會最後一塊遮羞布 https://squatting2047.com/%e3%80%90%e8%b9%b2%e9%bb%9e%e7%9f%ad%e8%a9%95%e3%80%91%e8%be%b2%e5%ae%b6%e5%a5%b3%e8%a2%ab%e9%a0%82%e6%9b%bf%e4%b8%8a%e5%a4%a7%e5%ad%b8%ef%bc%8c%e6%89%af%e6%8e%89%e4%ba%86%e4%b8%ad%e5%9c%8b%e7%89%b9/
+同志驕傲月：該出櫃的究竟是同志，還是異性戀？ https://squatting2047.com/%e5%90%8c%e5%bf%97%e9%a9%95%e5%82%b2%e6%9c%88%ef%bc%9a%e8%a9%b2%e5%87%ba%e6%ab%83%e7%9a%84%e7%a9%b6%e7%ab%9f%e6%98%af%e5%90%8c%e5%bf%97%ef%bc%8c%e9%82%84%e6%98%af%e7%95%b0%e6%80%a7%e6%88%80%ef%bc%9f/
+左翼在運動中的姿態問題 https://squatting2047.com/%e5%a7%bf%e6%85%8b%e5%95%8f%e9%a1%8c/
+港版國安法第一天：「一國兩制」糖衣被剝去，民主運動出路何在？ https://squatting2047.com/%e6%b8%af%e7%89%88%e5%9c%8b%e5%ae%89%e6%b3%95%e7%ac%ac%e4%b8%80%e5%a4%a9%ef%bc%9a%e3%80%8c%e4%b8%80%e5%9c%8b%e5%85%a9%e5%88%b6%e3%80%8d%e7%b3%96%e8%a1%a3%e8%a2%ab%e5%89%9d%e5%8e%bb%ef%bc%8c%e6%b0%91/
+香港──白色恐怖新時代 https://squatting2047.com/%e9%a6%99%e6%b8%af%e2%94%80%e2%94%80%e7%99%bd%e8%89%b2%e6%81%90%e6%80%96%e6%96%b0%e6%99%82%e4%bb%a3/
+10
+每日一书 | 娇惯的心灵：“钢铁”是怎么没有炼成的 https://wemp.app/posts/15432fe5-7910-4b75-924d-8c9461faf5ee
+连环画与社会主义文化系列讲座之一 | 蔡小容：两个人的《山乡巨变》 https://wemp.app/posts/43792afb-3962-4a27-bb31-c383b81736e0
+连环画与社会主义文化系列讲座之二 | 唐宏峰：连环图画与《点石斋画报》的创造性 https://wemp.app/posts/4eff9b30-8403-410f-80f9-7532679de819
+吴靖 | 计算机技术发展中的“浪漫主义” https://wemp.app/posts/6427260f-21ea-48f7-bfc4-3acaed48545d
+每日一书 | 网络效应：浪漫主义、资本主义与互联网 https://wemp.app/posts/6a2ce3d9-d6f6-495b-b454-b9d72bb3d86b
+何吉贤｜周立波“小说回乡”的精神和美学转换 https://wemp.app/posts/6a6b0cf0-ba9a-4eb1-9dd1-222167c9c709
+邀请函 | 华东师范大学中文系第三届“中融”全国博士生论坛 https://wemp.app/posts/7fb7faa9-7e5d-40da-9330-68e967b8e094
+每日一书 | 菲利普·迪克传 https://wemp.app/posts/8a366500-00e9-4f50-b586-7d6e8d88b44c
+马臻 | 从陈映真研究感受到的洞见与疑惑 https://wemp.app/posts/8e653b54-9ca8-455b-b125-935ef9944bfc
+每日一书｜上升的大地 https://wemp.app/posts/a8319ced-63a3-44e4-b32a-71e1d97f6613
+10
+Accessibility Help https://www.bbc.co.uk/accessibility/
 Haaland's 'telling off' and other top footy tweets https://www.bbc.co.uk/bbcthree/article/0d28ccdb-eef2-4fc9-834f-18aac8404719
 Four heroes you may not know are LGBTQ+ https://www.bbc.co.uk/bitesize/articles/z79gscw
 How to have a 'summer holiday' when stuck at home https://www.bbc.co.uk/bitesize/articles/zkthqfr
 'I fell in love with this show the first moment I saw it' https://www.bbc.co.uk/blogs/5live/entries/c47ef85e-eea9-4c7a-9d4e-a345d56c0707
+Food https://www.bbc.co.uk/food
 Forget about burgers with these healthy barbecue treats https://www.bbc.co.uk/food/collections/healthy_barbecue_recipes
 Weeknight meals with a touch of simple luxury https://www.bbc.co.uk/food/collections/luxury_weeknight_meals
-Watch on iPlayer https://www.bbc.co.uk/iplayer/episode/m000jz0n/i-may-destroy-you-series-1-1-eyes-eyes-eyes-eyes
-Watch on iPlayer https://www.bbc.co.uk/iplayer/episode/m000krf5/andy-murrays-greatest-hits-series-1-episode-1
-Watch video https://www.bbc.co.uk/news/av/stories-53348819/iraq-war-we-are-systematically-programmed-to-kill
-Watch video https://www.bbc.co.uk/news/av/uk-53352234/lockdown-brought-out-the-workaholic-in-me
+Perfect pasta salads that are quick and easy to make https://www.bbc.co.uk/food/pasta_salad
+News headlines https://www.bbc.co.uk/news
+'I saved £700 by not eating out or splashing on gadgets' https://www.bbc.co.uk/news/business-53324898
+'Parents need help controlling kids' spending' https://www.bbc.co.uk/news/business-53333347
+Coronavirus pandemic https://www.bbc.co.uk/news/coronavirus
+Actress Kelly Preston, John Travolta's wife, dies https://www.bbc.co.uk/news/entertainment-arts-53387236
+Elvis Presley's only grandson dies at 27 https://www.bbc.co.uk/news/entertainment-arts-53387574
+Body found in search for Glee's Naya Rivera https://www.bbc.co.uk/news/entertainment-arts-53397318
+What will be the rules when pools and gyms reopen? https://www.bbc.co.uk/news/explainers-53349989
+How TV's most talked-about sex scenes were filmed https://www.bbc.co.uk/news/newsbeat-53350245
+'The outcome would have been different if he'd been white' https://www.bbc.co.uk/news/stories-53312489
+Ads highlight Brexit changes for UK travellers https://www.bbc.co.uk/news/uk-53383170
+Pub landlord installs electric fence around bar https://www.bbc.co.uk/news/uk-england-cornwall-53389977
+Crowds flock to glimpse 'one of largest ever' birds in UK https://www.bbc.co.uk/news/uk-england-derbyshire-53383387
+Plane diverted after 'bomb note' found in toilet https://www.bbc.co.uk/news/uk-england-essex-53398339
+Care home residents recreate iconic album covers https://www.bbc.co.uk/news/uk-england-london-53389217
+Second laser attack on air ambulance condemned https://www.bbc.co.uk/news/uk-england-wiltshire-53380107
+PM says face coverings ‘should be worn’ in shops https://www.bbc.co.uk/news/uk-politics-53388444
+Kuenssberg: It is quite the shift on face coverings https://www.bbc.co.uk/news/uk-politics-53396422
+Google announces $10bn investment in India https://www.bbc.co.uk/news/world-asia-india-53391466
+Pope 'pained' by Hagia Sophia mosque decision https://www.bbc.co.uk/news/world-europe-53371341
+Brother of Tottenham's Serge Aurier shot dead https://www.bbc.co.uk/news/world-europe-53388855
+Jada Pinkett Smith tells husband of 'relationship' https://www.bbc.co.uk/news/world-us-canada-53371675
+Brooklyn Beckham engaged to US actress https://www.bbc.co.uk/newsround/53380646
 Test your memory of the 'most ambitious concert ever' https://www.bbc.co.uk/programmes/articles/1XbDQQNP2FlSYKLht0xqJFs/play-sounds-of-the-80s-live-aid-quiz
 'Arnie lent me a car to travel across America' https://www.bbc.co.uk/programmes/articles/2VWM311Mf04Y4MPFrLYqh9S/12-things-we-learned-about-greta-thunberg
 Eight powerful podcasts to celebrate Pride 2020 https://www.bbc.co.uk/programmes/articles/33VNYRcLyyFfyMlZNS1R04j/pride-2020-eight-powerful-new-works-from-the-lgbtq-community
 Nine antique treasures with incredible valuations https://www.bbc.co.uk/programmes/articles/4BHT4X0c66d773X2QbsqF3x/the-priceless-treasures-and-missing-masterpieces-discovered-on-antiques-roadshow
+RESULTS https://www.bbc.co.uk/programmes/articles/9JzWg92Gwwn0nqLPndsC5c/latest-results
+Sport headlines https://www.bbc.co.uk/sport
 Obafemi strikes late to deny Man Utd win https://www.bbc.co.uk/sport/football/53303199
+Southampton stun Man Utd with injury-time leveller. Live now.From Football https://www.bbc.co.uk/sport/live/football/53138232
+Granada v Real Madrid - Zidane's side two wins from title. Live now.From European Football https://www.bbc.co.uk/sport/live/football/53272175
 Usman defeats Masvidal at 'Fight Island' https://www.bbc.co.uk/sport/mixed-martial-arts/53379875
 'I've tried to make it a positive situation' https://www.bbc.co.uk/sport/tennis/53311993
-17
+43
+拍纪录片遇到难题怎么办 https://www.bbc.co.uk/academy/zh-hans/articles/art20190412093506146
+数字新闻 https://www.bbc.co.uk/academy/zh-hans/collections/digital-journalism-zh-hans
+英汉金融市场词汇 https://www.bbc.co.uk/academy/zh-hans/collections/economic-vocabulary-zh-hans
+广播 https://www.bbc.co.uk/academy/zh-hans/collections/radio-zh-hans
+电视 https://www.bbc.co.uk/academy/zh-hans/collections/television-zh-hans
+BBC News, 中文 https://www.bbc.co.uk/zhongwen
+国安法：TikTok撤出香港， 脸书谷歌停止向警方分享数据 https://www.bbc.co.uk/zhongwen/simp/business-53319715
+疫情阴霾持续 中港股市大涨从何而来 https://www.bbc.co.uk/zhongwen/simp/business-53345100
+香港《国安法》通过后首次立法会选举， 你需要知道的四件事 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53261712
+中国高考：考场外的弊案和漏洞 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53305067
+疫情影响下 面临困境的中国底层农民工和大学毕业生 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53318753
+肺炎疫情：香港“第三波爆发” 解封开关遥遥无期 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53344652
+香港立法会选举：民主派面对《国安法》与“不割席”的考验 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53345650
+《国安法》下英国BNO新政会不会导致港人移民潮 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53349211
+中美南海秀实力 “美国军机靠近广东侦察” https://www.bbc.co.uk/zhongwen/simp/chinese-news-53351501
+香港《国安法》：政府在学校禁政治歌曲与“言论自由”争议 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53360171
+中美科技开启战略脱钩 全球企业和国家开始选阵营 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53372870
+中国洪水：至少141人死亡或失踪，鄱阳湖水位至历史最高 https://www.bbc.co.uk/zhongwen/simp/chinese-news-53388985
+香港疫情爆发凶猛 特区政府首发“戴口罩令” https://www.bbc.co.uk/zhongwen/simp/chinese-news-53390577
+清华大学教授许章润获释回家 公众质疑“嫖娼”传言“污名化” https://www.bbc.co.uk/zhongwen/simp/chinese-news-53390912
+备受争议的“免疫护照”是否解除新冠封锁的良方 https://www.bbc.co.uk/zhongwen/simp/science-53297194
+TikTok争议：亚马逊称要求员工删除TikTok是不是“一场误会” https://www.bbc.co.uk/zhongwen/simp/science-53376483
+英国海外公民：投奔伦敦寻求庇护那段扣人心弦的往事 https://www.bbc.co.uk/zhongwen/simp/uk-52992148
 英国首相改变口径 华为成为“潜在敌国供应商” https://www.bbc.co.uk/zhongwen/simp/uk-53266772
+新冠重症患者的康复：击退病毒仅仅是开始 https://www.bbc.co.uk/zhongwen/simp/uk-53303980
+聚焦人权 英国全新“制裁工具箱”有哪些内容 https://www.bbc.co.uk/zhongwen/simp/uk-53321448
 中国驻英大使警告：禁止华为、敌视中国要“承担后果” https://www.bbc.co.uk/zhongwen/simp/uk-53323160
+英国大学为中国学生设立不含“敏感内容”的远程教学系统 https://www.bbc.co.uk/zhongwen/simp/uk-53344833
+疫情封锁下留在中国的英国人：“我不后悔” https://www.bbc.co.uk/zhongwen/simp/uk-53359171
+苏纳克：“不惜代价”救经济的英国八零后财相 https://www.bbc.co.uk/zhongwen/simp/uk-53364111
 英国电讯商：过急禁止华为会造成网络信号中断 https://www.bbc.co.uk/zhongwen/simp/uk-53366320
-3
- https://www.douban.com//group/explore
- https://www.douban.com//group/explore/culture
- https://www.douban.com//group/explore/ent
- https://www.douban.com//group/explore/fashion
- https://www.douban.com//group/explore/life
- https://www.douban.com//group/explore/tech
- https://www.douban.com//group/explore/travel
- https://www.douban.com/gallery/topic/152046/
- https://www.douban.com/gallery/topic/152073/
- https://www.douban.com/gallery/topic/152145/
- https://www.douban.com/gallery/topic/152245/
- https://www.douban.com/gallery/topic/152261/
- https://www.douban.com/gallery/topic/152639/
- https://www.douban.com/gallery/topic/761/
+那些在新冠疫情封锁期间联系前任的人们 https://www.bbc.co.uk/zhongwen/simp/uk-53390631
+华为5G英国前途 电讯巨头开列取而代之时间表 https://www.bbc.co.uk/zhongwen/simp/uk-53398343
+俄罗斯修宪公投：普京成21世纪的彼得大帝？ https://www.bbc.co.uk/zhongwen/simp/world-53314830
+美国FBI局长公开指责中国“猎狐行动” https://www.bbc.co.uk/zhongwen/simp/world-53334243
+BBC请专家盘点成功职业生涯的十大软技能 https://www.bbc.co.uk/zhongwen/simp/world-53339193
+Tiktok和抖音：从默默无闻到充满争议 https://www.bbc.co.uk/zhongwen/simp/world-53356360
+美国宣布制裁多个侵犯新疆人权的中国官员及实体 https://www.bbc.co.uk/zhongwen/simp/world-53358012
+中国大使馆称哈萨克斯坦出现“不明肺炎”，哈卫生部称是“假新闻” https://www.bbc.co.uk/zhongwen/simp/world-53361986
+取消文化是什么：你要知道的这个网络新词 https://www.bbc.co.uk/zhongwen/simp/world-53366321
+美国《欢乐合唱团》女明星湖上“失踪” 疑云重重 https://www.bbc.co.uk/zhongwen/simp/world-53367088
+美国最高法院判定俄克拉荷马州半数土地属于原住民 https://www.bbc.co.uk/zhongwen/simp/world-53370333
+圣索菲亚大教堂“变身”清真寺 引各方关注 https://www.bbc.co.uk/zhongwen/simp/world-53377863
+特朗普终于戴口罩了 但美国新冠感染数还在创新高 https://www.bbc.co.uk/zhongwen/simp/world-53379171
+流行音乐变欢快了 乐观主义是否在特殊时期开始复兴 https://www.bbc.co.uk/zhongwen/simp/world-53380117
+美国抗疫新答卷上的四错与三对 https://www.bbc.co.uk/zhongwen/simp/world-53382133
+印度猛似新冠的夺命毒蛇和世卫组织呼吁重视 https://www.bbc.co.uk/zhongwen/simp/world-53383196
+波兰89后最戏剧性的大选结果意味着什么 https://www.bbc.co.uk/zhongwen/simp/world-53392848
+特朗普侄女新书起底总统叔叔内幕的五大看点 https://www.bbc.co.uk/zhongwen/simp/world-53394282
+零用钱理财：用手机应用软件培养孩子金钱观念 https://www.bbc.co.uk/zhongwen/simp/world-53398228
+繁 https://www.bbc.co.uk/zhongwen/trad
+51
+不用PS，有了这份 snapseed 超强使用指南分分钟修大片 https://www.douban.com/note/766009156/
+胖纸G的日本爬楼小记（上）——首都圈篇 https://www.douban.com/note/767358638/
+美国高速系统: 一场城市的复仇 https://www.douban.com/note/767836133/
+长春：搭一辆有轨电车，邂逅持永只仁 https://www.douban.com/note/768430009/
+闽侯的木拱廊桥 https://www.douban.com/note/768469476/
+母女关系进化论：两个女人之间的战争史 https://www.douban.com/note/768830174/
+论母亲与父亲的叙事风格 https://www.douban.com/note/769028902/
+端午节西北之行游记 https://www.douban.com/note/769198086/
+夏天不是读书天：我的2020第二季度读书报告 https://www.douban.com/note/769753414/
+在乌兰巴托郊外的荒山上，我看见一出流动的火车风情画 https://www.douban.com/note/770072169/
  https://www.douban.com/photos/album/120704503/
  https://www.douban.com/photos/album/1633566859/
  https://www.douban.com/photos/album/1690595730/
  https://www.douban.com/photos/album/1873686200/
-18
- https://www.douban.com/gallery/topic/149588/
- https://www.douban.com/gallery/topic/15221/
- https://www.douban.com/gallery/topic/5358/
- https://www.douban.com/gallery/topic/62418/
- https://www.douban.com/gallery/topic/86240/
- https://www.douban.com/group/topic/181526144/
- https://www.douban.com/group/topic/182333933/
- https://www.douban.com/group/topic/183441985/
- https://www.douban.com/people/157603376/status/2998280298/
- https://www.douban.com/people/71563921/status/3011688426/
- https://www.douban.com/people/chenyuz/status/2961655324/
- https://www.douban.com/people/strangersssss/status/3013380912/
-12
- https://www.douban.com//feed/people/180693708/notes
- https://www.douban.com/note/tags/%E7%94%B5%E5%BD%B1
- https://www.douban.com/people/180693708/doulists
- https://www.douban.com/people/180693708/notes
- https://www.douban.com/people/180693708/photos
- https://www.douban.com/people/180693708/statuses
+14
+ https://www.douban.com/note/763079644/
+ https://www.douban.com/note/769269369/
+46回应 https://www.douban.com/people/157603376/status/2998280298/
+18回应 https://www.douban.com/people/71563921/status/3011688426/
+8回应 https://www.douban.com/people/chenyuz/status/2961655324/
+16回应 https://www.douban.com/people/strangersssss/status/3013380912/
 6
- https://www.douban.com//feed/people/80620968/notes
- https://www.douban.com/note/tags/%E7%A4%BE%E7%95%9C
- https://www.douban.com/people/80620968/doulists
- https://www.douban.com/people/80620968/notes
- https://www.douban.com/people/80620968/photos
- https://www.douban.com/people/80620968/statuses
-6
+我被禁止的恐惧 https://www.douban.com/note/747380198/
+备忘录 | 第22天 https://www.douban.com/note/749590363/
+“非常时期的非常举措”：一如既往的默许将会把我们推向哪里？ https://www.douban.com/note/750993761/
+激励政策中边缘群体依然不可见，制度性歧视的后果让人担忧 https://www.douban.com/note/751533011/
+“自由”的《北大青年》不必再自取其辱 https://www.douban.com/note/753525132/
+我有被迫害妄想症吗？ https://www.douban.com/note/754597126/
+备忘录 | 男色消费 https://www.douban.com/note/756521757/
+3月31日是国际跨性别现身日：让恐惧与偏见终结于我们这一代 https://www.douban.com/note/756802515/
+对身份政治与“政治正确”的一点思考 https://www.douban.com/note/766426949/
+J.K. Rowling的文章如何误导公众并损害跨性别社群的权利 https://www.douban.com/note/769986412/
+电影 2 https://www.douban.com/note/tags/%E7%94%B5%E5%BD%B1
+11
+东亚社畜手册⑧ | 社畜的救途：想象力的解放 https://www.douban.com/note/734330190/
+东亚社畜手册⑨ | 社畜的救途：从容易的开始 https://www.douban.com/note/734330286/
+东亚社畜手册⑩ | 社畜的救途：可以够得着的地方 https://www.douban.com/note/734330461/
+东亚社畜手册⑪ | 大停电与全球社畜救存实录 https://www.douban.com/note/734330822/
+自杀的库尔德诗人：穆罕默德·奥马尔·奥斯曼（译诗四首） https://www.douban.com/note/739729732/
+谈“打工诗人”与作家的群体身份 https://www.douban.com/note/764273683/
+不妥协的历史:黑人抗争政治片单 https://www.douban.com/note/765214024/
+明尼阿波利斯市议会主席提出废# https://www.douban.com/note/766225860/
+刷豆瓣到底算不算就业？——关于零工经济的二三言 https://www.douban.com/note/769891609/
+#倡议#豆瓣用户每人每月花十块钱买下豆瓣 https://www.douban.com/note/770561346/
+社畜 10 https://www.douban.com/note/tags/%E7%A4%BE%E7%95%9C
+11
+Greta BauerPlease, Don’t Intentionally Infect Yourself. Signed, an Epidemiologist. https://www.nytimes.com/2020/04/08/opinion/coronavirus-parties-herd-immunity.html
 Most New Yorkers who own a second home left the city as soon as the virus hit, but a few stayed behind. https://www.nytimes.com/2020/07/10/realestate/coronavirus-staying-in-new-york.html
+Maureen DowdLiar, Liar, Nation on Fire https://www.nytimes.com/2020/07/11/opinion/sunday/trump-biden-2020.html
+Charles M. BlowAmerican Horror, Starring Donald Trump https://www.nytimes.com/2020/07/12/opinion/coronavirus-donald-trump.html
+Jennifer SeniorDear Liberal Arts Students: Seize This Moment https://www.nytimes.com/2020/07/12/opinion/liberal-arts-college-covid.html
+Douglas LondonI Was a Counterterrorism Chief. Trump Knew What Russia Was Doing. https://www.nytimes.com/2020/07/12/opinion/trump-russia-bounties.html
 TV shows such as “The Bold and the Beautiful,” “Riverdale” and “The L Word: Generation Q” are trying to figure out how to film intimacy in the coronavirus age. https://www.nytimes.com/2020/07/13/arts/television/sex-scenes-coronavirus.html
 Here’s what you need to know at the end of the day. https://www.nytimes.com/2020/07/13/briefing/california-the-redskins-koalas.html
 Ricardo Nagaoka for The New York Times https://www.nytimes.com/2020/07/13/business/coronavirus-retraining-workers.html
@@ -194,8 +398,12 @@ Infections rise, earnings fall, stocks go ... up? https://www.nytimes.com/2020/0
 More owners are permanently shutting their doors after new lockdown orders, realizing that there may be no end in sight to the crisis. https://www.nytimes.com/2020/07/13/business/small-businesses-coronavirus.html
 The Manhattan district attorney, Cyrus R. Vance Jr., has two big recent victories, but still has not said whether he is seeking re-election. https://www.nytimes.com/2020/07/13/nyregion/cy-vance-manhattan-da-trump.html
 Cindy Schultz for The New York Times https://www.nytimes.com/2020/07/13/nyregion/mural-black-lives-matter-catskill.html
+Christopher RivasI’m an Actor of Color. My Curls Aren’t Wanted. https://www.nytimes.com/2020/07/13/opinion/hollywood-latinos-diversity.html
+Karen CheungLife in Hong Kong Has Always Been Impossible https://www.nytimes.com/2020/07/13/opinion/hong-kong-national-security-law.html
+Trump in a Mask, at Last! https://www.nytimes.com/2020/07/13/opinion/letters/coronavirus-trump-mask.html
 Even with a pandemic raging, the president wants the Supreme Court to strike down the Affordable Care Act. https://www.nytimes.com/2020/07/13/opinion/obamacare-aca-trump-women.html
 I was a Watergate prosecutor. I know why he didn’t. https://www.nytimes.com/2020/07/13/opinion/roger-stone-trump-mueller.html
+Eric PosnerWhat a Second Trump Term Would Look Like https://www.nytimes.com/2020/07/13/opinion/trump-second-term.html
 A turning point for Hong Kong. https://www.nytimes.com/2020/07/13/podcasts/the-daily/hong-kong.html
 When it comes to finding a vaccine for chlamydia, the world’s most common sexually transmitted infection, koalas may prove a key ally. https://www.nytimes.com/2020/07/13/science/chlamydia-koalas-vaccines.html
 Current and former employees criticized the lack of diversity in top leadership at the sports media giant and said Black employees struggled to advance. https://www.nytimes.com/2020/07/13/sports/espn-racism-black-employees.html
@@ -205,4 +413,5 @@ Oregon was sandwiched between two states that had big coronavirus outbreaks but 
 Welcome to our new briefing, with updates on the 2020 election. Here’s the latest. https://www.nytimes.com/2020/07/13/us/elections/biden-vs-trump.html
 How Russia Built a Channel to the Taliban, Once an Enemy https://www.nytimes.com/2020/07/13/world/asia/russia-taliban-afghanistan.html
 California Rolls Back Reopening as Virus Cases Surge https://www.nytimes.com/2020/07/13/world/coronavirus-updates.html
-19
+LIVEBusiness updates: The U.S. budget deficit surged to $864 billion, a new monthly record. Here’s the latest. https://www.nytimes.com/live/2020/07/13/business/stock-market-today-coronavirus
+29

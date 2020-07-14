@@ -3,10 +3,37 @@
 
 name = 'link_extractor'
 
-from bs4 import BeautifulSoup
 from telegram_util import matchKey
-import cached_url
-from .domain import getDomain
+from .domain import getDomain, hasPrefix
+from .name import getName
+from .util import hasYear
+from .get_soup import getSoup
+
+def validSoup(item):
+	return not matchKey(str(item), ['footer-link', 
+		'视频', '专题', 'Watch ', 'headlines'])
+
+def isValidLink(link):
+	parts = link.strip('/').split('/')
+
+	if '.gzhshoulu.' in link:
+		return 'article' in parts
+	if '.douban.' in link:
+		return set(['note', 'status', 'album', 'topic']) & set(parts)
+
+	if set(['video', 'location', 'interactive', 'help', 'tools'
+			'slideshow', 'accounts', 'page', 'category', 
+			'collections', 'briefing', 'podcasts']) & set(parts):
+		return False
+	if matchKey(link, ['comment', 'follow']):
+		return False
+
+	if 'jacobinmag.' in link and len(parts) < 6:
+		return False
+	if '.nytimes.' in link:
+		return 'topic' not in parts and hasYear(parts)
+
+	return True
 
 def genItems(soup):
 	for x in soup.find_all('div', class_='note-container'): # douban notes
@@ -16,62 +43,36 @@ def genItems(soup):
 	for x in soup.find_all('a'):
 		yield x 
 
-def getItemText(item):
-	if not item or not item.text:
-		return ''
-	return ' '.join(item.text.strip().split())
-
-def getName(item):
-	for tag in ['p', 'span']:
-		text = getItemText(item.find(tag))
-		if text:
-			return text
-	return getItemText(text)
-
-def isValidLink(link):
-	parts = link.strip('/').split('/')
-	if len(parts) <= 5:
-		return False
-	if 'jacobinmag.' in link and len(parts) < 7:
-		return False
-	if set(parts) & set(['video', 'location', 'interactive', 'help']):
-		return False
-	return True
-
 def formatLink(link, domain):
-	link = link.strip('/')
 	if '://' not in link:
-		link = domain + link
+		link = domain.rstrip('/') + '/' + link.lstrip('/')
 	for char in '#?':
 		link = link.split(char)[0]
 	return link
 
-def getLink(item, domain):
+def getLink(item, site):
 	if not item.attrs or 'href' not in item.attrs:
 		return
-	link = formatLink(item['href'], domain)
-	if not domain in link or not isValidLink(link):
+	link = formatLink(item['href'], getDomain(site))
+
+	if not hasPrefix(link, site) or not isValidLink(link):
 		return
+
 	if matchKey(link, ['.nytimes.', '.bbc.']) and not getName(item):
 		return
 	return link
 
-def format(items, domain):
+def format(items, site):
 	existing = set()
 	for item in items:
-		link = getLink(item, domain)
+		link = getLink(item, site)
 		if not link or link in existing:
 			continue
 		yield link, item
 		existing.add(link)
 
-def validSoup(item):
-	return not matchKey(str(item), ['footer-link', '视频'])
-
-def getLinks(webpage, domain=None):
-	domain = getDomain(webpage, domain)
-	soup = BeautifulSoup(cached_url.get(webpage), 'html.parser')
-	items = genItems(soup)
+def getLinks(site):
+	items = genItems(getSoup(site))
 	items = [x for x in items if validSoup(x)]
-	items = format(items, domain)
+	items = format(items, site)
 	return [(link, getName(item)) for (link, item) in items]

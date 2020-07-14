@@ -6,7 +6,7 @@ Extract Links from news source, ranked by importance.
 
 ```
 import link_extractor
-link_extractor.getLinks(webpage, domain=domain)
+link_extractor.getLinks(site)
 ```
 
 ## how to install

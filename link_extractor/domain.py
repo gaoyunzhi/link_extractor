@@ -1,13 +1,21 @@
-single_domain_list = ['https://squatting2047.com', 
-	'https://matters.news/', 'https://wemp.app',
+single_domain_list = ['https://matters.news/', 'https://wemp.app',
 	'http://www.gzhshoulu.wang/', 'https://www.douban.com/']
 
-def getDomain(webpage, domain):
-	if domain:
-		return domain
-	if webpage == 'https://www.bbc.com/zhongwen/simp':
+def getDomain(site):
+	if site == 'https://www.bbc.com/zhongwen/simp':
 		return 'https://www.bbc.co.uk'
 	for single_domain in single_domain_list:
-		if single_domain in webpage:
+		if single_domain in site:
 			return single_domain
-	return webpage
+	return site
+
+def getPrefix(site):
+	if 'matters.news' in site:
+		return site
+	return getDomain(site)
+
+def hasPrefix(link, site):
+	prefix = getPrefix(site)
+	if link.strip('/') == prefix.strip('/'):
+		return False
+	return prefix in link
