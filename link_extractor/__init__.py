@@ -22,9 +22,10 @@ def isValidLink(link):
 		return (set(['note', 'status', 'album', 'topic']) & set(parts) and
 			not set(['gallery']) & set(parts)) and hasNumber(parts)
 
-	if set(['video', 'location', 'interactive', 
-			'slideshow', 'accounts', 'page', 'category', 
-			'collections', 'briefing', 'podcasts']) & set(parts):
+	if set(['accounts', # wemp.app
+			'interactive', 'briefing', 'podcasts', 'slideshow', # nyt
+			'collections', # bbc
+			]) & set(parts):
 		return False
 
 	if 'jacobinmag.' in link and len(parts) < 6:
