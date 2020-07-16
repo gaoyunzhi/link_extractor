@@ -17,10 +17,7 @@ def countLike(link, soup):
 
 def sortDouban(items, soup):
 	counted_items = []
-	for link, item in items:
-		counted_items.append((countLike(link, soup), link, item))
+	for link, _ in items:
+		counted_items.append((countLike(link, soup), link))
 	counted_items.sort(reverse = True)
-	for count, link, item in counted_items:
-		yield link, item
-
-
+	return [(item[1], item[0]) for item in counted_items]

@@ -92,5 +92,5 @@ def getLinks(site):
 	items = [x for x in items if validSoup(x)]
 	items = format(items, site)
 	if '.douban.' in site:
-		items = sortDouban(items, soup)
+		return sortDouban(items, soup)
 	return [(link, getName(item)) for (link, item) in items]

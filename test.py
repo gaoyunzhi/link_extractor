@@ -5,7 +5,7 @@ import link_extractor
 import os
 
 tests = [
-	'https://vocus.cc/5a12023feceaed97b40204c9/home',
+	# 'https://vocus.cc/5a12023feceaed97b40204c9/home',
 	# 'http://tagesschau.de',
 	# 'http://www.gzhshoulu.wang/account_PourMarx.html',
 	# 'https://jacobinmag.com/',
@@ -16,7 +16,7 @@ tests = [
 	# 'https://squatting2047.com',
 	# 'https://wemp.app/accounts/12c2c49c-305d-4de3-85c8-00d372e7a47a',
 	# 'https://whogovernstw.org',
-	# 'https://www.douban.com/',
+	'https://www.douban.com/',
 	# 'https://www.douban.com/explore/',
 	# 'https://www.douban.com/people/180693708/notes',
 	# 'https://www.douban.com/people/80620968/notes',

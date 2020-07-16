@@ -10,4 +10,4 @@ def getVocusLinks(site):
 		result.append((int(article.get('likeCount', 0)), 
 			'https://vocus.cc/' + pid + '/' + article.get('_id')))
 	result.sort(reverse=True)
-	return [(item[1], None) for item in result]
+	return [(item[1], item[0]) for item in result]
