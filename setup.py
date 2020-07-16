@@ -20,8 +20,9 @@ setuptools.setup(
     ],
     install_requires=[
         'bs4',
-        'telegram_util>=0.0.27',
-        'cached_url>=0.0.1',
+        'telegram_util',
+        'cached_url',
+        'pyyaml',
     ],
     python_requires='>=3.0',
 )

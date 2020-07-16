@@ -9,6 +9,7 @@ from .name import getName
 from .util import hasYear, hasNumber
 from .get_soup import getSoup
 from .douban import sortDouban
+from .vocus import getVocusLinks
 
 def validSoup(item):
 	# BBC filters
@@ -84,6 +85,8 @@ def format(items, site):
 		existing.add(link)
 
 def getLinks(site):
+	if 'vocus.cc' in site:
+		return getVocusLinks(site)
 	soup = getSoup(site)
 	items = genItems(soup)
 	items = [x for x in items if validSoup(x)]
