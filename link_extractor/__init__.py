@@ -13,9 +13,7 @@ from .vocus import getVocusLinks
 
 def validSoup(item):
 	# BBC filters
-	if matchKey(str(item), ['视频', '专题', 'Watch ', 'headlines']):
-		return False
-	return True
+	return not matchKey(str(item), ['视频', '专题', 'Watch ', 'headlines'])
 
 def isValidLink(link):
 	parts = link.strip('/').split('/')
@@ -40,7 +38,7 @@ def isValidLink(link):
 		return len(parts) == 5
 	if '.thinkingtaiwan.' in link:
 		return 'content' in parts
-	if 'chinaworker.':
+	if 'chinaworker.' in link:
 		return hasYear(parts)
 
 	return True
