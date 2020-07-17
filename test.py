@@ -5,7 +5,7 @@ import link_extractor
 import os
 
 tests = [
-	# 'https://chinaworker.info/cn/',
+	'https://chinaworker.info/cn/',
 	'https://vocus.cc/5a12023feceaed97b40204c9/home',
 	'http://tagesschau.de',
 	'http://www.gzhshoulu.wang/account_PourMarx.html',
@@ -31,14 +31,14 @@ tests = [
 def test():
 	for site in tests:
 		links = link_extractor.getLinks(site)
-		for link, name in links:
-			# with open(fn, 'a') as f:
-			# 	f.write(name + ' ' + link + '\n')
-			print(name, link)
-			...
-		with open(fn, 'a') as f:
-			f.write(str(len(links)) + '\n')
-		print(len(links))
+		# for link, name in links:
+		# 	# with open(fn, 'a') as f:
+		# 	# 	f.write(name + ' ' + link + '\n')
+		# 	print(name, link)
+		# 	...
+		# with open(fn, 'a') as f:
+		# 	f.write(str(len(links)) + '\n')
+		print(site, len(links))
 	
 if __name__=='__main__':
 	test()
