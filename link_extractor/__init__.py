@@ -10,6 +10,7 @@ from .util import hasYear, hasNumber
 from .get_soup import getSoup
 from .douban import sortDouban
 from .vocus import getVocusLinks
+from .blogspot import getFromBlogspot
 
 def validSoup(item):
 	# BBC filters
@@ -90,6 +91,8 @@ def format(items, site):
 def getLinks(site):
 	if 'vocus.cc' in site:
 		return getVocusLinks(site)
+	if 'realfeministphilosophers.blogspot' in site:
+		return list(getFromBlogspot(site))
 	soup = getSoup(site)
 	items = genItems(soup)
 	items = [x for x in items if validSoup(x)]
