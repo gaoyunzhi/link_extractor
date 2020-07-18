@@ -5,7 +5,9 @@ import link_extractor
 import os
 
 tests = [
-	'https://www.pinknews.co.uk/',
+	'http://colgatefeminism.blogspot.com/',
+	# 'http://realfeministphilosophers.blogspot.com/'
+	# 'https://www.pinknews.co.uk',
 	# 'https://chinaworker.info/cn/',
 	# 'https://vocus.cc/5a12023feceaed97b40204c9/home',
 	# 'http://tagesschau.de',
