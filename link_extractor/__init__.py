@@ -38,7 +38,7 @@ def isValidLink(link):
 		return len(parts) == 5
 	if '.thinkingtaiwan.' in link:
 		return 'content' in parts
-	if 'chinaworker.' in link:
+	if matchKey(link, ['chinaworker.', 'pinknews.']):
 		return hasYear(parts)
 
 	return True

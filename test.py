@@ -5,12 +5,13 @@ import link_extractor
 import os
 
 tests = [
+	'https://www.pinknews.co.uk/',
 	# 'https://chinaworker.info/cn/',
 	# 'https://vocus.cc/5a12023feceaed97b40204c9/home',
 	# 'http://tagesschau.de',
 	# 'http://www.gzhshoulu.wang/account_PourMarx.html',
 	# 'https://jacobinmag.com/',
-	'https://matters.news',
+	# 'https://matters.news',
 	# 'https://matters.news/@Margaux1848',
 	# 'https://matters.news/@zoezhao',
 	# 'https://opinion.cw.com.tw/',
