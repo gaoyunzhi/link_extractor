@@ -72,7 +72,6 @@ def getLink(item, site):
 	if not item.attrs or 'href' not in item.attrs:
 		return
 	link = formatLink(item['href'], getDomain(site))
-
 	if not hasPrefix(link, site) or not isValidLink(link):
 		return
 
