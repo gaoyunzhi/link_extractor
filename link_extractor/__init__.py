@@ -28,6 +28,7 @@ def isValidLink(link):
 	if set(['accounts', # wemp.app
 			'interactive', 'briefing', 'podcasts', 'slideshow', # nyt
 			'collections', 'sport', # bbc
+			'guaishi', # chinaworker
 			]) & set(parts):
 		return False
 
