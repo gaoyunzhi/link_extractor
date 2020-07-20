@@ -43,7 +43,8 @@ def isValidLink(link):
 	if matchKey(link, ['chinaworker.', 'pinknews.', 
 			'colgatefeminism', 'thesocietypages']):
 		return hasYear(parts)
-
+	if 'medium' in link:
+		return parts[-1][-13:][:1] == '-'
 	return True
 
 # deal with sorting for bbc and nyt, no need for other sites

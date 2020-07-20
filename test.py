@@ -5,7 +5,8 @@ import link_extractor
 import os
 
 tests = [
-	'https://thesocietypages.org/socimages/',
+	'https://medium.com/@DFRLab',
+	# 'https://thesocietypages.org/socimages/',
 	# 'https://thesocietypages.org/girlwpen/',
 	# 'http://colgatefeminism.blogspot.com/',
 	# 'http://realfeministphilosophers.blogspot.com/'
