@@ -100,4 +100,6 @@ def getLinks(site):
 	items = format(items, site)
 	if '.douban.' in site:
 		return sortDouban(items, soup)
+	if 'pinknews' in site:
+		items = list(items)[:14]
 	return [(link, getName(item)) for (link, item) in items]
