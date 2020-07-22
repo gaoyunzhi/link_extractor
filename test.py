@@ -5,12 +5,13 @@ import link_extractor
 import os
 
 tests = [
+	'https://wemp.app/accounts/75da3f6f-a37d-42e4-b126-309c0d0b8878',
 	# 'https://medium.com/@DFRLab',
 	# 'https://thesocietypages.org/socimages/',
 	# 'https://thesocietypages.org/girlwpen/',
 	# 'http://colgatefeminism.blogspot.com/',
 	# 'http://realfeministphilosophers.blogspot.com/'
-	'https://www.pinknews.co.uk',
+	# 'https://www.pinknews.co.uk',
 	# 'https://chinaworker.info/cn/',
 	# 'https://vocus.cc/5a12023feceaed97b40204c9/home',
 	# 'http://tagesschau.de',
