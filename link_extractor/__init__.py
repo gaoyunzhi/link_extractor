@@ -38,6 +38,8 @@ def isValidLink(link):
 		return 'topic' not in parts and hasYear(parts)
 	if 'matters.news' in link:
 		return len(parts) == 5
+	if 'zhishifenzi' in link:
+		return len(parts) == 6
 	if '.thinkingtaiwan.' in link:
 		return 'content' in parts
 	if matchKey(link, ['chinaworker.', 'pinknews.', 

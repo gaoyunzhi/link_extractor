@@ -5,34 +5,7 @@ import link_extractor
 import os
 
 tests = [
-	'https://wemp.app/accounts/75da3f6f-a37d-42e4-b126-309c0d0b8878',
-	# 'https://medium.com/@DFRLab',
-	# 'https://thesocietypages.org/socimages/',
-	# 'https://thesocietypages.org/girlwpen/',
-	# 'http://colgatefeminism.blogspot.com/',
-	# 'http://realfeministphilosophers.blogspot.com/'
-	# 'https://www.pinknews.co.uk',
-	# 'https://chinaworker.info/cn/',
-	# 'https://vocus.cc/5a12023feceaed97b40204c9/home',
-	# 'http://tagesschau.de',
-	# 'http://www.gzhshoulu.wang/account_PourMarx.html',
-	# 'https://jacobinmag.com/',
-	# 'https://matters.news',
-	# 'https://matters.news/@Margaux1848',
-	# 'https://matters.news/@zoezhao',
-	# 'https://opinion.cw.com.tw/',
-	# 'https://squatting2047.com',
-	# 'https://wemp.app/accounts/12c2c49c-305d-4de3-85c8-00d372e7a47a',
-	# 'https://whogovernstw.org',
-	# 'https://www.douban.com/',
-	# 'https://www.douban.com/explore/',
-	# 'https://www.douban.com/people/180693708/notes',
-	# 'https://www.douban.com/people/80620968/notes',
-	# 'https://www.thinkingtaiwan.com',
-	# 'https://www.bbc.co.uk',
-	# 'https://cn.nytimes.com',
-	# 'https://www.nytimes.com',
-	# 'https://www.bbc.com/zhongwen/simp',
+	'http://zhishifenzi.com/u/59.html',
 ]
 
 def test():
