@@ -48,6 +48,8 @@ def isValidLink(link):
 		return hasYear(parts)
 	if 'medium' in link:
 		return parts[-1][-13:][:1] == '-'
+	if '.thepaper.' in link:
+		return 'newsDetail_forward_' in link
 	return True
 
 # deal with sorting for bbc and nyt, no need for other sites
