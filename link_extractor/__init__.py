@@ -11,6 +11,7 @@ from .get_soup import getSoup
 from .douban import sortDouban
 from .vocus import getVocusLinks
 from .blogspot import getFromBlogspot
+from .ted import sortTed
 
 def validSoup(item):
 	# BBC filters
@@ -104,4 +105,6 @@ def getLinks(site):
 		return sortDouban(items, soup)
 	if 'pinknews' in site:
 		items = list(items)[:14]
+	if 'ed.ted.com' in site:
+		return sortTed(items)
 	return [(link, getName(item)) for (link, item) in items]

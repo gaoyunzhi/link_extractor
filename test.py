@@ -5,7 +5,7 @@ import link_extractor
 import os
 
 tests = [
-	'https://zhuanlan.zhihu.com/c_1220718229313753088'
+	'https://ed.ted.com/search?qs=politics#all'
 ]
 
 def test():
