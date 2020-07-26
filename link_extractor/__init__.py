@@ -14,6 +14,8 @@ from .blogspot import getFromBlogspot
 from .ted import sortTed
 
 def validSoup(item):
+	if 'newsDetail_forward' in str(item): # the paper filters
+		return 'tiptitleImg' in str(item)
 	# BBC filters
 	return not matchKey(str(item), ['视频', '专题', 'Watch ', 'headlines'])
 
