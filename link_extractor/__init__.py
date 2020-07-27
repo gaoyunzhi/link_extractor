@@ -46,7 +46,7 @@ def isValidLink(link):
 	if '.thinkingtaiwan.' in link:
 		return 'content' in parts
 	if matchKey(link, ['chinaworker.', 'pinknews.', 
-			'colgatefeminism', 'thesocietypages']):
+			'colgatefeminism', 'thesocietypages', 'feministcurrent']):
 		return hasYear(parts)
 	if 'medium' in link:
 		return parts[-1][-13:][:1] == '-'
