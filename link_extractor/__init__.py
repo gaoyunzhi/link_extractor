@@ -37,6 +37,8 @@ def isValidLink(link):
 
 	if matchKey(link, ['whats-current']): # feministcurrent
 		return False
+	if 'feministcurrent' in link and 'podcast' in link:
+		return False
 
 	if 'jacobinmag.' in link and len(parts) < 6:
 		return False
