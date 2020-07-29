@@ -10,4 +10,7 @@ def getSoup(site):
 	for tag in offtopic_tags:
 		for item in soup.find_all(tag):
 			item.decompose()
+	for item in soup.find_all():
+		if item.attrs and 'footer' in str(item.attrs):
+			item.decompose()
 	return soup
