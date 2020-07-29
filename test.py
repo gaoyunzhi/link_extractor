@@ -5,7 +5,7 @@ import link_extractor
 import os
 
 tests = [
-	'https://opinion.udn.com/author/articles/1008/3043'
+	'https://www.twreporter.org/categories/human_rights_and_society'
 ]
 
 def test():
