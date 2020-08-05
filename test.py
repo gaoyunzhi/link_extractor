@@ -5,7 +5,7 @@ import link_extractor
 import os
 
 tests = [
-	'https://chuansongme.com/account/missluobeibei'
+	'https://zhuanlan.zhihu.com/c_1045255574094381056'
 ]
 
 def test():
