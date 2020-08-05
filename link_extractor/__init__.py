@@ -44,7 +44,7 @@ def isValidLink(link):
 		return False
 	if '.nytimes.' in link:
 		return 'topic' not in parts and hasYear(parts)
-	if matchKey(link, ['matters.news']):
+	if matchKey(link, ['matters.news', 'chuansongme.com']):
 		return len(parts) == 5
 	if matchKey(link, ['zhishifenzi']):
 		return len(parts) == 6
