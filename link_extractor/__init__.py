@@ -48,6 +48,8 @@ def isValidLink(link):
 		return len(parts) == 5
 	if matchKey(link, ['zhishifenzi']):
 		return len(parts) == 6
+	if matchKey(link, ['shityoushouldcareabout']):
+		return len(parts) == 8
 	if 'opinion.udn.com' in link:
 		return 'page' not in parts and len(parts) == 7
 	if 'twreporter.org' in link:
