@@ -3,7 +3,7 @@ single_domain_list = ['https://matters.news/', 'https://wemp.app',
 	'https://medium.com/', 'http://zhishifenzi.com', 
 	'https://ed.ted.com/', 'https://www.thepaper.cn', 
 	'https://opinion.udn.com', 'https://www.twreporter.org/',
-	'https://chuansongme.com']
+	'https://chuansongme.com', 'https://cn.nytimes.com']
 
 def getDomain(site):
 	if site == 'https://www.bbc.com/zhongwen/simp':

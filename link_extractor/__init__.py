@@ -120,6 +120,8 @@ def getLinks(site):
 		return sortDouban(items, soup)
 	if 'pinknews' in site:
 		items = list(items)[:14]
+	if 'cn.nytimes.com/opinion' in site:
+		items = list(items)[:3] # may need to revisit later
 	if 'ed.ted.com' in site:
 		return sortTed(items)
 	return [(link, getName(item)) for (link, item) in items]
