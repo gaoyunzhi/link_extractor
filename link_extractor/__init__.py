@@ -54,6 +54,8 @@ def isValidLink(link):
 		return 'page' not in parts and len(parts) == 7
 	if 'twreporter.org' in link:
 		return 'a' in parts and len(parts) == 5
+	if 'zhihu.' in link:
+		return 'p' in parts
 	if '.thinkingtaiwan.' in link:
 		return 'content' in parts
 	if matchKey(link, ['chinaworker.', 'pinknews.', 
