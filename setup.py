@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="link_extractor",
-    version="0.0.44",
+    version="0.0.45",
     author="Yunzhi Gao",
     author_email="gaoyunzhi@gmail.com",
     description="Extract Links from news source, ranked by importance.",
@@ -18,6 +18,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    package_data={'link_extractor': ['config.yaml']},
     install_requires=[
         'bs4',
         'telegram_util',
