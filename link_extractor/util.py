@@ -14,19 +14,5 @@ def containYear(link):
 			return True
 	return False
 
-def getDetails(link):
-	for char in '/.-_':
-		link = link.replace(char, ' ')
-	return link.split()
-
-def containNumber(link):
-	for part in getDetails(link):
-		try:
-			if int(part) > 1000:
-				return True
-		except:
-			...
-	return False
-
 def hasSignature(link):
 	return link[-13:][:1] == '-'

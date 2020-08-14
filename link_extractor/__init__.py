@@ -4,7 +4,7 @@
 name = 'link_extractor'
 
 from telegram_util import matchKey
-from .util import containYear, containNumber, getDetails, hasSignature
+from .util import containYear, hasSignature
 from .get_soup import getSoup
 from .douban import getDoubanLinks
 from .vocus import getVocusLinks
@@ -48,20 +48,16 @@ def formatRawLink(link, domain):
 				return
 			if sub_config.get('signature') and not hasSignature(link):
 				return
-			must_contain = sub_config.get('not_contain')
+			must_contain = sub_config.get('must_contain')
 			if must_contain and must_contain not in link:
 				return
 	return link
 
 def getSig(link):
 	parts = link.split('/')
-	details = set(getDetails(link))
-	sig = [len(parts), 'http' in link, 
-		containYear(link), containNumber(link)]
+	sig = [len(parts), 'http' in link, containYear(link)]
 	if sig[2]:
 		return tuple([1] + sig)
-	if sig[3]:
-		return tuple([2] + sig)
 	if (sig[1] and sig[0] > 4) or sig[0] > 1:
 		return tuple([3] + sig)
 	return tuple([4] + sig)
@@ -85,8 +81,7 @@ def getPreferedSig(links, site):
 	return (0, False, False, False) # shouldn't be here
 
 def sigMatch(sigModel, sig):
-	return (sigModel[:3] == sig[:3] and ((not sigModel[3]) or sig[3]) and 
-		((not sigModel[4]) or sig[4]))
+	return sigModel[:3] == sig[:3] and ((not sigModel[3]) or sig[3])
 
 def getLinks(site):
 	if 'vocus.cc' in site:

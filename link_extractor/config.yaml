@@ -17,3 +17,5 @@ thepaper:
   must_contain: newsDetail_forward
 thinkingtaiwan:
   must_contain_part: content
+twreporter:
+  must_contain_part: a

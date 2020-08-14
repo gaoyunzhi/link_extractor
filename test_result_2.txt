@@ -39,7 +39,51 @@ http://colgatefeminism.blogspot.com/2017/04/we-need-to-talk-about-disability-and
 http://colgatefeminism.blogspot.com/2017/04/engaging-feminist-thought-action-high.html
 http://colgatefeminism.blogspot.com/2017/01/spring-2017-wmst-brown-bags.html
 http://colgatefeminism.blogspot.com/2016/11/nodapl-action-hub-wmst.html
-http://colgatefeminism.blogspot.com/ 4
+http://colgatefeminism.blogspot.com/2017/04/
+http://colgatefeminism.blogspot.com/2017/01/
+http://colgatefeminism.blogspot.com/2016/11/
+http://colgatefeminism.blogspot.com/2016/10/
+http://colgatefeminism.blogspot.com/2016/04/
+http://colgatefeminism.blogspot.com/2016/03/
+http://colgatefeminism.blogspot.com/2016/01/
+http://colgatefeminism.blogspot.com/2015/12/
+http://colgatefeminism.blogspot.com/2015/11/
+http://colgatefeminism.blogspot.com/2015/10/
+http://colgatefeminism.blogspot.com/2015/09/
+http://colgatefeminism.blogspot.com/2015/04/
+http://colgatefeminism.blogspot.com/2015/03/
+http://colgatefeminism.blogspot.com/2015/02/
+http://colgatefeminism.blogspot.com/2015/01/
+http://colgatefeminism.blogspot.com/2014/12/
+http://colgatefeminism.blogspot.com/2014/11/
+http://colgatefeminism.blogspot.com/2014/10/
+http://colgatefeminism.blogspot.com/2014/09/
+http://colgatefeminism.blogspot.com/2014/04/
+http://colgatefeminism.blogspot.com/2014/03/
+http://colgatefeminism.blogspot.com/2014/02/
+http://colgatefeminism.blogspot.com/2014/01/
+http://colgatefeminism.blogspot.com/2013/12/
+http://colgatefeminism.blogspot.com/2013/11/
+http://colgatefeminism.blogspot.com/2013/10/
+http://colgatefeminism.blogspot.com/2013/09/
+http://colgatefeminism.blogspot.com/2013/05/
+http://colgatefeminism.blogspot.com/2013/04/
+http://colgatefeminism.blogspot.com/2013/03/
+http://colgatefeminism.blogspot.com/2013/02/
+http://colgatefeminism.blogspot.com/2012/12/
+http://colgatefeminism.blogspot.com/2012/11/
+http://colgatefeminism.blogspot.com/2012/10/
+http://colgatefeminism.blogspot.com/2012/09/
+http://colgatefeminism.blogspot.com/2012/08/
+http://colgatefeminism.blogspot.com/2012/04/
+http://colgatefeminism.blogspot.com/2012/03/
+http://colgatefeminism.blogspot.com/2012/02/
+http://colgatefeminism.blogspot.com/2012/01/
+http://colgatefeminism.blogspot.com/2011/12/
+http://colgatefeminism.blogspot.com/2011/11/
+http://colgatefeminism.blogspot.com/2011/10/
+http://colgatefeminism.blogspot.com/2011/09/
+http://colgatefeminism.blogspot.com/ 48
 
 article/1002473485
 article/1002473486
@@ -61,17 +105,21 @@ article/1002292674
 article/1002268621
 http://www.gzhshoulu.wang/account_missluobeibei.html 18
 
-depth/depth/9828.html
-depth/humanity/9739.html
-depth/depth/9430.html
-depth/humanity/9582.html
-depth/humanity/9542.html
-depth/depth/9497.html
-depth/depth/9426.html
-depth/depth/9374.html
-depth/depth/9112.html
-news/other/8940.html
-http://zhishifenzi.com/u/59.html 10
+intro/contribute
+news/biology
+news/medicine
+news/ai
+news/physics
+news/chymistry
+news/astronomy
+u/59.html
+intro/about
+intro/service
+intro/copyright
+news/other
+intro/contact
+intro/join
+http://zhishifenzi.com/u/59.html 14
 
 https://chinaworker.info/cn/2020/08/14/24530/
 https://chinaworker.info/cn/2020/08/13/24512/
@@ -406,25 +454,31 @@ https://gonghao51.github.io/ 252
 
 @cherryyoko/%E5%8F%88%E9%81%8E%E4%BA%86%E4%B8%80%E5%A4%A9-%E9%80%99%E6%A8%A3%E5%81%9A%E7%B7%A8%E5%8A%87%E4%B8%8D%E6%9C%83%E9%A4%93%E6%AD%BB-07-bafyreihstlnfuoigr7relvz46f3e6umtrikoccql2cp5agep6dfl4eb4nu
 @Coldwell890/%E9%A2%84%E7%A5%9D%E9%AB%98%E9%9B%84%E9%99%88%E5%85%B6%E8%BF%88%E5%86%BB%E8%92%9C-bafyreibaufso2s2eenfmhkbnazi35hbrb4mby5g45ysptjoazfyj5vqabe
+tags/VGFnOjExMzU0
 @lightfeather/%E9%AD%94%E9%8F%A1%E9%AD%94%E9%8F%A1-matters-4-%E6%9C%88%E4%BB%BD-100-%E8%AE%9A%E5%92%8C-100-%E8%A9%95%E7%9A%84%E6%96%87%E7%AB%A0%E6%9C%89%E9%82%A3%E4%BA%9B-bafyreidfzmvyjbc2woo4eb3kw6dm3xiejvuwd3tzbvna5rjpbridny7dg4
 @Small_Ku/%E4%BE%86%E7%B5%A6%E5%85%A8%E5%B9%B3%E8%87%BA-matters-%E4%B8%8A-dark-mode-%E9%82%84%E6%9C%89%E6%BB%BF%E4%B8%80%E9%BB%9E%E7%9A%84-desktop-%E7%89%88%E9%9D%A2-bafyreibwclnznps4tyrtiryu622ygzt6qmtz6mb2ujjkfkhzzbkzhib5se
 @Small_Ku/%E5%A4%9A%E5%9C%96-%E8%87%AA%E5%B7%B1%E5%8B%95%E6%89%8B%E7%B5%A6-matters-%E5%81%9A-dark-mode-bafyreib4up3cqad2k34l2nb5ghbvz6x4jekeedtciionmwlsvhl7fhtql4
 @Andy/matters%E9%87%91%E5%8F%A5%E8%B4%B4%E5%88%B6%E9%80%A0%E6%9C%BA-bafyreihiiqbpztjca6adn7qx6mr7i3p32xdybt3icbf3nbs2ia73kib6nm
 @vibertthio/%E7%9C%9F%E6%AD%A3%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%AA%92%E9%AB%94%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%81%9A%E4%B8%80%E5%80%8B-matters-%E7%9A%84%E7%AC%AC%E4%B8%89%E6%96%B9%E7%B6%B2%E7%AB%99-zdpuArgJXADPgWJ8TfvRWWStTvkYC1vqCTV6fHayisbrABkBp
+tags/VGFnOjIzMTQ2
 @OcOcO/%E4%BE%86%E8%87%AA%E6%A0%BC%E9%AD%AF%E5%90%89%E4%BA%9E%E6%88%B2%E5%8A%87%E7%AF%80%E7%9A%84%E4%B8%80%E5%A0%B4%E6%99%82%E9%96%93%E8%BB%8C%E8%B7%A1-bafyreib6gbslv34oltfh2suebn4gwo66brlevlmj6slf6ntgkmamylofyu
 @ettachan/%E5%A5%B3%E5%B7%AB%E9%9A%8E%E6%A2%AF-zdpuArQKuzhnjJSLEGNpiND7GAdhBP7xaxPnWYZo2CXGzegpX
+@Poppel/%E7%A4%BE%E5%8C%BA%E6%B4%BB%E5%8A%A8-%E4%B8%A8-bandcamp%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90-20200416-bafyreibid2y53saicjpajs7xvzww4nvh3brny2pkd43b5wojdb522yq7mu
 @OcOcO/%E4%B8%80%E9%9D%A2%E4%B9%8B%E7%BC%98%E7%9A%84%E6%B9%96-bafyreiajs6e36chrursxwdfqiobdnehxwli7tktfoxihrkszejudhmkkja
 @OcOcO/%E4%B8%96%E7%95%8C%E5%BF%AB%E6%AD%BB%E4%BA%86-%E4%BD%A0%E5%A4%A7%E6%A6%82%E6%B3%A8%E6%84%8F%E5%88%B0-%E6%9B%B8%E5%96%AE%E4%BA%A4%E6%8F%9B%E5%B0%8F%E7%B5%84-bafyreigr7fc6lk6cxppyuqce3d6qv6jdyyk6viaghj4zyghpxodq2oskqy
+tags/VGFnOjY4NTQ
 @oscarhuang0158/%E8%AE%80%E6%9B%B8%E6%96%B9%E6%B3%95%E5%88%86%E4%BA%AB-%E6%8E%8C%E6%8F%A1%E6%A6%82%E5%BF%B5-%E5%85%88%E7%90%86%E8%A7%A3%E5%AE%9A%E7%BE%A9%E5%86%8D%E6%8A%8A%E5%AE%83%E8%A8%98%E4%B8%8B%E4%BE%86-bafyreienp7og6hi37ihjwvvfrn2o2jng6cdc2daoxvw7wspsxlsq7k6nvm
 @C_Cheng/%E4%B8%80%E5%80%8B%E9%96%8B%E5%A7%8B-bafyreiecjjgctx4hcxkrqqzjk4s2erybf5mxseu43ocp76mnpeo32llwzi
 @Oliver_Green/%E4%BE%9B%E6%87%89%E9%8F%88%E6%96%B7%E9%8F%88%E5%8D%B1%E6%A9%9F-%E5%85%A8%E7%90%83%E9%98%B2%E7%96%AB-%E7%96%AB%E6%83%85%E6%99%82%E4%BB%A3%E4%B8%8B-%E4%BC%81%E6%A5%AD%E8%BD%89%E5%9E%8B%E6%B0%B8%E7%BA%8C%E4%BE%9B%E6%87%89%E9%8F%88%E7%9A%84%E6%80%A5%E8%BF%AB%E6%80%A7-%E9%BB%91%E5%A4%A9%E9%B5%9D-%E6%96%B7%E9%8F%88-%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E-%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92-covid-19-%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95-%E7%B6%A0%E8%89%B2%E4%BE%9B%E6%87%89%E9%8F%88-%E9%A2%A8%E9%9A%AA%E7%AE%A1%E7%90%86-bafyreibdjrwl573c63id5ewdpvjbrbzn6oxugfqkide7yo3kagt6tphuba
 @languagetrails/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E6%9C%83%E5%88%B0%E6%97%A5%E6%9C%AC%E5%B7%A5%E4%BD%9C-%E4%BD%A0%E4%B9%9F%E5%9A%AE%E5%BE%80%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%94%9F%E6%B4%BB%E5%97%8E-bafyreiehfwrqvlw4mde62zfd6djll4qyac7xq22jzsqnk34aclpx3qcpwy
 @niki13/%E6%88%91%E6%9C%89%E6%B0%A3%E5%96%98%E5%8F%88%E4%B8%8D%E6%9C%83%E6%B8%B8%E6%B3%B3-%E5%8F%AF%E4%BB%A5%E5%AD%B8%E8%87%AA%E7%94%B1%E6%BD%9B%E6%B0%B4%E5%97%8E-bafyreiffzikww3ujswc55culs2dwrlv7244p6zcbduvjg6d6gk3gypjhma
+tags/VGFnOjIxODY3
 @mikejohn/%E8%AC%9B%E5%BA%A7%E5%BF%83%E5%BE%97-%E5%A4%A9%E7%9C%BC%E6%99%82%E4%BB%A3-%E5%80%8B%E4%BA%BA%E6%95%B8%E6%93%9A%E8%88%87%E9%9A%B1%E7%A7%81%E4%BF%9D%E8%AD%B7-bafyreibblmxgsbhzr6d2ct5qiebq2p7pjppukdt42my52yjhep5ykd75na
 @chwebinars/ppt%E6%88%AA%E5%9B%BE-%E5%88%98%E6%99%93%E5%8A%9B-%E4%BA%BA%E7%B1%BB%E6%84%8F%E8%AF%86%E4%B8%8E%E6%9C%BA%E5%99%A8%E6%84%8F%E8%AF%86%E7%9A%84%E6%BC%94%E5%8C%96-%E5%93%B2%E5%AD%A6%E7%9A%84%E6%AE%BF%E5%A0%82%E7%AC%AC%E4%B8%80%E5%AD%A3%E7%AC%AC%E5%9B%9B%E8%AE%B2-bafyreibuhy4iyrh4t7psurhpl2rejlbh62cly5h5hekkry3d6lps6i4cwm
 @chwebinars/ppt%E6%96%87%E5%AD%97%E7%A8%BF-%E6%A8%A1%E4%BB%BF-%E5%88%9B%E9%80%A0%E5%92%8C%E8%89%BA%E6%9C%AF-%E4%BB%8E%E6%9C%AC%E9%9B%85%E6%98%8E-%E5%90%89%E6%8B%89%E5%B0%94%E5%92%8C%E5%BE%B7%E5%8B%92%E5%85%B9%E8%B0%88%E8%B5%B7-bafyreie6jzwhgsandsizv5kekqaybzwa7kzd53e77ruzdpbxdx2ygqr4ga
 @chwebinars/ppt-%E6%96%87%E5%AD%97%E7%89%88-%E6%9D%8E%E7%A7%8B%E9%9B%B6-%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%B0%8A%E9%87%8D%E4%BA%BA-%E5%BA%B7%E5%BE%B7%E4%B8%8E%E5%8D%A2%E6%A2%AD%E7%9A%84%E6%80%9D%E6%83%B3%E5%85%B3%E7%B3%BB%E8%80%83%E5%AF%9F-bafyreie56n6rb3yrdbftzuoemo2bq4bd3frxgmeskcfexkxd5ksoarsknm
 @chwebinars/ppt%E6%88%AA%E5%9B%BE-%E8%B0%A2%E5%AE%87-%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%8F%98%E8%BF%81-bafyreia5gi7mbs4mpwfctx4im35blicmujgtraxn7vey47onewobpfqjeq
+tags/VGFnOjIzMTY2
 @9thkingdom/%E7%B9%AA%E7%95%AB-%E5%8D%81%E8%89%B2%E7%AD%86%E8%87%A8%E6%91%B9%E6%97%A5%E5%BC%8F%E7%B9%AA%E7%95%AB-%E4%B8%89-bafyreidt3rfns7k2mdibdhdjvbek6ct2gu6b2bpkedkixcce3pa6xl3nyq
 @ettachan/kaws-holiday-%E8%97%9D%E8%A1%93%E4%B8%8D%E6%98%AF%E9%A4%B5%E4%BD%A0%E5%90%83%E4%BB%80%E9%BA%BC%E5%B0%B1%E4%BB%80%E9%BA%BC-bafyreicspmhsjf7ptctod2ur5tznlb4yz3ik2lpnvhztu7fhpidtjkf2oi
 @ettachan/%E6%95%A3%E6%AD%A5%E6%8B%BC%E8%B2%BC-bafyreibv2innnqkohnma5xmqvjc53wy5m4krehf427zba5yn3lh4lvh2s4
@@ -437,7 +491,9 @@ https://gonghao51.github.io/ 252
 @hi176/%E9%A6%AC%E7%89%B9%E5%B8%82%E9%80%99%E4%BA%9B%E7%89%B9%E5%88%A5%E7%9A%84%E8%A1%97%E5%8D%80-%E9%82%80%E8%AB%8B%E4%BD%A0%E4%BE%86%E9%80%9B%E9%80%9B-bafyreiabzqj44zxnfzfaigmnzr2pcm3sxksfzbj5nxlornflghcbjgnfva
 @readingbugs/%E6%88%91%E7%9A%84%E9%96%B1%E8%AE%80%E6%8E%92%E7%B5%8402-%E5%A4%A7%E4%BA%BA%E5%B0%8F%E5%AD%A9%E9%83%BD%E5%96%9C%E6%AD%A1%E7%9A%84%E9%81%8A%E6%88%B2%E6%9B%B8-bafyreigenqcabg5eij62kwfvu4xiwlx3uoul6ekteiku4yqmoknjwifm3u
 @Valorart333/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8matter-day-1-bafyreig6c7vvvmz3kqhgsz7o35fzzcfjdfkdggpczihlxacwjlnmyq66yy
-https://matters.news 33
+@1ampa55ag3/guidance-%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BD%A0%E7%9A%84matters%E4%B9%8B%E6%97%85%E6%9B%B4%E4%BE%BF%E6%8D%B7-bafyreiayiuxi4qc2a7qpgjp3fe42wmaoppqykckcvtq4hiukl5pgs3dn2m
+me/notifications
+https://matters.news 41
 
 https://medium.com/dfrlab/covid-19-news-in-russian-as-seen-through-youtube-search-results-b77952c4aff3
 https://medium.com/dfrlab/belarus-throttles-internet-cracks-down-on-protesters-as-lukashenko-proclaims-election-victory-38272ba0b5a0
@@ -448,44 +504,61 @@ https://medium.com/dfrlab/facebook-takes-down-inauthentic-pro-trump-romanian-net
 https://medium.com/dfrlab/spanish-language-covid-fact-checking-spun-for-political-purposes-fc3a69a13071
 https://medium.com/dfrlab/ 7
 
-https://opinion.cw.com.tw/blog/profile/506/article/9791
-https://opinion.cw.com.tw/blog/profile/441/article/9756
-https://opinion.cw.com.tw/blog/profile/505/article/9755
-https://opinion.cw.com.tw/blog/profile/52/article/9745
-https://opinion.cw.com.tw/blog/profile/52/article/9752
-https://opinion.cw.com.tw/blog/profile/456/article/9805
-https://opinion.cw.com.tw/blog/profile/194/article/9804
-https://opinion.cw.com.tw/blog/profile/466/article/9800
-https://opinion.cw.com.tw/blog/profile/52/article/9799
-https://opinion.cw.com.tw/blog/profile/52/article/9798
-https://opinion.cw.com.tw/blog/profile/52/article/9797
-https://opinion.cw.com.tw/blog/profile/507/article/9796
-https://opinion.cw.com.tw/blog/profile/51/article/9795
-https://opinion.cw.com.tw/blog/profile/351/article/9794
-https://opinion.cw.com.tw/blog/profile/495/article/9764
-https://opinion.cw.com.tw/blog/profile/501/article/9771
-https://opinion.cw.com.tw/blog/profile/57/article/9793
-https://opinion.cw.com.tw/blog/profile/57/article/9766
-https://opinion.cw.com.tw/ 18
+https://opinion.cw.com.tw/sub-channel/1
+https://opinion.cw.com.tw/sub-channel/2
+https://opinion.cw.com.tw/sub-channel/3
+https://opinion.cw.com.tw/sub-channel/4
+https://opinion.cw.com.tw/sub-channel/5
+https://opinion.cw.com.tw/sub-channel/6
+https://opinion.cw.com.tw/sub-channel/7
+https://opinion.cw.com.tw/sub-channel/8
+https://opinion.cw.com.tw/sub-channel/9
+https://opinion.cw.com.tw/sub-channel/10
+https://opinion.cw.com.tw/sub-channel/11
+https://opinion.cw.com.tw/sub-channel/12
+https://opinion.cw.com.tw/sub-channel/13
+https://opinion.cw.com.tw/sub-channel/14
+https://opinion.cw.com.tw/sub-channel/15
+https://opinion.cw.com.tw/sub-channel/16
+https://opinion.cw.com.tw/sub-channel/17
+https://opinion.cw.com.tw/sub-channel/18
+https://opinion.cw.com.tw/sub-channel/19
+https://opinion.cw.com.tw/sub-channel/20
+https://opinion.cw.com.tw/sub-channel/21
+https://opinion.cw.com.tw/sub-channel/22
+https://opinion.cw.com.tw/sub-channel/23
+https://opinion.cw.com.tw/sub-channel/24
+https://opinion.cw.com.tw/sub-channel/25
+https://opinion.cw.com.tw/sub-channel/26
+https://opinion.cw.com.tw/sub-channel/27
+https://opinion.cw.com.tw/sub-channel/28
+https://opinion.cw.com.tw/ 28
 
-https://opinion.udn.com/opinion/story/120732/4724656
-https://opinion.udn.com/opinion/story/120732/4703578
-https://opinion.udn.com/opinion/story/120732/4640970
-https://opinion.udn.com/opinion/story/120732/4594017
-https://opinion.udn.com/opinion/story/120732/4561290
-https://opinion.udn.com/opinion/story/120732/4548479
-https://opinion.udn.com/opinion/story/120732/4526709
-https://opinion.udn.com/opinion/story/120732/4495656
-https://opinion.udn.com/opinion/story/120732/4454085
-https://opinion.udn.com/opinion/story/120732/4449452
-https://opinion.udn.com/opinion/story/120732/4449439
-https://opinion.udn.com/opinion/story/120732/4449408
-https://opinion.udn.com/opinion/story/120732/4219088
-https://opinion.udn.com/opinion/story/120732/4219076
-https://opinion.udn.com/opinion/story/120732/4125040
-https://opinion.udn.com/opinion/story/120732/4052701
-https://opinion.udn.com/opinion/story/120732/4052436
-https://opinion.udn.com/author/articles/1008/3043 17
+udn.com/weather/
+udn.com/mypage/slist
+mobile.udn.com/web/app.html
+opinion/page/17
+opinion/tag/鳴人放送
+opinion/tag/時事觀察
+opinion/tag/法律評論
+opinion/tag/軍事評論
+opinion/tag/鳴人選書
+opinion/tag/影評
+author/lists/1008
+opinion/tag/%E6%99%82%E4%BA%8B%E8%A7%80%E5%AF%9F
+opinion/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9
+opinion/tag/%E6%80%A7%E8%A7%A3%E6%94%BE
+opinion/tag/V%E5%A4%AA%E5%A4%AA
+opinion/tag/%E6%AD%A7%E8%A6%96
+opinion/tag/%E6%80%A7%E5%88%A5%E5%B9%B3%E6%AC%8A
+opinion/tag/%E5%A9%9A%E5%A7%BB%E5%B9%B3%E6%AC%8A
+opinion/tag/%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E
+opinion/tag/%E8%94%A1%E8%8B%B1%E6%96%87
+opinion/tag/%E6%84%9B%E6%BB%8B%E7%97%85
+opinion/tag/%E4%BB%87%E5%A5%B3
+opinion/tag/%E5%BD%B1%E8%A9%95
+opinion/tag/%E5%A5%A7%E6%96%AF%E5%8D%A1
+https://opinion.udn.com/author/articles/1008/3043 24
 
 home/2020/7/29/empathy-vs-apathy
 home/2020/8/4/perspective-of-a-mixed-race-person
@@ -502,6 +575,12 @@ home/2020/7/22/who-was-to-blame
 home/2020/7/10/my-journey-to-self-acceptance
 https://shityoushouldcareabout.com/ 13
 
+https://squatting2047.com/newsletter/
+https://squatting2047.com/%e5%9c%8b%e9%9a%9b%e8%a6%96%e9%87%8e/
+https://squatting2047.com/%e5%b0%88%e9%a1%8c/
+https://squatting2047.com/%e6%96%87%e5%8c%96/
+https://squatting2047.com/%e6%99%82%e4%ba%8b/
+https://squatting2047.com/%e9%97%9c%e6%96%bc%e6%88%91%e5%80%91/
 https://squatting2047.com/%e3%80%90%e8%b9%b2%e9%bb%9e%e7%9f%ad%e8%a9%95%e3%80%91%e5%8e%9f%e5%ad%90%e5%8c%96%e7%a4%be%e6%9c%83%e9%80%a0%e6%88%90%e7%9a%84%e5%95%8f%e9%a1%8c%ef%bc%8c%e4%b8%8d%e8%83%bd%e7%94%a9%e9%8d%8b%e3%80%8c/
 https://squatting2047.com/%e9%a6%99%e6%b8%af%e2%94%80%e2%94%80%e7%99%bd%e8%89%b2%e6%81%90%e6%80%96%e6%96%b0%e6%99%82%e4%bb%a3/
 https://squatting2047.com/%e3%80%8c%e9%9d%9e%e6%96%b0%e8%81%9e%e3%80%8d%e5%89%b5%e8%be%a6%e4%ba%ba%e5%87%ba%e7%8d%84%ef%bc%9a%e8%a8%98%e9%8c%84%e4%b8%ad%e5%9c%8b%e5%ba%95%e5%b1%a4%e6%8a%97%e7%88%ad%ef%bc%8c%e6%8a%b5%e6%8a%97/
@@ -512,7 +591,7 @@ https://squatting2047.com/%e3%80%90%e8%b9%b2%e9%bb%9e%e7%9f%ad%e8%a9%95%e3%80%91
 https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e8%a8%aa%e6%bd%98%e6%af%85%ef%bc%88%e4%b8%8a%e7%af%87%ef%bc%89%ef%bc%9a%e3%80%8c/
 https://squatting2047.com/%e5%a7%bf%e6%85%8b%e5%95%8f%e9%a1%8c/
 https://squatting2047.com/%e3%80%90%e5%af%8c%e5%a3%ab%e5%ba%b7%e9%80%a3%e7%92%b0%e8%b7%b3%e5%8d%81%e9%80%b1%e5%b9%b4%e5%b0%88%e9%a1%8c%e3%80%91%e5%ad%b8%e7%94%9f%ef%bc%8d%e5%a5%b3%e5%b7%a5%ef%bc%8d%e6%af%8d%e8%a6%aa%ef%bc%9a/
-https://squatting2047.com 10
+https://squatting2047.com 16
 
 https://thesocietypages.org/socimages/2007/07/21/instructions-for-guest-bloggers/
 https://thesocietypages.org/socimages/2020/06/04/conflict-brings-us-together/
@@ -556,9 +635,15 @@ https://vocus.cc/5a12023feceaed97b40204c9/home 31
 
 posts/70fe22df-0155-44be-9021-80a12b4922e0
 posts/c3c3639e-9403-42c8-ac56-d07dd5c57658
+posts/19d35df6-e8d5-49dd-b56f-458c8191aa0f
+posts/73771d18-269f-47a2-b3ae-9418ba535df4
+posts/adcb894f-f6dc-4de7-80d9-4110279eb962
+posts/fabdcfd3-d718-4ee3-bc31-d02e8addc7b7
+posts/ba307e3c-1b45-4bb5-bd2a-fa85bb9fe696
+posts/3978d736-503f-4aa0-a7ee-0a89f5a4e826
 posts/a47ae4b7-90df-4058-bda1-d278b8618874
 posts/0f663703-9185-471f-a902-6c0d0af67a9d
-https://wemp.app/accounts/12c2c49c-305d-4de3-85c8-00d372e7a47a 4
+https://wemp.app/accounts/12c2c49c-305d-4de3-85c8-00d372e7a47a 10
 
 https://whogovernstw.org/2020/08/11/tsunghsinlee1/
 https://whogovernstw.org/2020/08/10/wwcy3/
@@ -596,7 +681,12 @@ https://www.bbc.co.uk/sport/53593465
 https://www.bbc.co.uk/news/world-53757747
 https://www.bbc.co.uk/news/world-us-canada-53761744
 https://www.bbc.co.uk/news/uk-53760283
-https://www.bbc.co.uk 24
+https://www.bbc.co.uk/accessibility/
+https://www.bbc.co.uk/news/localnews
+https://www.bbc.co.uk/news/coronavirus
+https://www.bbc.co.uk/news/uk
+https://www.bbc.co.uk/contact/complaints
+https://www.bbc.co.uk 29
 
 https://www.douban.com/photos/album/1871519996/
 https://www.douban.com/photos/album/154720548/
@@ -646,98 +736,6 @@ https://www.feministcurrent.com/2020/03/22/what-if-your-identity-doesnt-matter-a
 https://www.feministcurrent.com/2020/05/17/terf-the-female-obsessed-cult-that-took-me-to-the-pub-and-also-fed-me-dinner/
 https://www.feministcurrent.com/ 14
 
-channel_26916
-list_26912
-list_26913
-list_26965
-list_26908
-list_27260
-list_26907
-list_33168
-list_26911
-list_26918
-list_26906
-list_26909
-list_26910
-list_26914
-list_82188
-list_89035
-list_92278
-channel_25950
-list_25462
-list_25488
-list_97924
-list_25489
-list_25490
-list_25423
-list_25426
-list_25424
-list_25463
-list_25491
-list_25428
-list_68750
-list_27604
-list_25464
-list_25425
-list_25429
-list_25481
-list_25430
-list_25678
-list_25427
-list_25422
-list_25487
-list_25634
-list_25635
-list_25600
-list_90069
-channel_25951
-list_25434
-list_25436
-list_25433
-list_25438
-list_25435
-list_25437
-list_27234
-list_25485
-list_25432
-list_37978
-channel_36079
-channel_27392
-channel_77286
-channel_25952
-list_25444
-list_27224
-list_26525
-list_26878
-list_25483
-list_25457
-list_25574
-list_25455
-list_26937
-list_25450
-list_25482
-list_25445
-list_25456
-list_26915
-list_25446
-list_25536
-list_26506
-list_97313
-channel_25953
-list_25448
-list_26609
-list_25942
-list_26015
-list_25599
-list_25842
-list_80623
-list_26862
-list_25769
-list_25990
-list_26173
-list_26202
-list_26404
-list_26490
 newsDetail_forward_7016863
 newsDetail_forward_8446628
 newsDetail_forward_8438699
@@ -759,69 +757,31 @@ newsDetail_forward_8343874
 newsDetail_forward_8343875
 newsDetail_forward_8315021
 newsDetail_forward_8279338
-asktopic_detail_10018828
-asktopic_detail_10018787
-asktopic_detail_10018245
-asktopic_detail_10018217
-asktopic_detail_10018240
-asktopic_detail_10019027
-asktopic_detail_10019051
-https://www.thepaper.cn/list_25483 120
+https://www.thepaper.cn/list_25483 21
 
-content/8280
-author/7383
-content/8279
-author/6483
-content/8278
-author/2413
-content/8277
-author/2899
-content/8276
-author/8275
-content/8274
-author/6655
-content/8272
-content/8271
-content/8270
-author/2361
-content/8269
-author/6790
-https://www.thinkingtaiwan.com 18
+https://www.thinkingtaiwan.com/content/8280
+https://www.thinkingtaiwan.com/content/8279
+https://www.thinkingtaiwan.com/content/8278
+https://www.thinkingtaiwan.com/content/8277
+https://www.thinkingtaiwan.com/content/8276
+https://www.thinkingtaiwan.com/content/8274
+https://www.thinkingtaiwan.com/content/8272
+https://www.thinkingtaiwan.com/content/8271
+https://www.thinkingtaiwan.com/content/8270
+https://www.thinkingtaiwan.com/content/8269
+https://www.thinkingtaiwan.com 10
 
-categories/reviews
-categories/infographic
 a/sanyeong-factory-thai-migrant-worker-occupational-accidents-suicide
-tag/575fc9a3e2a07b1000e8852c
-tag/576e390f406be01000c6908f
-tag/577e491cc142b41000aca370
-tag/5783582ec380321000c0fbeb
-tag/57ee39e961fdfb0f009f87a9
-tag/5a17a47a09e8eb7a03e314c1
 a/asia-pacific-transnational-drug-trafficking-chain-interview-addict-ordinary-people-3
-tag/576255c1d55348100006137a
-tag/57c54099b37bda0f00bab541
-tag/58db34a30f56b40d001ae6a6
 a/asia-pacific-transnational-drug-trafficking-chain-interview-addict-ordinary-people-4
 a/asia-pacific-transnational-drug-trafficking-chain-interview-addict-ordinary-people-2
 a/asia-pacific-transnational-drug-trafficking-chain-interview-addict-ordinary-people-1
 a/asia-pacific-transnational-drug-trafficking-chain-police-performance-system
-tag/5768ed19406be01000c69077
-tag/57aeecb23d6c63120076afb1
 a/asia-pacific-transnational-drug-trafficking-chain-taiwan-anti-drug-2-0
-tag/57c54293b37bda0f00bab542
-tag/5cf8d5ff1bd1d91800ec3ff5
 a/asia-pacific-transnational-drug-trafficking-chain-youth-traticker
-tag/5ab9f7af8d9ce917004051ee
-tag/5af39ace7d35fc1b00232080
 a/saturday-features-legal-profession-drama-kingdom
-tag/577e2c28c142b41000aca36b
-tag/57b0513e9a7a9f11001012f7
-tag/5d92fc1a35544318001f9277
 a/hong-kong-extradition-law-anniversary-protests-escape-to-taiwan-adam
-tag/5768b96f406be01000c69060
-tag/57a06b7ccf2e131000f9ee61
-tag/5d01a30e1bd1d91800ec403c
-https://www.twreporter.org/categories/human_rights_and_society 33
+https://www.twreporter.org/categories/human_rights_and_society 10
 
 zhuanlan.zhihu.com/p/176968463
 zhuanlan.zhihu.com/p/169407034
@@ -876,8 +836,14 @@ zhongwen/simp/world-53754945
 zhongwen/simp/chinese-news-53676692
 zhongwen/simp/world-53648979
 zhongwen/simp/chinese-news-53723266
+zhongwen/simp/world
+zhongwen/simp/chinese_news
+zhongwen/simp/uk
+zhongwen/simp/indepth
+zhongwen/simp/science
+zhongwen/simp/business
 zhongwen/simp/chinese-news-53677141
 zhongwen/simp/world-53578241
 zhongwen/simp/business-51132474
-https://www.bbc.com/zhongwen/simp 52
+https://www.bbc.com/zhongwen/simp 58
 
