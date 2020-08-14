@@ -8,3 +8,11 @@ feministcurrent:
 wemp.app:
   must_contain_parts:
     - posts
+ed.ted.com:
+  must_contain_parts:
+    - lessons
+gonghao51:
+  not_contain:
+    - guaishi
+medium:
+  signature: true

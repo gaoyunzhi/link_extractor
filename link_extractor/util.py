@@ -27,3 +27,6 @@ def containNumber(link):
 		except:
 			...
 	return False
+
+def hasSignature(link):
+	return link[-13:][:1] == '-'
