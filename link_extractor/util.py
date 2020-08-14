@@ -8,25 +8,22 @@ def isYear(part):
 		...
 	return False
 
-def hasYear(parts):
-	for part in parts:
+def containYear(link):
+	for part in link.split('/'):
 		if isYear(part):
 			return True
 	return False
 
-def _hasNumber(part):
-	if not part:
-		return False
-	part = part.split('-')[-1]
-	try:
-		int(part)
-		return True
-	except:
-		...
-	return False
+def getDetails(link):
+	for char in '/.-_':
+		link = link.replace(char, ' ')
+	return link.split()
 
-def hasNumber(parts):
-	for part in parts:
-		if _hasNumber(part):
-			return True
+def containNumber(link):
+	for part in getDetails(link):
+		try:
+			if int(part) > 1000:
+				return True
+		except:
+			...
 	return False

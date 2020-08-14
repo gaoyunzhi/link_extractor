@@ -1,4 +1,8 @@
+from telegram_util import matchKey
+
 def getDoubanId(link):
+	if not matchKey(link, ['note', 'group/topic', 'status', 'album']):
+		return
 	parts = link.split('/')
 	for part in parts[:-1]:
 		try:
@@ -15,9 +19,8 @@ def countLike(link, soup):
 			result += int(item.get('data-count', 0))
 	return result
 
-def sortDouban(items, soup):
-	counted_items = []
-	for link, _ in items:
-		counted_items.append((countLike(link, soup), link))
+def sortDouban(links, soup):
+	counted_items = [(countLike(link, soup), link) for link in links
+		if getDoubanId(link)]
 	counted_items.sort(reverse = True)
 	return [(item[1], item[0]) for item in counted_items]
