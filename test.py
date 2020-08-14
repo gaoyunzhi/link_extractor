@@ -15,9 +15,8 @@ def test():
 			# with open(fn, 'a') as f:
 			# 	f.write(name + ' ' + link + '\n')
 			print(name, link)
-		# 	...
-		# with open(fn, 'a') as f:
-		# 	f.write(str(len(links)) + '\n')
+		with open(fn, 'a') as f:
+			f.write(str(len(links)) + '\n')
 		print(site, len(links))
 	
 if __name__=='__main__':

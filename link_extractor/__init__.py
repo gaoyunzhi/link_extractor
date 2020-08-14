@@ -89,7 +89,7 @@ def formatLink(link, domain):
 		link = domain.rstrip('/') + '/' + link.lstrip('/')
 	for char in '#?':
 		link = link.split(char)[0]
-	return link
+	return link.strip()
 
 def getLink(item, site):
 	if not item.attrs or 'href' not in item.attrs:
