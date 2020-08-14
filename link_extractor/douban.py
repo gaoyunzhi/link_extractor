@@ -19,8 +19,9 @@ def countLike(link, soup):
 			result += int(item.get('data-count', 0))
 	return result
 
-def sortDouban(links, soup):
+def getDoubanLinks(site, links, soup):
 	counted_items = [(countLike(link, soup), link) for link in links
 		if getDoubanId(link)]
-	counted_items.sort(reverse = True)
-	return [(item[1], item[0]) for item in counted_items]
+	if '/explore' in site:
+		return [item[1] for item in counted_items if item[0] > 120]
+	return [item[1] for item in counted_items]

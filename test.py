@@ -14,10 +14,10 @@ def test():
 		f.write('')
 	for site in tests:
 		links = link_extractor.getLinks(site)
-		for link, name in links:
+		for link in links:
 			with open(fn, 'a') as f:
-				f.write(str(name) + ' ' + link + '\n')
-			print(name, link)
+				f.write(link + '\n')
+			print(link)
 		with open(fn, 'a') as f:
 			f.write(site + ' ' + str(len(links)) + '\n\n')
 		print(site, len(links))

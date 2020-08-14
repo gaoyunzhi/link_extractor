@@ -8,7 +8,7 @@ from .domain import getDomain, hasPrefix
 from .name import getName
 from .util import containYear, containNumber, getDetails
 from .get_soup import getSoup
-from .douban import sortDouban
+from .douban import getDoubanLinks
 from .vocus import getVocusLinks
 from .ted import sortTed
 from collections import OrderedDict
@@ -173,11 +173,10 @@ def getLinks(site):
 	# dedup, keep order
 	links = [link for link in OrderedDict.fromkeys(links) if link]
 	if '.douban.' in site:
-		return sortDouban(links, soup)
+		return getDoubanLinks(site, links, soup)
 	Prefered_sig = getPreferedSig(links, site)
 	links = [link for link in links if sigMatch(Prefered_sig, getSig(link))]
-	return [(link, '') for link in links]
-
+	return links
 	# if 'douban.' in domain and (set(['channel', 'doulist', 'location', 'group', 'event']) & parts):
 	# 	return
 
