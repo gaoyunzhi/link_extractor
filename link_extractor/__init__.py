@@ -46,7 +46,8 @@ def formatRawLink(link, domain):
 			not_contain = sub_config.get('not_contain')
 			if not_contain and matchKey(link, not_contain):
 				return
-			if sub_config.get('signature') and not hasSignature(link):
+			sig_len = sub_config.get('sig_len')
+			if sig_len and not hasSignature(link, sig_len):
 				return
 			must_contain = sub_config.get('must_contain')
 			if must_contain and must_contain not in link:
@@ -57,10 +58,10 @@ def getSig(link):
 	parts = link.split('/')
 	sig = [len(parts), 'http' in link, containYear(link)]
 	if sig[2]:
-		return tuple([1] + sig)
+		return tuple([0] + sig)
 	if (sig[1] and sig[0] > 4) or sig[0] > 1:
-		return tuple([3] + sig)
-	return tuple([4] + sig)
+		return tuple([1] + sig)
+	return tuple([2] + sig)
 
 def getPreferedSig(links, site):
 	dic = {}
@@ -72,7 +73,7 @@ def getPreferedSig(links, site):
 			dic[sig] = [link]
 	bucket = [(len(dic[sig]), sig) for sig in dic]
 	bucket.sort(reverse=True)
-	for target in range(4):
+	for target in range(2):
 		for size, sig in bucket:
 			if sig[0] == target and size > 2:
 				return sig
@@ -83,17 +84,26 @@ def getPreferedSig(links, site):
 def sigMatch(sigModel, sig):
 	return sigModel[:3] == sig[:3] and ((not sigModel[3]) or sig[3])
 
+def populateDomain(link, site):
+	if 'http' in link:
+		return link
+	if link.startswith('zhuanlan.zhihu.com'):
+		return 'https://' + link
+	return '/'.join(site.split('/')[:3] + [link])
+
 def getLinks(site):
 	if 'vocus.cc' in site:
 		return getVocusLinks(site)
 	soup = getSoup(site)
 	links = list(yieldLinks(soup))
-	domain = site.split('/')[2]
-	links = [formatRawLink(link, domain) for link in links]
+	links = [formatRawLink(link, site.split('/')[2]) for link in links]
 	# dedup, keep order
 	links = [link for link in OrderedDict.fromkeys(links) if link]
 	if '.douban.' in site:
 		return getDoubanLinks(site, links, soup)
 	prefered_sig = getPreferedSig(links, site)
-	links = [link for link in links if sigMatch(prefered_sig, getSig(link))]
+	links = [populateDomain(link, site) for 
+		link in links if sigMatch(prefered_sig, getSig(link))]
+	if 'cn.nytimes.com/opinion' in site:
+		return links[:3]
 	return links

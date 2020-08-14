@@ -12,10 +12,15 @@ gonghao51:
   not_contain:
     - guaishi
 medium:
-  signature: true
+  sig_len: 
+    - 13
 thepaper:
   must_contain: newsDetail_forward
 thinkingtaiwan:
   must_contain_part: content
 twreporter:
   must_contain_part: a
+matters:
+  sig_len: 
+    - 60
+    - 50

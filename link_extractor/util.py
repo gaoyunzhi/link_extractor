@@ -14,5 +14,8 @@ def containYear(link):
 			return True
 	return False
 
-def hasSignature(link):
-	return link[-13:][:1] == '-'
+def hasSignature(link, sig_len):
+	for length in sig_len:
+		if link[-length:][:1] == '-':
+			return True
+	return False
