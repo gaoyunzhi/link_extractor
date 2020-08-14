@@ -114,8 +114,6 @@ def format(items, site):
 def getLinks(site):
 	if 'vocus.cc' in site:
 		return getVocusLinks(site)
-	if 'realfeministphilosophers.blogspot' in site:
-		return list(getFromBlogspot(site))
 	soup = getSoup(site)
 	items = genItems(soup)
 	items = [x for x in items if validSoup(x)]
