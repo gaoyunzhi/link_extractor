@@ -5,13 +5,17 @@ name = 'link_extractor'
 
 from telegram_util import matchKey
 from .domain import getDomain, hasPrefix
-from .name import getName
 from .util import containYear, containNumber, getDetails
 from .get_soup import getSoup
 from .douban import getDoubanLinks
 from .vocus import getVocusLinks
 from .ted import sortTed
 from collections import OrderedDict
+import pkg_resources
+import yaml
+
+config = pkg_resources.resource_string(__name__, 'config.yaml')
+config = yaml.load(config, Loader=yaml.FullLoader)
 
 def validSoup(item):
 	if 'newsDetail_forward' in str(item): # the paper filters
@@ -90,9 +94,6 @@ def formatLink(link, domain):
 		link = link.split(char)[0]
 	return link.strip()
 
-with open('config.yaml') as f:
-	config = yaml.load(f, Loader=yaml.FullLoader)
-
 def formatRawLink(link, domain):
 	if not link:
 		return
@@ -102,7 +103,7 @@ def formatRawLink(link, domain):
 	for char in '#?':
 		link = link.split(char)[0]
 	parts = set(link.split('/'))
-	for key, sub_config in sites:
+	for key, sub_config in config.items():
 		if key in domain:
 			must_contain_parts = sub_config.get('must_contain_parts')
 			if must_contain_parts and not (set(must_contain_parts) & parts):
