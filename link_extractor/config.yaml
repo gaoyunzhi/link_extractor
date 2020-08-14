@@ -1,0 +1,10 @@
+.zhihu.:
+  must_contain_parts:
+    - p
+feministcurrent:
+  not_contain:
+    - podcast
+    - whats-current
+wemp.app:
+  must_contain_parts:
+    - posts

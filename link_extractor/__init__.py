@@ -90,6 +90,9 @@ def formatLink(link, domain):
 		link = link.split(char)[0]
 	return link.strip()
 
+with open('config.yaml') as f:
+	config = yaml.load(f, Loader=yaml.FullLoader)
+
 def formatRawLink(link, domain):
 	if not link:
 		return
@@ -99,10 +102,14 @@ def formatRawLink(link, domain):
 	for char in '#?':
 		link = link.split(char)[0]
 	parts = set(link.split('/'))
-	if '.zhihu.' in domain and (not set(['p']) & parts):
-		return 
-	if 'feministcurrent' in domain and matchKey(link, ['podcast', 'whats-current']):
-		return
+	for key, sub_config in sites:
+		if key in domain:
+			must_contain_parts = sub_config.get('must_contain_parts')
+			if must_contain_parts and not (set(must_contain_parts) & parts):
+				return
+			not_contain = sub_config.get('not_contain')
+			if not_contain and matchKey(link, not_contain):
+				return
 	return link
 
 def getLink(item, site):
