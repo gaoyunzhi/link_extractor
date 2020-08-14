@@ -4,7 +4,7 @@
 import link_extractor
 import os
 
-with open('example_sites_1.txt') as f:
+with open('example_sites.txt') as f:
 	tests = [x for x in f.readlines() if x]
 	tests = [x.strip() for x in tests if x.strip()]
 

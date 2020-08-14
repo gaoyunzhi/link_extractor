@@ -32,32 +32,32 @@ def yieldLinks(soup):
 def formatRawLink(link, domain):
 	if not link:
 		return
-	if domain not in link and 'http' in link:
-		return
 	link = link.strip().lstrip('/')
 	for char in '#?':
 		link = link.split(char)[0]
+	if domain not in link and 'http' in link:
+		return
 	parts = set(link.split('/'))
 	for key, sub_config in config.items():
 		if key in domain:
-			must_contain_parts = sub_config.get('must_contain_parts')
-			if must_contain_parts and not (set(must_contain_parts) & parts):
+			must_contain_part = sub_config.get('must_contain_part')
+			if must_contain_part and must_contain_part not in parts:
 				return
 			not_contain = sub_config.get('not_contain')
 			if not_contain and matchKey(link, not_contain):
 				return
 			if sub_config.get('signature') and not hasSignature(link):
 				return
+			must_contain = sub_config.get('not_contain')
+			if must_contain and must_contain not in link:
+				return
 	return link
 
 def getSig(link):
-	parts = set(link.split('/'))
+	parts = link.split('/')
 	details = set(getDetails(link))
 	sig = [len(parts), 'http' in link, 
 		containYear(link), containNumber(link)]
-	if (parts & set(['a', 'p', 'content']) or 
-			details & set(['newsDetail'])):
-		return tuple([0] + sig)
 	if sig[2]:
 		return tuple([1] + sig)
 	if sig[3]:
@@ -99,6 +99,6 @@ def getLinks(site):
 	links = [link for link in OrderedDict.fromkeys(links) if link]
 	if '.douban.' in site:
 		return getDoubanLinks(site, links, soup)
-	Prefered_sig = getPreferedSig(links, site)
-	links = [link for link in links if sigMatch(Prefered_sig, getSig(link))]
+	prefered_sig = getPreferedSig(links, site)
+	links = [link for link in links if sigMatch(prefered_sig, getSig(link))]
 	return links
