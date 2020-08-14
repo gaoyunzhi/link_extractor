@@ -5,7 +5,7 @@ import link_extractor
 import os
 
 tests = [
-	'https://www.zhihu.com/people/chi-se-xing-ling-zuo-yi/posts'
+	'http://cnpolitics.org/author/zhangyueran/'
 ]
 
 def test():
