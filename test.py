@@ -4,12 +4,12 @@
 import link_extractor
 import os
 
-with open('example_sites.txt') as f:
+with open('example_sites_1.txt') as f:
 	tests = [x for x in f.readlines() if x]
 	tests = [x.strip() for x in tests if x.strip()]
 
 def test():
-	fn = 'test_result_2.txt'
+	fn = 'result_3.txt'
 	with open(fn, 'w') as f:
 		f.write('')
 	for site in tests:
