@@ -30,6 +30,8 @@ def yieldLinks(soup):
 		yield item.get('href')
 
 def formatRawLink(link, domain):
+	if domain.startswith('cn.'):
+		domain = domain[3:]
 	if not link:
 		return
 	link = link.strip().lstrip('/')
