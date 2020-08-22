@@ -28,6 +28,8 @@ def yieldLinks(soup):
 		if 'newsDetail_forward' in str(item) and 'tiptitleImg' not in str(item):
 			continue
 		yield item.get('href')
+	for item in soup.find_all('div'):
+		yield item.get('data-link')
 
 def formatRawLink(link, domain):
 	if domain.startswith('cn.'):
