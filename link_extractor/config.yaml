@@ -20,6 +20,8 @@ thinkingtaiwan:
   must_contain_part: content
 twreporter:
   must_contain_part: a
+udn.com:
+  must_contain_part: story
 matters:
   sig_len: 
     - 60
