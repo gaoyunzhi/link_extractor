@@ -11,7 +11,7 @@ ed.ted.com:
 gonghao51:
   not_contain:
     - guaishi
-medium:
+/medium:
   sig_len: 
     - 13
 thepaper:
@@ -22,6 +22,8 @@ twreporter:
   must_contain_part: a
 udn.com:
   must_contain_part: story
+philomedium:
+  must_contain_part: blog
 matters:
   sig_len: 
     - 60
