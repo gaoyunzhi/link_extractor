@@ -11,9 +11,6 @@ ed.ted.com:
 gonghao51:
   not_contain:
     - guaishi
-/medium:
-  sig_len: 
-    - 13
 thepaper:
   must_contain: newsDetail_forward
 thinkingtaiwan:
