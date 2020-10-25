@@ -22,6 +22,8 @@ udn.com:
 philomedium:
   must_contain_part: blog
 matters:
+  not_contain:
+    - johngalt
   sig_len: 
     - 60
     - 50
