@@ -24,6 +24,7 @@ philomedium:
 matters:
   not_contain:
     - johngalt
+    - rein/
   sig_len: 
     - 60
     - 50
