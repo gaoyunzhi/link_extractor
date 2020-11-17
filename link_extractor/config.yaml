@@ -25,6 +25,7 @@ matters:
   not_contain:
     - johngalt
     - rein/
+    - lliinngg
   sig_len: 
     - 60
     - 50
