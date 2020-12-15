@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="link_extractor",
-    version="0.0.70",
+    version="0.0.71",
     author="Yunzhi Gao",
     author_email="gaoyunzhi@gmail.com",
     description="Extract Links from news source, ranked by importance.",
