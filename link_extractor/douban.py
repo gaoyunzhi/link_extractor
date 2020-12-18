@@ -20,7 +20,7 @@ def countLike(link, soup):
 	result = 0
 	for item in soup.find_all():
 		if item.attrs and douban_id in str(item.attrs):
-			result += int(item.get('data-count', 0))
+			result += int(item.get('data-count') or 0)
 	return result
 
 def getDoubanLinks(site, links, soup):
