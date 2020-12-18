@@ -110,4 +110,6 @@ def getLinks(site):
 		link in links if sigMatch(prefered_sig, getSig(link))]
 	if 'cn.nytimes.com/opinion' in site:
 		return links[:3]
+	if 'gonghao51' in site:
+		return links[:30] 
 	return links
