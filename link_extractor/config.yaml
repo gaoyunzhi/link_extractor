@@ -47,6 +47,8 @@ matters:
     - 50
 coollou:
   must_contain_part: node
+www.greenpeace.org/:
+  must_contain_part: update
 www.biede.com:
   not_contain:
     - name/

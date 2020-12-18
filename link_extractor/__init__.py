@@ -43,7 +43,7 @@ def formatRawLink(link, domain):
 		return
 	parts = set(link.split('/'))
 	for key, sub_config in config.items():
-		if key in domain:
+		if key in domain + '/':
 			must_contain_part = sub_config.get('must_contain_part')
 			if must_contain_part and must_contain_part not in parts:
 				return
