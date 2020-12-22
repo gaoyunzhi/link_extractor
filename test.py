@@ -9,7 +9,7 @@ with open('example_sites.txt') as f:
 	tests = [x.strip() for x in tests if x.strip()]
 
 def test():
-	fn = 'result_1.txt'
+	fn = 'result_2.txt'
 	with open(fn, 'w') as f:
 		f.write('')
 	for site in tests:
