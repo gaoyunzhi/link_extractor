@@ -31,7 +31,7 @@ def yieldLinks(soup):
 	for item in soup.find_all('div'):
 		yield item.get('data-link')
 
-def formatRawLink(link, domain):
+def formatRawLink(link, domain, site):
 	if domain.startswith('cn.'):
 		domain = domain[3:]
 	if not link:
@@ -43,7 +43,7 @@ def formatRawLink(link, domain):
 		return
 	parts = set(link.split('/'))
 	for key, sub_config in config.items():
-		if key in domain + '/':
+		if key in site:
 			must_contain_part = sub_config.get('must_contain_part')
 			if must_contain_part and must_contain_part not in parts:
 				return
@@ -100,7 +100,7 @@ def getLinks(site):
 		return getVocusLinks(site)
 	soup = getSoup(site)
 	links = list(yieldLinks(soup))
-	links = [formatRawLink(link, site.split('/')[2]) for link in links]
+	links = [formatRawLink(link, site.split('/')[2], site) for link in links]
 	# dedup, keep order
 	links = [link for link in OrderedDict.fromkeys(links) if link]
 	if '.douban.' in site:

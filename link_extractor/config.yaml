@@ -19,9 +19,9 @@ twreporter:
   must_contain_part: a
 udn.com:
   must_contain_part: story
-philomedium:
+philomedium.:
   must_contain_part: blog
-matters:
+matters.:
   not_contain:
     - johngalt
     - rein/
@@ -47,8 +47,12 @@ matters:
     - 50
 coollou:
   must_contain_part: node
-www.greenpeace.org/:
+www.greenpeace.org/taiwan:
   must_contain_part: update
+www.bbc.co.uk/learningenglish:
+  must_contain_part: features
+  sig_len: 
+    - 7
 www.biede.com:
   not_contain:
     - name/
