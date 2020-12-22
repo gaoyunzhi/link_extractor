@@ -23,7 +23,7 @@ philomedium.:
   must_contain_part: blog
 /medium.:
   sig_len: 
-    - 14
+    - 13
 matters.:
   not_contain:
     - johngalt
