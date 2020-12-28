@@ -60,3 +60,5 @@ www.biede.com:
   not_contain:
     - name/
     - tag/
+thenewslen:
+  must_contain_part: article
