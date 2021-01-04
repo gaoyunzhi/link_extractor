@@ -66,3 +66,6 @@ www.biede.com:
     - tag/
 thenewslen:
   must_contain_part: article
+serviceworkercn.com:
+  not_contain:
+    - bulletin
