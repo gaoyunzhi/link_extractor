@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import cached_url
+from telegram_util import matchKey
 
 offtopic_tags = ['nav', 'footer', 'aside', 'header']
 
@@ -11,6 +12,6 @@ def getSoup(site):
 		for item in soup.find_all(tag):
 			item.decompose()
 	for item in soup.find_all():
-		if item.attrs and 'footer' in str(item.attrs):
+		if item.attrs and matchKey(str(item.attrs), ['footer', 'bg-grey-lighter']):
 			item.decompose()
 	return soup
